@@ -1,9 +1,7 @@
 from __future__ import annotations
 
 import argparse
-import importlib
 import json
-import pickle
 import re
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -156,51 +154,6 @@ def get_known_movie_text(
             return read_text(resolve_saved_path(path, base_dir), max_chars=max_chars)
 
     raise ValueError(f"No linked synopsis text found for movie title: {movie_title}")
-
-
-def import_h5py_module():
-    try:
-        return importlib.import_module("h5py")
-    except ModuleNotFoundError as exc:
-        raise RuntimeError("h5py is required for .h5 artifacts. Install it with `pip install h5py`.") from exc
-
-
-def save_model_artifact(artifact: Dict[str, Any], model_path: Path) -> None:
-    suffix = model_path.suffix.lower()
-
-    if suffix == ".h5":
-        h5py = import_h5py_module()
-
-        payload = pickle.dumps(artifact, protocol=pickle.HIGHEST_PROTOCOL)
-        data = np.frombuffer(payload, dtype=np.uint8)
-        with h5py.File(model_path, "w") as handle:
-            handle.attrs["artifact_format"] = "movie_analyzer_pickle_v1"
-            handle.create_dataset("payload", data=data, compression="gzip", compression_opts=9)
-        return
-
-    if suffix == ".pt":
-        with model_path.open("wb") as handle:
-            pickle.dump(artifact, handle, protocol=pickle.HIGHEST_PROTOCOL)
-        return
-
-    joblib.dump(artifact, model_path)
-
-
-def load_model_artifact(model_path: Path) -> Dict[str, Any]:
-    suffix = model_path.suffix.lower()
-
-    if suffix == ".h5":
-        h5py = import_h5py_module()
-
-        with h5py.File(model_path, "r") as handle:
-            payload = handle["payload"][()].tobytes()
-        return pickle.loads(payload)
-
-    if suffix == ".pt":
-        with model_path.open("rb") as handle:
-            return pickle.load(handle)
-
-    return joblib.load(model_path)
 
 
 def merge_unique_lists(values: Iterable[List[str]]) -> List[str]:
@@ -484,7 +437,7 @@ def train_command(args: argparse.Namespace) -> None:
     model_path.parent.mkdir(parents=True, exist_ok=True)
     prepared_path.parent.mkdir(parents=True, exist_ok=True)
 
-    save_model_artifact(
+    joblib.dump(
         {
             "created_at": datetime.now(timezone.utc).isoformat(),
             "csv_path": str(csv_path),
@@ -548,7 +501,7 @@ def predict_command(args: argparse.Namespace) -> None:
     if not model_path.is_absolute():
         model_path = (base_dir / model_path).resolve()
 
-    artifact = load_model_artifact(model_path)
+    artifact = joblib.load(model_path)
     text = read_prediction_text(args, artifact)
 
     output = run_prediction(
@@ -584,7 +537,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     train_parser.add_argument(
         "--model-out",
-        default="models/movie_analyzer.h5",
+        default="models/movie_analyzer.joblib",
         help="Path to save trained artifact.",
     )
     train_parser.add_argument(
@@ -601,7 +554,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     predict_parser.add_argument(
         "--model",
-        default="models/movie_analyzer.h5",
+        default="models/movie_analyzer.joblib",
         help="Path to trained artifact.",
     )
     predict_parser.add_argument("--movie-title", default=None, help="Movie title for reporting/context.")

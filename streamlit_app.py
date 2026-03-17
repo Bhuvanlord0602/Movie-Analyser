@@ -1,15 +1,14 @@
 from __future__ import annotations
 
-import os
 from difflib import get_close_matches
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Tuple
 
+import joblib
 import plotly.graph_objects as go
-import requests
 import streamlit as st
 
-from movie_analyzer import get_known_movie_text, load_model_artifact, run_prediction
+from movie_analyzer import get_known_movie_text, run_prediction
 
 
 st.set_page_config(
@@ -19,12 +18,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-MODEL_PATH_CANDIDATES = [
-    Path("models/movie_analyzer.h5"),
-    Path("models/movie_analyzer.pt"),
-    Path("models/movie_analyzer.joblib"),
-]
-REMOTE_TIMEOUT_SECONDS = 30
+MODEL_PATH = Path("models/movie_analyzer.joblib")
 
 SENTIMENT_COLOR = {
     "positive": "#22c55e",
@@ -94,70 +88,25 @@ def rating_color(rating: float) -> str:
     return "#ef4444"
 
 
-def get_secret(name: str, default: str = "") -> str:
-    try:
-        value = st.secrets[name]
-        return str(value).strip()
-    except Exception:
-        return str(os.getenv(name, default)).strip()
-
-
 @st.cache_resource(show_spinner="Loading local model…")
 def load_local_artifact():
-    for model_path in MODEL_PATH_CANDIDATES:
-        if model_path.exists():
-            return {
-                "artifact": load_model_artifact(model_path),
-                "model_path": str(model_path),
-            }
-    return None
-
-
-@st.cache_data(ttl=300, show_spinner=False)
-def load_remote_titles(api_url: str, api_key: str) -> List[str]:
-    headers = build_api_headers(api_key)
-    response = requests.get(f"{api_url}/titles", headers=headers, timeout=15)
-    response.raise_for_status()
-    payload = response.json()
-    return payload.get("movies", [])
-
-
-def build_api_headers(api_key: str) -> Dict[str, str]:
-    headers = {"Content-Type": "application/json"}
-    if api_key:
-        headers["X-API-Key"] = api_key
-    return headers
+    if not MODEL_PATH.exists():
+        return None
+    return joblib.load(MODEL_PATH)
 
 
 def resolve_runtime() -> Dict[str, Any]:
-    api_url = get_secret("MODEL_API_URL")
-    api_key = get_secret("MODEL_API_KEY")
-
-    if api_url:
-        api_url = api_url.rstrip("/")
-        try:
-            titles = load_remote_titles(api_url, api_key)
-            return {
-                "mode": "remote",
-                "api_url": api_url,
-                "api_key": api_key,
-                "titles": titles,
-            }
-        except Exception as exc:
-            st.warning(f"Remote API unavailable, falling back to local model. Details: {exc}")
-
-    local_runtime = load_local_artifact()
-    if local_runtime is None:
+    artifact = load_local_artifact()
+    if artifact is None:
         return {
             "mode": "none",
-            "error": "No remote API is configured and no local model artifact was found.",
+            "error": "Local model artifact not found. Run `python movie_analyzer.py train --base-dir .` first.",
         }
 
     return {
         "mode": "local",
-        "artifact": local_runtime["artifact"],
-        "model_path": local_runtime["model_path"],
-        "titles": local_runtime["artifact"]["movies"],
+        "artifact": artifact,
+        "titles": artifact["movies"],
     }
 
 
@@ -182,29 +131,6 @@ def format_prediction_result(raw_result: Dict[str, Any]) -> Dict[str, Any]:
         "rating": float(raw_result["predicted_rating"]),
         "similar": raw_result["similar_movies"],
     }
-
-
-def call_remote_prediction(
-    api_url: str,
-    api_key: str,
-    movie_title: Optional[str],
-    text: Optional[str],
-) -> Dict[str, Any]:
-    payload = {
-        "movie_title": movie_title,
-        "text": text,
-        "genre_threshold": 0.35,
-        "top_k_genres": 6,
-        "similar_k": 5,
-    }
-    response = requests.post(
-        f"{api_url}/predict",
-        headers=build_api_headers(api_key),
-        json=payload,
-        timeout=REMOTE_TIMEOUT_SECONDS,
-    )
-    response.raise_for_status()
-    return response.json()
 
 
 def local_prediction(artifact: Dict[str, Any], movie_title: str, text: str) -> Dict[str, Any]:
@@ -421,7 +347,7 @@ def main() -> None:
         st.error(runtime["error"])
         st.stop()
 
-    mode_label = "Remote API mode" if runtime["mode"] == "remote" else "Local model mode"
+    mode_label = "Local model mode"
     st.markdown(f"<span class='mode-pill'>{mode_label}</span>", unsafe_allow_html=True)
 
     titles = runtime["titles"]
@@ -466,10 +392,7 @@ def main() -> None:
     synopsis_text = ""
     using_stored_text = False
 
-    if is_known_movie and runtime["mode"] == "remote":
-        using_stored_text = True
-        st.caption("Using the stored synopsis from the protected model API for this movie.")
-    elif is_known_movie and runtime["mode"] == "local":
+    if is_known_movie:
         try:
             synopsis_text = get_known_movie_text(
                 runtime["artifact"],
@@ -501,19 +424,11 @@ def main() -> None:
         return
 
     with st.spinner("Analyzing movie report…"):
-        if runtime["mode"] == "remote":
-            raw_result = call_remote_prediction(
-                runtime["api_url"],
-                runtime["api_key"],
-                canonical_title,
-                None if using_stored_text else synopsis_text,
-            )
-        else:
-            raw_result = local_prediction(
-                runtime["artifact"],
-                canonical_title,
-                synopsis_text,
-            )
+        raw_result = local_prediction(
+            runtime["artifact"],
+            canonical_title,
+            synopsis_text,
+        )
 
     render_report(format_prediction_result(raw_result))
 
