@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Trained model binaries (too large for git; regenerate with: python movie_analyzer.py train)
+models/
+
+# ZIP archive (already extracted)
+*.zip
+
+# OS / editor
+.DS_Store
+desktop.ini
+.vscode/

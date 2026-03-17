@@ -1,0 +1,5262 @@
+PACIFIC RIM
+by
+Travis BeachamPREFACE: LEXICON
+(A supplementary guide to pertinent terms and jargon...)
+• Anteverse. the older, parent universe on the other side of the
+Interstice
+• bruiser. (slang) Jaeger gunner
+• BTB. brain-to-brain interface (see P ONS or D RIFT )
+• conn-pod. the Jaeger's detachable cockpit module; sometimes
+called a Conn
+• COSDEC. Pacific Rim Combined Special Defense Corp
+• drift. (slang) a joint vision shared by Jaeger crew members
+while directly linked via the Pons; triggered by subconscious
+stimuli, a generally involuntary but seldom debilitating
+phenomenon
+• drivesuit. the Jaeger/pilot interface suit designed to monitor
+vital signs and to translate nerve signals to piloting input
+• ghost-drift. (slang) a kind of quasi-telepathic vision shared
+(by parties with a pre-existing Pons connection) without the
+aid of a hard neural interface; commonly triggered by stress,
+physical proximity, or coinciding REM sleep patterns
+• headspace. (slang) virtual space inside the O/S in which crew
+telepresences interact (see P ONS or D RIFT )
+• HUD. the Jaeger's perceptual heads-up-display; projected
+inside the subject's brain
+• The Interstice. the rift between our universe and the
+anteverse; in the mid-Pacific at a depth of about 5 miles
+• Jaeger. specialized threat response mech; piloted by a two-
+person crew via direct neural linkup
+• KJ. (slang) kaiju
+• Kodiak. main campus of the Cosdec Defence College• leftover. (slang) the surviving crewmate of a Jaeger operator
+who is KIA (exceedingly rare; in the majority of incidents,
+both crew members perish)
+• LOCCENT. short for Local Command Center, command and dispatch
+for local operations
+• Midway. highly classified research facility and surveillance
+station; HQ for COSDEC's ultra-secret Science Division
+• Osaka Exclusion Zone. formerly the city of Osaka; rendered
+uninhabitable from radiological and biological contaminants of
+first kaiju attack
+• Pons. the BTB server specifically designed to facilitate the
+direct neural interface required to operate the Jaeger
+• The Precursors. the unofficial Sci-Division code name for the
+hypothetical entities on the other side of the Interstice
+• Science Division/Sci-Division. an ultra-secret research arm of
+COSDEC (see M IDWAY )
+• Trespasser. reporting name for the first kaiju; known from the
+November 9th attack on Osaka
+• V-50 Jumphawk. the VTOL tiltrotor aircraft used for Jaeger
+deployment
+• wetport. direct neural interface prosthesis; an outlet behind
+the ear by which the Pons can port directly into the user's
+temporal lobeBLACKNESS.
+A deep, thunderous BOOM, like a mountain hitting the ground.
+A garbled radio VOICE laughs triumphantly.
+VOICE (FILTERED)
+Game on! That sonuvabitch is down!
+INT. CONN-POD ZUMA-1 -- DUSK
+We’re tight on a young man’s face -- his square jaw tense;
+his short, dirty blond hair damp with sweat; his eyes focused
+and urgent. He’s RALEIGH ANTROBUS (23), a rare sort of pilot.
+We don't see much. It feels dark, cramped, and busy. Perhaps
+a cockpit. We're dimly aware of Raleigh's view reflected on
+the glass visor of his helmet -- a flat, blue horizon.
+RALEIGH
+Stand by for confirmation...
+VOICE (FILTERED)
+Rals! We got him! Nothing gets up
+from a hit like that!
+Raleigh's tension starts to ease, but just as a smile of
+relief begins to creep across his lips, we see something move
+in the reflection on his helmet --
+A shape; distorted, out of focus, monstrous, vast... Alive.
+Chilling in its size and obscurity as it rises to darken the
+reflection. We hear a bone-shuddering ROAR.
+Raleigh's smile melts away. His game-face quickly takes hold.
+RALEIGH
+Look sharp, Yance! He’s getting up!
+INT. COUNSELOR’S OFFICE -- DAY
+Raleigh wakes on the couch (a year older). He unplugs a wire
+from a port behind his ear and quickly sits up.
+His COUNSELOR, a calm man in uniform, unplugs his own wire,
+disconnecting from the Pons brain-to-brain server.
+Raleigh perches anxiously on the edge of the couch. The
+Counselor gives him a second. Raleigh scratches the data port
+discreetly embedded in the flesh behind his ear lobe.
+RALEIGH
+I need to get this damn thing taken
+out. I’m not a driver any more.
+(CONTINUED)COUNSELOR
+I know you’ve had a rough go at it
+so far, but the port can actually
+be useful in therapy --
+RALEIGH
+Sharing headspace with my own
+brother was crowded enough. I don’t
+wanna make room for anyone else.
+COUNSELOR
+Alright. We can do it the old
+fashioned way. Talk it out...
+RALEIGH
+No. Listen. I don’t want to relive
+that day. Okay? I want to bury it.
+COUNSELOR
+But you can't avoid the triggers.
+This is the world we live in now.
+Raleigh stands up to leave. The Counselor catches him,
+putting a hand on his shoulder and confiding earnestly.
+COUNSELOR (CONT’D)
+This is a dagger in your heart,
+man. The deeper you bury it, the
+harder it hurts. You’ll feel it
+every time you hear about another
+attack and you won’t know why...
+RALEIGH
+I can tell you why -- because I’m
+helpless. And nothing you can say
+will ever change that...
+INT. LOBBY -- CONTINUOUS
+Raleigh passes the reception area on the way out. A handful
+of uniformed PERSONNEL are glued to the news on a wall-
+mounted tv. Raleigh stops. He can’t help himself.
+On the news, we see shots of toppled buildings, upturned
+cars, and splintered Japanese billboards. The label at the
+bottom of the screen tells us it’s Tokyo.
+CNN ANCHOR (FILTERED)
+-- the second attack in four
+months, up from last year --
+(beat)
+Just a moment...
+2.
+CONTINUED:
+(CONTINUED)In the chaotic rubble, we pull back from a "hill" that turns
+out to be the flank of some vast carcass, entrails spilled
+across the fractured streets like sagging hot air balloons.
+We see also the wreck of a heavily-armored, human-shaped mech
+-- a Jaeger. MEN drag the distraught GUNNER from the wreck, a
+young Asian girl in a form-fitting drivesuit (more later).
+CNN ANCHOR (FILTERED) (CONT’D)
+We're seeing the gunner now. And
+officials are confirming that
+tragically her crewmate, pilot Aki
+Seto, has died in the attack.
+Raleigh shakes himself from the grim news and promptly exits.
+EXT. SHINAGAWA -- NIGHT
+A cluster of tents amidst heaps of rubble. The wrecked Jaeger
+and kaiju carcass still looms in the background. Helicopters
+circle overhead, throwing light down on the mess.
+SUPER: Shinagawa Incident Zone -- Tokyo, Japan
+INT. MEDICAL TENT -- CONTINUOUS
+The improvised field hospital swarms with DOCTORS treating
+the CASUALTIES of the attack.
+The gunner from the news footage, MAKO MORI (22), sits
+catatonic, her arm in a sling. Her hair hugs her face in a
+helmet-like Chinese bob. She has firm and quiet bearing.
+A man in uniform spots her. STACKER PENTECOST, a black Briton
+with a face that is at all times the very picture of
+confident serenity. He tries to get her attention.
+(NOTE: Hereafter, italicized dialogue indicates "spoken
+Japanese with English subtitles.")
+PENTECOST
+Lieutenant Mori... Lieutenant...
+Lieutenant... Mako...
+Finally, she looks up.
+PENTECOST (CONT’D)
+They've cleared you to go.
+MAKO
+How's the Jaeger?
+PENTECOST
+The core's fried.
+He takes a seat beside her.
+3.
+CONTINUED:
+(CONTINUED)PENTECOST (CONT’D)
+Aki was a hero, Mako. He saved the
+city. He saved your life.
+She doesn't react.
+PENTECOST (CONT’D)
+You can go now. You know that,
+right? You don't have to stay.
+Slowly, she turns to him.
+MAKO
+Where can I go? My Jaeger is
+broken. My winger is gone. What am
+I now? Who am I?
+EXT. JAEGER-MEISTER’S BAR & GRILL -- NIGHT
+A dive bar fronting a small, gravel parking lot off a dark
+seaside highway -- an island of neon in the night.
+SUPER: Jaeger-Meister's Bar & Grill -- Port Hueneme,
+California
+FLICK (PRE-LAP)
+So does our source have a name?
+INT. COMPACT CAR -- CONTINUOUS
+The dive’s neon sign casts a lurid glow on the windshield.
+In the driver’s seat, FELICITY "FLICK" KINCAID. A clever girl
+in faded denim and paisley cotton, a canyon bohemian flavor.
+She tucks her rambunctious blonde curls behind her ear.
+A series of brief, cryptic emails, fanned out in the
+passenger seat. She speaks to her IT guy (JIM) through a
+bluetooth headset as she takes notes.
+JIM (FILTERED)
+I couldn’t crack the remailer, but
+I pinged the dropbox and got a hit.
+It’s a cpo.org server.
+FLICK
+CPO -- ?
+She scribbles notes, glancing up at the PATRONS leaving the
+bar, most in standard-issue jumpsuits from the nearby Jaeger
+base. She’s expecting someone.
+JIM (FILTERED)
+Calixto Particle Observatory. Peru.
+Just outside of Lima.
+4.
+CONTINUED:
+(CONTINUED)FLICK
+Yeah? What do they observe?
+JIM (FILTERED)
+Quarks, bosons, tachyons -- you
+know, stuff no one’s heard of.
+FLICK
+So our guy’s a particle physicist.
+JIM (FILTERED)
+You’re not going to Peru, right?
+Already, she’s surfing her smartphone for airplane tickets.
+FLICK
+Not as far as you know.
+JIM (FILTERED)
+I’m lying to your editor again?
+FLICK
+He won’t understand.
+JIM (FILTERED)
+That your leaving the country
+instead of emailing the guy?
+FLICK
+I send him questions. His replies
+are vague and infrequent. If he’s
+got the answers he claims to have,
+I need to meet him.
+JIM (FILTERED)
+You don’t know how solid he is.
+FLICK
+I will when I shake his hand.
+JIM (FILTERED)
+You’ll spook the hell out of him.
+He wants to be anonymous.
+FLICK
+It’s not me he’s scared of. If it
+is, he’s screwing with me.
+She spots Raleigh staggering out of the bar and quickly wraps
+up her conversation.
+FLICK (CONT’D)
+I have to go. Thanks, Jim. I owe
+you one.
+5.
+CONTINUED:
+(CONTINUED)She grabs her stack of e-mails and gets out of the car.
+EXT. JAEGER-MEISTER’S BAR & GRILL -- CONTINUOUS
+Flick chases after Raleigh.
+FLICK
+Raleigh.
+He spots her, and keeps walking, indifferent. She follows.
+FLICK (CONT’D)
+I’ve been trying to get a hold of
+you. Ever check your messages?
+RALEIGH
+I’m not going on the record, Flick.
+FLICK
+I’m not looking for an interview.
+RALEIGH
+Oh? You’re not? You’ve finally
+given up that tired dead end story?
+FLICK
+(defensive)
+There’s a region off Midway that’s
+been spitting out giant monsters
+for over a decade. How can it still
+be such a goddamned mystery? --
+RALEIGH
+I dunno, but the ocean floor is
+like five miles deep out there.
+It’s not the easiest place to know.
+FLICK
+So COSDEC’s just clueless?
+RALEIGH
+Probably not, but it’s all rumors
+by the time it gets to us jocks.
+He gets to his car and unlocks the door. Flick drops her ace.
+FLICK
+Do they call it the Interstice?
+He stops -- they obviously do.
+FLICK (CONT’D)
+Yance let that word slip every once
+in a while.
+6.
+CONTINUED: (2)
+(MORE)
+(CONTINUED)I didn’t even remember until I got
+this anonymous email:
+(reading)
+“They know what the Interstice is.”
+RALEIGH
+We shouldn’t be talking about this.
+FLICK
+What is the Interstice?
+RALEIGH
+I thought this wasn’t an interview.
+She relents; she knows why she really hunted him down.
+FLICK
+It’s not. I’m just -- Jesus, it's
+been like a year since we've talked
+at all... I was his fiancée. We're
+like family. Friends at least...
+RALEIGH
+Exes?
+FLICK
+Ex-what? I was never sure...
+(no answer)
+You ever have a nightmare too awful
+to talk about, Rals?
+He ignores the question.
+FLICK (CONT’D)
+I saw how close you and your
+brother were. I did a piece about
+it. What you and me had, it felt so
+-- small. I never thought you cared
+enough to miss it... Yance said you
+were cool with me and him.
+RALEIGH
+If Yance said it...
+FLICK
+But you never did. You never said
+anything. You just avoided us...
+And I wonder if he'd be alive if
+not for me. I wonder if I screwed
+up the bond that drove the machine.
+RALEIGH
+Goddamn, Flick. Today of all days.
+7.
+CONTINUED: FLICK (CONT’D)
+(CONTINUED)FLICK
+Sorry, but I've been living with --
+RALEIGH
+He was my brother, Flick!
+FLICK
+It's my nightmare! Okay? And when I
+wake up screaming...
+(trailing off)
+You won't call me back, Raleigh...
+She closes her eyes and pinches the bridge of her nose,
+embarrassed, collecting herself. She can't meet his eyes.
+RALEIGH
+You know how the Pons works? Two
+Jaeger pilots driving the rig with
+their brains, all those thoughts
+bleeding between them... Every time
+me and Yancy plugged in, I had a
+front row seat. All those intimate
+moments. I've walked in on you two
+more times than you even know. It
+was torture driving that Jaeger
+with him. Just torture.
+Flick stares at him, frozen, tears welling up in her eyes.
+RALEIGH (CONT’D)
+So you want me to tell you none of
+that colored my judgment; that I
+put it aside and did all I could?
+(pausing to reflect)
+Well, I'm sorry Flick, but I
+dunno... Probably not.
+Tears spill from her eyes. She can find no words. Finally,
+she SLAPS him as hard as she can.
+He watches her storm back to her car. She throttles it out of
+the gravelly lot, ripping plumes of dust in her taillights.
+INT. LIVING ROOM -- NIGHT
+Raleigh staggers into his small mobile home.
+INT. BATHROOM -- CONTINUOUS
+Raleigh splashes water on his face and meets his reflection
+in the small mirror, fractured as if by bare knuckles some
+fitful night not so long ago.
+He steels his cold expression and nods slowly -- Yes, this is
+who you are, Raleigh.
+8.
+CONTINUED: (2)
+(CONTINUED)His brow cracks and he collapses over the toilet puking up
+every shred of the stony facade he's been holding, revealing
+the raw anguish and self-doubt, red-faced and heaving.
+Through his GASPING he almost doesn't hear the KNOCKING at
+his front door...
+INT. LIVING ROOM -- CONTINUOUS
+Raleigh takes a deep breath before he opens the door to find
+a uniformed military officer on his doorstep, LIEUTENANT-
+COMMANDER ROSCOE CALHOUN. He gives Raleigh a familiar grin.
+CALHOUN
+Hey, Raleigh... Got a minute?
+EXT. RALEIGH'S HOUSE -- NIGHT
+The mobile home overlooks the seaside strawberry fields off a
+dark stretch of the PCH. Raleigh sits on the tailgate of his
+old pickup as Calhoun smokes his cigarette.
+In the distance, the Point Mugu Air Station, where the
+silhouettes of the LA Strike Group's two Jaegers tower in the
+ocean fog, waiting, red caution lights blinking placidly.
+CALHOUN
+Tokyo's down one Jaeger. It's the
+biggest city on the Rim. It's
+COSDEC headquarters. The brass
+wants redundancy. They want a crew
+covering that second Jaeger.
+RALEIGH
+And you think I know somebody?
+Calhoun knows Raleigh sees it coming, so he gets to it.
+CALHOUN
+They just need some understudies,
+at least until the rooks graduate
+this summer. A few months tops.
+You'll go to Tokyo all expenses
+paid, you'll eat some sushi, and
+you'll be back in time for June
+gloom. It's a cushy gig.
+RALEIGH
+The attacks are coming faster --
+CALHOUN
+There's no evidence of long-term --
+RALEIGH
+You don't shoehorn two burnt-out
+leftovers into a Pons and call it a
+Jaeger crew if you're not expecting
+some new kind of trouble.
+9.
+CONTINUED:
+(CONTINUED)CALHOUN
+(leveling with Raleigh)
+We don't know what to expect...
+Look, you lost your winger and the
+weight of the whole damn city fell
+on your shoulders; and for seventy-
+seven seconds you carried it, and
+you finished the fight.
+A silence passes as Raleigh reflects on the proposition.
+RALEIGH
+Who's your other sucker?
+CALHOUN
+Another survivor...
+RALEIGH
+Not the girl from the news?
+CALHOUN
+Name's Mako Mori. She's a little
+thing, but she's tough as nails.
+RALEIGH
+I'm a mess and lost Yance over a
+year ago. She lost hers today...
+CALHOUN
+(sighing, a surrender)
+Hell, I dunno. I've never tried on
+that skyscraper suit.
+They stare out towards the two distant Jaegers, looming like
+industrial colossuses in the silver murk of the marine layer.
+CALHOUN (CONT’D)
+You know, I always wanted to ask --
+What's it feel like?
+Raleigh turns to him, brow furrowed, not sure if he's
+serious. He is. Raleigh turns and stares at the Jaeger's
+silhouette for a while before answering.
+RALEIGH
+There’s things you just can’t
+fight. Acts of God or whatever.
+Like you see a hurricane coming,
+you just have to get out of the
+way, you know? But when you’re in a
+Jaeger, suddenly you can draw a
+line in the sand. You can fight the
+hurricane -- and you can win.
+Calhoun nods quietly, he gives Raleigh a moment.
+10.
+CONTINUED:
+(CONTINUED)CALHOUN
+I'm sorry to bother you, Raleigh.
+You take care of yourself, okay?
+He starts away. Raleigh watches him go, dwelling on that
+final thought. He finally speaks up.
+RALEIGH
+I never said I wouldn't do it.
+Calhoun turns and raises an eyebrow.
+INT. FLICK'S BEDROOM -- NIGHT
+Flick packs a suitcase, her eyes still red, her hands still
+shaking slightly.
+She has to stop and take a seat at the edge of the bed. Her
+eyes meet a frame on the wall.
+A VANITY FAIR cover: Raleigh and his brother in their pilot
+gear, standing arms crossed before the silhouette their
+Jaeger, "HEART OF THE TANK: The Antrobus Bros. Reveal What
+Drives the Men Who Drive the Jaeger -- by Felicity Kincaid."
+Flick folds herself up on the bed beside the half-packed
+suitcase. She rests her head on the pillow and locks her raw
+eyes on the framed picture.
+DISSOLVE TO:
+EXT. DESERT POND -- NIGHT (DREAM)
+A pool hemmed by sandstone boulders bristling with sage. A
+man stands naked on the rocks, covered in blood. He falls.
+Flick runs. But she doesn't catch him.
+She perches at the overhang, looking down. The man breaks the
+surface and throws his head back, suddenly okay.
+The man is Yancy Antrobus, Raleigh's brother. We see the
+resemblance, but he's more carefree than his younger brother,
+an assured soul with the charm of a barefoot troubadour.
+Wisps of red spread from him, turning the pool to blood.
+YANCY
+Come on in, Flick.
+FLICK
+I can't, Yance.
+YANCY
+Well you can't stay out there.
+11.
+CONTINUED: (2)
+(CONTINUED)Flick looks back to see a wildfire sweeping over the scrub
+around her. Something stirs beyond the flames; something huge
+and alive, as if part of the horizon itself was waking up.
+Its shape rises high and obscure behind the swirling cinders,
+towering over the desert; a vast behemoth shadowed in smoke
+and night, rearing up to blot out the stars.
+Yancy flashes Flick reassuring smile as he treads blood.
+YANCY (CONT’D)
+Jump in, babe. Come on. There's
+nothing for you out there...
+Behind her, the pitch-dark kaiju BELLOWS; a dull, bestial
+grumble made loud and bone-shuddering by the sheer size of
+the beast. The THROBBING ground announces its every step.
+Hundreds of feet overhead, it's jagged jaws glow furnace-like
+from within. Ignescent saliva drips from it's teeth like
+molten napalm, fueling the encroaching wildfire.
+An AIR RAID SIREN wails and Flick steps back, unconsciously
+inching away from the blazing heat -- until her last step
+finds only air, and she falls into the pool of blood.
+INT. FLICK'S BEDROOM -- MORNING
+The AIR RAID SIREN becomes the nasal BLEATING of an alarm
+clock. Flick wakes with a start, still in her clothes,
+exactly where we left her the previous night.
+She looks at the clock. It's been going off for a while.
+She's running late. Without changing, she puts on her shoes,
+zips up her suitcase, and rushes out.
+EXT. CENTRAL COMMAND COMPLEX -- DAY
+A causeway extends to a man-made island in Tokyo Bay where
+stands a small city of sleek, robust buildings: crew
+dormitories, administration, and SuperCom.
+The largest structure, a series of arching petals ringing the
+launch area like the rim of an artfully broken dome, a modern
+flourish that lends the facility its nickname -- Shatterdome.
+SUPER: Pacific Rim Combined Special Defense Corps Central
+Command -- Tokyo, Japan
+EXT. THE GREEN -- CONTINUOUS
+An SUV emblazoned with the COSDEC shield pulls up and lets
+Raleigh out on the rolling, carefully-manicured lawn.
+He's cleaned up: groomed, shaved, and in uniform. He hoists a
+duffle bag over his shoulder and searches the UNIFORMS
+milling on the grass. A voice calls after him.
+12.
+CONTINUED:
+(CONTINUED)PENTECOST (O.S.)
+Sub-Lieutenant Raleigh Antrobus?
+Commander Pentecost approaches with intimidating poise.
+PENTECOST (CONT’D)
+Lieutenant-Commander Stacker
+Pentecost.
+RALEIGH
+Good to meet you, sir.
+He indicates for Raleigh to follow him.
+PENTECOST
+I'll be conducting your training.
+RALEIGH
+Due respect, sir, but I've been
+through training.
+PENTECOST
+With whom?
+RALEIGH
+Sir?
+PENTECOST
+Who was your winger? Was it your
+best mate? Your girlfriend?
+RALEIGH
+It was my brother, sir.
+PENTECOST
+Well I'm sure you know Sub-
+Lieutenant Mori is not your
+brother. And that COSDEC's
+preference for crews who share a
+history is not at all arbitrary.
+RALEIGH
+Yes sir.
+PENTECOST
+What you don't know is how hard it
+will be to share headspace with a
+stranger. It'll be like you've
+never driven a Jaeger in your life.
+INT. LOCKER ROOM -- DAY
+Mako towels off her sweat, numb and weary. Her slim frame
+might seem girlish in street attire, but her sports bra and
+shorts utterly fail to hide her long, taut ninja's physique.
+13.
+CONTINUED:
+(CONTINUED)Another Japanese girl enters, surprised to find Mako. KAORI
+JESSOP (22), a pilot for the second Jaeger -- taller than
+Mako with longer, curlier hair.
+KAORI
+I hate that they're making you do
+this. So soon after...
+MAKO
+I volunteered. There's like three
+other loners in the world and none
+of them give a shit about Tokyo.
+It's my hometown. I signed up as
+soon as I heard they were looking.
+She changes into casual attire as Kaori gets into her gym
+clothes, eying her with friendly concern.
+KAORI
+Are you sure you're okay?
+MAKO
+It's been two weeks. I passed the
+psych evaluation.
+KAORI
+Sure, I just thought you might want
+to talk about it.
+Mako says nothing. Kaori surrenders the conversation. About
+to close her locker, Mako spots a photo of her and Aki. She
+touches the corner as if about to peel it off, but stops.
+MAKO
+You know what the worst part is?
+The silence. You don't even
+remember what silence is until it
+comes flooding back.
+A long moment. Finally Mako looks up at Kaori. She shuts the
+locker and sits on the dressing bench. A deep breath.
+MAKO (CONT’D)
+The American's here?
+KAORI
+I saw Pentecost showing him around.
+MAKO
+What's he like?
+KAORI
+From a distance? Maybe an eight.
+Mako shakes her head and half snickers. Kaori grins warmly
+and leaves her to finish dressing.
+14.
+CONTINUED:INT. LOCCENT GALLERY -- LATER
+Pentecost leads Raleigh through an observation gallery
+overlooking a mission control center buzzing with OFFICERS.
+PENTECOST
+Here's our LOCCENT. Much like your
+own back at LASG, no doubt.
+A plethora of consoles fan out from an incomprehensible
+mosaic of holographic data filling the dome-shaped screen
+that encompasses the command center's front wall.
+PENTECOST (CONT’D)
+It's a drill.
+Raleigh lingers, squinting at the officer at the center of
+the action: a broad shouldered Japanese man in a crisp
+uniform -- COMMANDER KAZ TAKADA (50).
+PENTECOST (CONT’D)
+Commander Takada...
+RALEIGH
+I thought that was him. Why's he
+running drills in LOCCENT?
+PENTECOST
+The Supreme Commander doubles as CO
+of the Tokyo Strike Group.
+INT. SHATTERDOME -- DAY
+Pentecost leads Raleigh onto the mezzanine overlooking the
+main floor of the Jaeger launch bay.
+Below - the wide floor of the launch bay. Sunlight spills
+through the open top of the partial dome onto the mammoth
+machines and giant equipment needed to service the Jaegers.
+The nearest Jaeger stands at its docking tower: A Mark-2
+dubbed TACIT RONIN. Lean and nimble, his streamlined armor
+flecked with stark digital camo - steel blue on cool grey. An
+ultra-modern twenty-six story kickboxer.
+PENTECOST
+There's Tacit Ronin. And -- ah,
+yes, her crew's actually over here.
+Two Jaeger jocks sit on the edge of mezzanine platform, a
+young couple in matching track suits.
+We've already met Kaori Jessop. The man is her husband - DUC
+JESSOP (23). Korean-Australian. An Asian face, but the
+bleached hair and drawl of an Aussie surfer. The flashy boots
+he wears with his jumpsuit testify to his love of Westerns.
+15.
+(CONTINUED)PENTECOST (CONT’D)
+Lieutenant Kaori Jessop and Sub-
+Lieutenant "Duck" Jessop.
+Kaori smiles and nods a wordless greeting. Duc shakes his
+head and tightens his lips.
+DUC
+Do not listen to this Limey! It's
+"Duke!" Not "Duck." "Duke!" As in —
+He jumps down from the scaffolding and strikes a cowboy pose,
+aiming his finger like a pistol as he slips into John Wayne
+as Rooster Cogburn (startlingly good).
+DUC (CONT’D)
+"Fill your hand, you son of a
+bitch!"
+He smiles broad and opens the pistol to invite a handshake.
+Raleigh takes it and nods firmly.
+DUC (CONT’D)
+(to Pentecost)
+He met his scrap heap yet?
+Raleigh tries to get a clear look at the second Jaeger,
+standing at the distant end of of the bay, partially hidden
+by scaffolding and cranes.
+PENTECOST
+Hey yours will be lucky to last as
+long as that "scrap heap" the way
+you treat it.
+DUC
+That's goddamn right!
+Pentecost leads Raleigh into a nearby
+CAGE ELEVATOR
+and shuts the door. As they ride it down, Raleigh doesn't
+take his eyes off the second Jaeger. The lift bottoms out on
+THE MAIN FLOOR
+where Pentecost and Raleigh exit. Raleigh narrows his eyes at
+the obscured mech: something about the color intrigues him.
+RALEIGH
+Hey, what did he mean "scrap heap?"
+PENTECOST
+No one told you? She's a Mark-1.
+16.
+CONTINUED:
+(CONTINUED)Raleigh starts to walk faster, almost jogging across the
+wide, busy floor to get a clear look at the Jaeger.
+Finally, a huge repair crane rolls away, revealing the
+Jaeger. Raleigh's mouth gapes at the sight of it.
+RALEIGH
+(reverent)
+Gipsy Danger...
+GIPSY DANGER -- Less humanoid than the Mark-2, burlier, more
+bestial, with back-bending t-rex legs. A monster for the
+monsters. Armor mottled smoky green and charcoal, bearing the
+proud scars of all the fights that failed to bring her down.
+A dinosaurian gladiator; mighty, iconic.
+PENTECOST
+You know it?
+RALEIGH
+Are you kidding? I was fifteen. I
+knew all their names...
+Pentecost crosses his arms with a smirk as he watches Raleigh
+stagger closer, in an awed trance.
+RALEIGH (CONT’D)
+This was LA's first Jaeger. This
+was the reason we got to sleep at
+night. The reason I am what I am.
+He lays his palm on the armor, and cranes his neck to marvel
+at her history, blazed in decals like a soldier's tattoos: a
+US flag, a Bear Flag, the Rising Sun, the flag of Tokyo, even
+retro nose-art -- a buxom gypsy pinup riding a bomb.
+RALEIGH (CONT’D)
+I can't drive this. This is like
+Apollo. She's a monument. She
+should be in a museum.
+PENTECOST
+They tell me she's got one or two
+more fights left in her... Do you?
+Raleigh smiles earnestly with an awed chuckle, but before he
+can answer, a Japanese voice calls out.
+MAKO
+Is that the American?
+Raleigh and Pentecost turn to find Mako standing on a catwalk
+above. She leans on the rail, warily scrutinizing Raleigh.
+Pentecost answers in Japanese.
+17.
+CONTINUED: (2)
+(CONTINUED)PENTECOST
+Yes. This is Raleigh Antrobus.
+(to Raleigh)
+Your gunner -- Mako Mori.
+RALEIGH
+Hi. Good to meet you.
+Mako eyes him, and crosses her arms.
+MAKO
+Is he talking to me, Sensei?
+PENTECOST
+You want to come down and say
+hello, Lieutenant?
+It hits her -- He doesn't speak Japanese.
+MAKO
+Would it make any difference what I
+said to him, Sensei?
+Pentecost sighs. He has no response. Mako gapes at him,
+astonished by the implications of this oversight.
+MAKO (CONT’D)
+What are we even doing here?
+Pentecost is at a loss. Mako turns and speeds away. Raleigh
+stares into the empty space where Mako had just been
+standing, daunted by the realization --
+RALEIGH
+She doesn't speak English...
+Pentecost sighs and throws Raleigh a wry, told-you-so grin.
+EXT. DOJO -- NIGHT
+The old-style pagoda stands in contrast to the other
+futuristic structures of the command complex, perched near
+the edge of island, overlooking the Bay and Tokyo beyond.
+PENTECOST (PRE-LAP)
+Language is not thought.
+INT. DOJO TRAINING HALL -- CONTINUOUS
+A high atrium-ceiling over a gleaming hardwood floor, painted
+with a deep scarlet circle throwing red slashes out across
+the pale brown planks, evoking Japan's "rising sun" emblem.
+On the circle, Raleigh and Mako stand opposite one another in
+their standard-issue track suits as Pentecost muses,
+alternating between English and subtitled Japanese.
+18.
+CONTINUED: (3)
+(CONTINUED)PENTECOST
+You don't speak the same language.
+So what? You're brain-to-brain in
+the Pons. You're in, where thoughts
+happen. Don't sweat the doorman.
+RALEIGH
+So should we log some Pons time?
+PENTECOST
+Walk before you run, Lieutenant.
+LATER -- FIRST EXERCISE
+Blindfolded, Mako and Raleigh stand on opposite sides of a
+table on which sits a scale precariously balanced with neatly
+stacked weights on each tray. Pentecost watches.
+PENTECOST (CONT’D)
+The Jaeger's a huge machine. It
+takes two brains to move her. Like
+a dinosaur. Every step, every
+gesture is a concert of two minds.
+With their right hands they meticulously maneuver a new
+weight to their respective trays; their left hands hold their
+partner’s wrist tracking the opposite weight’s progress.
+Simultaneously, they gently deposit their weights. The
+balance wobbles slightly, but holds.
+They each pick up the next weight. The movements play out as
+before, but this time Raleigh arrives slightly early.
+The scales teeter and fail, spilling the weights.
+Mako removes her blindfold and sighs, frustrated.
+LATER -- ANOTHER EXERCISE
+Mako and Raleigh stand a good distance apart, juggling a pair
+of sake bottles between them.
+Pentecost shouts a signal and after they both nod, he tosses
+a third bottle into the stream.
+PENTECOST (CONT’D)
+You must be willing to blur the
+seams between your souls.
+(to Raleigh)
+You must become more than partners.
+You must become a mosaic. A union.
+They manage to keep all three in the air (clearly, this is
+some version of an exercise they’ve each done before).
+19.
+CONTINUED:
+(CONTINUED)Pentecost signals another bottle. Raleigh affirms just as
+Mako refuses, and when the bottle enters the stream, Mako
+misses the catch. Several bottles SHATTER on the floor.
+Mako paces away in frustration and circles back to reprimand
+Raleigh in Japanese.
+MAKO
+What’s wrong with you? Did I look
+like I was ready?
+RALEIGH
+What'd she say?
+STILL LATER -- LAST EXERCISE
+Pentecost opens a weapons trunk. Mako mutters.
+MAKO
+This isn't working, Sensei. Wash-
+out cadets have more chemistry.
+What else can be done?
+PENTECOST
+You will acquaint yourselves as
+warriors have for centuries...
+He opens a trunk. He smiles and tosses them each a staff.
+PENTECOST (CONT’D)
+Just like the Academy. Let's spar.
+He crosses his arms. Raleigh and Mako tentatively turn to
+each other. Mako throws the first strike, a formal move.
+Raleigh blocks. Pentecost talks as they spar.
+Raleigh swings. Mako doesn't block in time. He connects with
+her shoulder. She glares at him. He seems a bit surprised.
+PENTECOST (CONT’D)
+Easy. It's a dialogue. Not a fight.
+Get in her head.
+(to Mako)
+Watch him. What's he thinking?
+The bout goes on, slow at first, each taking turns -- strike,
+block, strike, dodge. Pentecost circles them as he speaks.
+PENTECOST (CONT’D)
+There's a vocabulary here. Remark.
+Reply. Pay attention.
+(to Mako)
+You're learning his reflexes,
+Lieutenant. His instincts.
+20.
+CONTINUED: (2)
+(CONTINUED)Mako swings and HITS Raleigh's shin before he can jump.
+Raleigh glances at Pentecost who just smirks and shrugs.
+PENTECOST (CONT’D)
+Even I saw that one coming.
+Mako's intensity escalates with each blow -- each a little
+faster and harder than the one before.
+Mako unleashes a flurry of attacks on Raleigh. He struggles
+to parry. Pentecost notices the wild look in Mako's eyes.
+PENTECOST (CONT’D)
+You're fighting him, Mori.
+She JABS her staff into his gut. He doubles over. She swings
+and CRACKS it across Raleigh's face, loosening his balance.
+PENTECOST (CONT’D)
+Lieutenant Mori, stand down!
+She spins the last strike into a KICK that sweeps Raleigh's
+legs out from under him, knocking him to the ground. She
+pulls back, ready to drive her staff through his skull.
+PENTECOST (CONT’D)
+Mako!
+She finally stops, standing over Raleigh, her staff clenched
+his her white knuckles, tears streaming from her angry eyes.
+EXT. DOJO -- LATER
+Mako sits on a bench overlooking the water, staring at
+Tokyo's glittering skyline across the harbor. Raleigh
+staggers up, holding an ice pack to his eye.
+She only glances as he sits beside her, quickly turning back
+to the skyline before her guilt runs away with her.
+RALEIGH
+Might be a good sign. My brother
+used to kick my ass all the time.
+After a long silence, Mako finally speaks. They don't
+understand one another, but Raleigh just lets her talk.
+MAKO
+I keep telling myself to try
+harder, but I've never had to try.
+It just worked... It's not like Aki
+and I were kin or lovers. (He had a
+bit of a crush on Duc actually.)
+(beat)
+21.
+CONTINUED: (3)
+(MORE)
+(CONTINUED)He was just the neighbor's kid --
+until one day I turned around and
+he was the only friend I'd known my
+whole life... I never had to try.
+Raleigh pulls the ice pack off his eye and Mako finally turns
+to him, grimly astonished to see the shiner she left him.
+RALEIGH
+Is it bad? It's bad, isn't it?
+MAKO
+(laughing)
+Holy shit, we are going to die.
+EXT. MOUNTAIN ROAD -- DAY
+A rusty truck plies a muddy lane carved into a sheer cliff.
+INT. TRUCK -- CONTINUOUS
+Flick sits in the back seat, huddled away from the precipice.
+The cab JOSTLES along the jagged contours of the road.
+The engine SNARLS with effort as the implacable DRIVER pushes
+it ever upward into the shifting alpine fog.
+Flick cranes her neck to steal a peek out the cliff-side
+door, careful not to shift her weight.
+Outside the tires skirt the ragged ferns clinging to the
+edge, where the ground plunges down into a soup of clouds.
+EXT. CALIXTO PARTICLE OBSERVATORY -- LATER
+The truck pulls up to a cylindrical, windowless building
+rising above the misty, lichen-crusted rocks. The Driver lets
+Flick out at the oddly plain-looking structure.
+SUPER: Calixto Particle Observatory -- Lima Region, Peru
+The truck HONKS a farewell to Flick and drives away. Flick
+holds her jacket close. It's not raining, not exactly, but
+the thick mountaintop mist drenches her as if it were.
+INT. MAIN CORRIDOR -- CONTINUOUS
+Flick enters the dim hallway, relieved to be in from the
+cold. No sound save for the BUZZ of fluorescent lights and
+the ghostly CROONING of the wind outside.
+She spots a man come out into the hallway and linger,
+engrossed by his clipboard. He wears headphones, listening to
+music. He hasn't noticed her.
+22.
+CONTINUED: MAKO (CONT'D)
+(CONTINUED)He's NEWT GOTLIEB (33) -- a lanky, unkempt academic with
+scruffy brown hair and an impish grin. Geekishly cute in his
+own peculiar way. Flick attempts to get his attention.
+FLICK
+Excuse me...
+(he doesn't hear)
+Excuse me!
+Finally he looks up and takes off the headphones.
+FLICK (CONT’D)
+I got an e-mail from someone here
+in reference to an article I'm --
+NEWT
+You're Felicity Kincaid.
+FLICK
+You can call me Flick... And you
+must be gotlieb@calixto.org?
+NEWT
+No. No, I'm not.
+She glances at nametag on his lanyard: "Gotlieb." He relents.
+NEWT (CONT’D)
+What are you doing here?
+FLICK
+You e-mailed me. “I have info
+relevant to your investigation.”
+That’s what you said.
+NEWT
+I figured you probably got stuff
+like that all the time.
+FLICK
+I don’t. How substantial is it?
+NEWT
+I don’t know. But I know COSDEC’s
+got it too, and I know they don’t
+talk about it.
+FLICK
+All the more reason to have this
+conversation in person, right?
+He turns to go.
+23.
+CONTINUED:
+(CONTINUED)NEWT
+Stay here. I’ll be right back.
+Don’t touch any--
+(beat)
+No. Actually, could you follow me
+for a sec?
+INT. RESEARCH OFFICE -- CONTINUOUS
+In the messy office space, we find Newt whispering with a
+stout, bespectacled scientist, MYRON TOYNBEE. Flick waits.
+TOYNBEE
+You e-mailed a reporter?
+NEWT
+I don’t know what I was thinking.
+After a moment, Toynbee grudgingly confesses --
+TOYNBEE
+I’m glad you did.
+NEWT
+They haven’t taken this public.
+They’ll know where it came from.
+TOYNBEE
+We don’t know that it’s classified.
+NEWT
+We don’t know it isn’t.
+FLICK
+Guys. I’ve been on this for almost
+a year and I’m in the weeds. You’re
+my only lead. You know it’s
+important. Please, just gimme
+something I can start from, some
+shred of a foothold. Or I’m stuck.
+INT. ARCHIVES -- DAY
+Big supercomputer cabinets HUM as a SKIRLING dot matrix
+printer spits out endless sheets of data. Other spools of
+tractor-feed paper line the wall-to-wall shelves.
+Flick and Toynbee wait as Newt climbs a ladder to retrieve a
+particular roll from the top shelf. Flick takes notes.
+NEWT
+Eleven years ago, I was interning
+here, under Doctor Ivo Czerny.
+24.
+CONTINUED: (2)
+(CONTINUED)TOYNBEE
+Czerny was running a big quantum
+gravity survey.
+NEWT
+And one day, we found this...
+He pulls out the spool he was looking for, climbs down the
+ladder, and unrolls the paper for Flick to see.
+The paper is covered with row after row of numbers. One row
+near the middle of the sheet is highlighted, but it's hard to
+see why. Flick shakes her head.
+FLICK
+What am I looking at?
+NEWT
+The hottest graviton signal ever
+detected.
+FLICK
+Is that strange?
+Newt rolls a whiteboard up to draw a broad circle. He draws
+concentric waves radiating from the circle.
+NEWT
+It's the kind of exotic matter we
+search the cosmos for. This just
+materialized in our own backyard.
+He flips the board over to a dry-erase world map. He writes a
+question mark in the middle of the Pacific and circles it
+with widening concentric waves.
+NEWT (CONT’D)
+A huge dark matter footprint right
+in the middle of the Pacific. It
+was practically screaming at us.
+TOYNBEE
+There was nothing there that could
+put out a signal like that.
+FLICK
+When you say signal --
+NEWT
+Like how radio waves carry radio
+signals, but written in gravity.
+He flips the board to draw an RKO-style radio tower beside
+the circle. He draws radio waves spreading from the top of
+the tower and points to the waves spreading from the circle.
+25.
+CONTINUED:
+(CONTINUED)FLICK
+But somebody built the radio
+tower...
+Newt and Toynbee exchange a weighty look.
+TOYNBEE
+There was an almost artificial
+regularity to it. Czerny called it
+some alien intellect.
+FLICK
+Aliens?
+NEWT
+Not in the sense you're thinking.
+Not aliens from somewhere out in
+the universe. Aliens from another
+universe. A parallel universe.
+TOYNBEE
+There was a logorithmic pattern
+embedded in the transmission -
+FLICK
+Okay, let's try to remember I don't
+have a degree in this...
+NEWT
+It was like a countdown.
+(beat)
+And it ended on November 9th, 2012.
+FLICK
+Osaka...
+NEWT
+Exactly! The very first kaiju! And
+suddenly there was a gaping hole
+smack in the middle of the Pacific,
+at the exact epicenter of the
+signal we'd been tracking!
+TOYNBEE
+How fast do you think Czerny got
+COSDEC's attention with that one?
+NEWT
+He gets a call one day. Drops
+everything and goes out to Midway.
+FLICK
+He works for Sci-Division?
+TOYNBEE
+Worked for Sci-Division.
+26.
+CONTINUED: (2)
+(CONTINUED)NEWT
+They exiled him to the middle of
+the Australian Outback.
+FLICK
+I don't understand. What happened?
+NEWT
+Nobody knows what happens at
+Midway. But last time we spoke, he
+dropped some hints that he was
+close to a breakthrough. Said it
+would turn the tide...
+FLICK
+What kind of a breakthrough?
+NEWT
+Couldn't say. Whatever it was, it
+never made it up the chain of
+command. They locked it down... I
+dunno -- Maybe they didn't get it.
+Maybe they didn't believe him.
+Maybe he was wrong...
+FLICK
+You don't think he was wrong...
+NEWT
+Without knowing what he was working
+on or what he found --
+(reconsidering his answer)
+He was never wrong.
+A bold statement. Flick takes a deep breath.
+FLICK
+If you're right, these things were
+sent here. It's not an accident.
+It's a war. They're coming faster.
+(leaning forward)
+And somewhere out in the world is a
+man you think knows how to stop it?
+Why didn't you tell anyone?
+NEWT
+I just did...
+EXT. HOTEL MIRAFLORES -- NIGHT
+Flick gets out of a cab and heads into her hotel.
+INT. HOTEL HALLWAY -- CONTINUOUS
+Flick walks to her room, thinking. She stops and takes a few
+steps back. She sees the newspaper on the floor outside one
+of the rooms. She reaches down to pick it up...
+27.
+CONTINUED: (3)
+(CONTINUED)The headline: "Los Angeles Pilot to Drive Tokyo Jaeger..."
+INT. HOTEL ROOM -- CONTINUOUS
+Flick is already on the phone.
+FLICK
+Newt. It's Flick. Hey, where
+exactly did you say Czerny was?
+NEWT
+Well, I dunno how far you wanted to
+go for this article, but --
+FLICK
+It's not an article. Not any more.
+EXT. MIRAFLORES -- DAY
+Atop seaside bluffs, the high-rises and parks of Lima's
+affluent coastal district glow in the warm sun.
+INT. HOTEL MIRAFLORES -- DAY
+Flick stands at the reception desk beside her bags. Her
+shoulder presses her mobile to her ear as she tries to check
+out and buy plane tickets at the same time.
+FLICK
+Yeah, something came up. I'm
+checking out early.
+(into phone)
+Sydney. Or Melbourne. Just -- I
+need a flight to Australia.
+Across the lobby, Newt enters off the street, looking lost.
+He cranes his to scan the casual crowd of GUESTS. He searches
+and finally spots Flick at the front desk. He beams.
+NEWT
+Hey! I caught you.
+Finished with both her transactions, Flick hangs up and
+turns, a bit surprised to see Newt.
+FLICK
+What are you doing here?
+NEWT
+Well, I was thinking -- You're
+going to need some help.
+FLICK
+You're bold all of a sudden.
+28.
+CONTINUED:
+(CONTINUED)NEWT
+I got you into this. I feel like I
+need to own up to that.
+FLICK
+I got myself into this.
+NEWT
+I held the door open.
+EXT. HOTEL MIRAFLORES -- DAY
+The front of the hotel overlooks the Pacific from the top of
+the seaside bluffs. Newt follows Flick out through the
+outdoor cafe that spills onto the sidewalk.
+FLICK
+I absolve you of accountability.
+NEWT
+Thanks. I'm still tagging along.
+FLICK
+Newt. I know you're worried about
+me. And that's sweet, but --
+NEWT
+Look, I'm going to see my old
+friend, Czerny. If that's where
+you're headed, you're going to have
+a hard time avoiding me.
+The long BANSHEE WAIL of a siren stills the carefree air.
+DINERS and PEDESTRIANS begin to scatter in all directions.
+Flick and Newt stand frozen in their tracks.
+NEWT (CONT’D)
+The kaiju siren.
+FLICK
+A drill -- It can't be an NEWT
+No. It's real. Flick, listen.
+NEWT (CONT’D)
+It's okay. Listen. I've got a
+scooter. We're getting out of here.
+The traffic outside the cafe locks up. Impatient DRIVERS
+leave their cars and run, clotting the thoroughfare with
+abandoned autos. Newt leads Flick to his Vespa.
+EXT. MIRAFLORES STREET -- MOMENTS LATER
+Newt threads the Vespa between the derelict traffic on the
+bluff-top road. Flick holds on and watches the ocean.
+29.
+CONTINUED:
+(CONTINUED)A mile or so out, the sea bulges unnaturally. Flick
+unconsciously tightens her grip on Newt. Her mouth opens but
+she has trouble forming the words.
+FLICK
+(whispering)
+It's coming...
+The water breaks as the kaiju rises, distant but huge -- ten,
+twenty, then thirty stories tall. Flick can't look away.
+Reporting name: DENGUE. Arachnoid legs bristling with hairs.
+Scores of black eyes above a wide reptilian grin. Some unholy
+fusion of tarantula and dragon. An obscene, alien spectacle.
+It stalks towards the shore in a slow but enormous gait that
+closes the distance unexpectedly fast.
+NEWT
+Holy shit!
+But it's not the kaiju he sees. It's something up ahead.
+Flick doesn't hear the ROAR of the V-50 Jumphawks until they
+pass over, dragging a wide shadow. Flick looks up.
+We don't see their huge payload at first, only the massive
+shadow it casts over Flick and everything around her as the
+Jumphawks lift it into position a few blocks away.
+The choppers release their cables and let the thing drop a
+short distance to the ground. Its weight THUNDERS the street,
+SHATTERING windows and tripping CAR ALARMS.
+And as the dust settles, finally we see the titan, rising
+behind the nearest high-rises, a new feature in the skyline:
+the Mark-2 Jaeger, PUMA REAL. Armor, mottled khaki/field-grey
+urban camo. The Peruvian flag emblazoned on its shoulder.
+The colossus comes alive as giant motors flex its joints with
+a DEAFENING GROAN like a thousand cellos, preparing.
+Dengue answers with a SAWMILL SNARL too loud to sound like
+any animal. The kaiju comes ashore, crossing the beach in a
+few wide steps before effortlessly cresting the bluff.
+Its towering spider legs scrabble for purchase on the bluff's
+edge, pulling down chunks of land (whole condos and all) as
+the mountain of flesh hauls itself up to confront Puma Real.
+The kaiju swats the air with its long, arachnid forelimbs,
+flinging off a cloud of bristly hairs. Most settle on the
+Jaeger, prickling the armor like a forest of splinters.
+Some of the cloud breezes past the Jaeger, sailing towards
+us. It seems harmless at first, just a haze of drifting hairs
+30.
+CONTINUED:
+(CONTINUED)But as they fall closer, they look less and less like hairs,
+and more like a dense volley of arrows.
+FLICK
+Look out!
+They fall as a lethal hail of ragged bio-spears on the
+crowded street -- THUNK THUNK THUNK -- stabbing the pavement,
+lancing auto hoods, skewering bystanders mid-step.
+Newt clumsily weaves the Vespa between the falling spears,
+narrowly missing a few.
+Up ahead, a DESPERATE MAN steps from his skewered car, his
+eyes raw with animal fear as he trains a pistol on Newt who
+has no other choice but to stop the scooter.
+The Desperate Man shouts in staccato Spanish, thrusting his
+gun. Newt tries to calm him down in more uncertain Spanish,
+but the Man has all the patience of a frayed powerline.
+FLICK (CONT’D)
+Drive! Just go!
+Newt pulls Flick off and surrenders the scooter to the Man --
+who ZIPS away, leaving Newt and Flick to flee on foot.
+FLICK (CONT’D)
+Why did you do that?
+Newt pulls her down the chaotic street, shouting as they go.
+NEWT
+We were a heartbeat from dead!
+FLICK
+We still are!
+Flick looks over her shoulder as Newt drags her. She watches
+Dengue circle to a position between Puma Real and the street,
+back to the crowd, a block or two closer than before.
+She almost trips over a dead body and has to look ahead. She
+doesn't see the Jaeger launch a volley of missiles.
+A handful EXPLODE on the kaiju. The rest STREAK over the road
+to blow out the top floor of a condo a couple miles ahead.
+Flick turns again, still running.
+A deafening BOOM as Puma Real lands a hard blow across the
+kaiju's skull, throwing up a fine red mist of gore.
+The gossamer red cloud drifts and falls in a torrential
+downpour on the streets below; utterly soaking Newt, Flick,
+and everything around them in blood.
+31.
+CONTINUED: (2)
+(CONTINUED)Dengue staggers back, demolishing the very hotel Flick had
+just been inside. The cascade of rubble reminds her just how
+close the battle is drifting.
+FLICK (CONT’D)
+They're getting closer!
+Newt turns and stops, shocked by the proximity of it. He runs
+to the bluff's edge and motions for Flick.
+The air festers with NOISE: the SCREAMS, the HOWLING car
+alarms, the GROANING clamor of the Jaeger's vast machinery,
+the window-rattling SNARL of the beast.
+NEWT
+Come on!
+He leads her sliding partway down the bluff, stopping where a
+wide, concrete pipe yawns open. Newt takes Flick's hand and
+lifts her into the drainage pipe.
+They find countless other BYSTANDERS huddled in the concrete
+cave, crammed back into the darkness.
+The pipe SHUDDERS and JOLTS, dust spilling from its seams.
+Terrified SCREAMS echo in the darkness, eclipsed by the
+unthinkable NOISE of the battle overhead.
+Some suicidal curiosity tugs Flick towards the opening where
+she cranes her head out and looks straight up, catching a
+humbling view of the fight - the impossible scale of it.
+The machine and the monster. Towering. Godlike. Their feet,
+too close, pulverizing cars on the street; their heads,
+impossibly distant, three hundred feet straight up.
+She's close enough to see the kelp and plastic flotsam
+tangled in the spike-hairs of its soaring arachnid legs.
+High overhead, Dengue opens his skyscraping jaws to loose a
+ROAR like Niagra Falls. Puma Real aims its cannon down the
+monster's throat and fires a THUNDERCRACK shot.
+The back of the kaiju's head EXPLODES -- just as Newt grabs
+Flick and pulls her back into the safety of the pipe.
+Outside, a hail of meat and blood falls, then a brief quiet.
+A great wall of flesh blurs past the pipe, briefly filling
+the view as the dead kaiju falls off the bluff.
+As relative silence settles, Flick staggers out of the pipe
+with Newt following closely after. Below, the body of Dengue
+sprawls at the foot of the bluff
+32.
+CONTINUED: (3)
+(CONTINUED)Atop the bluff, Puma Real stands impossibly tall, its
+shoulders and head fading into the glare of the sun. It
+powers down, becoming once again as inert as a statue.
+The V-50's arrive, hovering over the Jaeger, preparing the
+airlift. Shaken bystanders spill out of the concrete pipe.
+Flick scrabbles up to the street. SIRENS and LOUDSPEAKERS
+begin to bleed into the silence of the aftermath.
+She looks over what was once the traffic jam, now flattened
+by scores of huge, deep footprints; metal packed and pressed
+into the sagging, fractured concrete.
+Her eyes follow the path of the devastation up the steet
+where the twisted remains of high-rises slump under smoke-
+filled gaps in the once lovely skyline.
+She stands in the devastation, soaked in blood, trembling,
+hollowed out by the shock of it - the capricious scale of
+this urban scar. Newt lays a comforting hand on her shoulder.
+INT. AEROPUERTO INTERNACIONAL JORGE CHÁVEZ -- NIGHT
+A crowded terminal, bustling with TRAVELERS desperate to get
+out of Lima. Every TV plays news reports of the attack.
+Flick sits at the gate, staring ahead, dead-eyed. She's
+changed into clean clothes, but faint traces of dry kaiju
+blood fleck the edge of her scalp.
+Newt passes Flick a cup of coffee as he sits beside her.
+NEWT
+You okay?
+FLICK
+Hm? Yeah. I'm fine.
+She doesn't want to talk about it and Newt doesn't want to
+wear out his welcome, so he clams up and opens a book. Flick
+shakes her head; apparently it wants to be talked about.
+FLICK (CONT’D)
+It's -- It's kinda ridiculous...
+I've never seen it happen. Just in
+tapes. I've never been there in
+person. Can you believe that?
+(a chill)
+It's like the world isn't the place
+you thought it was...
+She trails off, losing herself to her thousand yard stare.
+Her attention drifts to a nearby TV, where a graph starkly
+illustrates the sharp rise in attacks.
+33.
+CONTINUED: (4)
+(CONTINUED)ANCHOR (O.S.)
+-- unprecedented rash of recent
+incidents has the whole hemisphere
+fearing the next kaiju may be just
+around the corner...
+FLICK
+What time is it in Tokyo?
+NEWT
+Ten in the morning...
+Flick pulls her phone out of her bag and stands up -- she's
+been putting this off, but she can't any longer.
+FLICK
+I've got to make a call.
+INT. RALEIGH'S ROOM -- MORNING
+His phone rings. Raleigh answers without looking.
+RALEIGH
+Yeah...
+FLICK (FILTERED)
+Raleigh?
+INTERCUT FLICK/RALEIGH
+RALEIGH
+Flick... Where are you?
+FLICK
+An airport... I'm in Lima.
+RALEIGH
+Jesus... Are you okay?
+FLICK
+I'm fine... I'm going to Australia
+to meet this scientist...
+(changing the subject)
+I read you were deployed to Tokyo.
+Central Command, right?
+RALEIGH
+That's right.
+FLICK
+So your CO's the Supreme
+Commander...
+RALEIGH
+(realizing)
+Listen, Flick, I really can't --
+34.
+CONTINUED:
+(CONTINUED)FLICK
+No, it's not about an interview --
+(getting to it)
+Raleigh, if I came to you and said
+I'd found a way to stop the
+attacks, would you believe me?
+Raleigh looks puzzled. Flick waits for an answer. The silence
+stirs her own doubts, until --
+RALEIGH
+I'd believe you...
+EXT. FREEWAY -- DAY
+A thick fog. Cars pulled to the shoulder, hastily abandoned.
+A 5-stack interchange tangles over the empty lanes. We see a
+hulking shape looming over the road, obscured by fog.
+RALEIGH (FILTERED)
+Roma-1 to LOCCENT. Gipsy Danger in
+position. Motor active in three -
+two - one.
+On the one count, the shape comes alive -- joints FLEXING
+mechanically, as if bracing itself.
+PENTECOST (FILTERED)
+Roger, Roma-1. Target is a Cat-3
+KJ. Reporting name: Slattern. Three
+miles west, inbound. You are clear
+to engage on sight. Happy hunting.
+INT. CONN-POD 1 -- CONTINUOUS
+The cockpit; a seat in a nest of cables. Raleigh sits in a
+shoulder harness, signal lines ported into his drivesuit, his
+body embedded deep in the seat's gel-filled shock padding -
+almost cozy, in an intensely claustrophobic way.
+His arms, tucked deep into hefty drum-like control-sleeves
+flanking the seat. A bundle of fibre optic wires trails like
+raw nerves from a port just behind his ear lobe.
+Ahead of him, we see what he sees - a wide, IMAX view of the
+outside world (projected straight into his brain), as if the
+pod has no front wall:
+The sky, the interchange, and the freeway hundreds of feet
+below, translucent data drifts through the augmented reality:
+gauges, dials, and digital targeting geometry.
+GHOSTLY VOICES and DREAMY ECHOES haunt the air: familiar and
+unfamiliar; Japanese and English; fractured conversations in
+the aether. Ambient thoughts, always there on some level.
+Raleigh squints into the fog, frustrated.
+35.
+CONTINUED:
+(CONTINUED)RALEIGH
+Visibility low. It's all soup.
+INT. CONN-POD 2 -- CONTINUOUS
+Mako's pod looks basically identical to Raleigh's. She
+listens as Pentecost repeats Raleigh in Japanese.
+PENTECOST (FILTERED)
+(subtitled)
+Visibility low. It's all soup.
+She nods and replies in Japanese (no subtitle; we'll hear
+Pentecost's translation).
+INT. CONN-POD 1 -- CONTINUOUS
+PENTECOST (FILTERED)
+(translating Mako)
+Thermal spectrum up.
+RALEIGH
+Thanks. Read my mind.
+An infrared filter opens over the IMAX-view, showing the heat
+gradients of the surroundings. All seems dark (cold) - except
+for a glowing heat source behind the tangled freeway ramps.
+RALEIGH (CONT’D)
+Got him. He's behind the stack.
+Suddenly, something huge plows through the interchange,
+collapsing the tangled ribbons of freeway, a spectacle of
+muscle surging towards us through billowing concrete dust.
+We see Raleigh's right arm tense in its control sleeve.
+INT. CONN-POD 2 -- CONTINUOUS
+Mako's arm does the same -- a sympathetic reflex.
+EXT. FREEWAY -- CONTINUOUS
+Gipsy Danger swings her right arm to SLAM the charging kaiju
+aside before we get a clear look at it.
+INT. CONN-POD 2 -- CONTINUOUS
+Mako watches the monster in her IMAX-HUD...
+SLATTERN boasts a shape like an armless carnosaur: a thick,
+serpentine body on mighty raptorial legs. A head vaguely like
+a moray eel. A long tail, barbed at the end.
+It draws patient predatory circles around us, lean and
+powerful as a panther, scales shifting between jet black and
+iridescent blue in the fog-stifled light.
+36.
+CONTINUED:
+(CONTINUED)Seeming almost too agile to be so big, but the haze in the
+air; the highway and the abandoned cars, small as toys --
+remind us of its titanic size.
+Mako watches and her mind wanders. The GHOSTLY VOICES swell.
+EXT. ACID GEISHA WRECK -- DAY (DRIFT)
+(NOTE: This happens in the Pons headspace, DRIFTS -- memories
+or dreamlike figments shared between two Jaeger operators.
+They unfold in their own time, though they occur at the speed
+of thought. Drifts should look urgently different from "real
+world" action: blown-out colors and/or lomographic blurs.)
+Mako, just as we saw her in the newscast at the beginning,
+trying to wrestle past the men pulling her from her ejected
+conn-pod, desperately reaching for the wrecked Jaeger.
+The sounds of a radio exchange overlay the imagery.
+MAKO (V.O.)
+Containment breach! Core critical!
+AKI (V.O.)
+I've got him! Eject! That's an
+order, Mako!
+MAKO (V.O.)
+I'm not leaving you!
+AKI (V.O.)
+Initiate emergency override. Eject
+conn-pod 2...
+Tears stream down her face. Her mouth opens in a silent wail.
+INT. CONN-POD 1 -- CONTINUOUS
+Raleigh blinks away the swell of foreign emotions.
+RALEIGH
+Stay with me, bruiser. We got this.
+INT. CONN-POD 2 -- CONTINUOUS
+MAKO
+Don't patronize me.
+PENTECOST (FILTERED)
+Lock it down, Roma-2.
+RALEIGH (FILTERED)
+What did she say?
+37.
+CONTINUED:INT. CONN-POD 1 -- CONTINUOUS
+PENTECOST (FILTERED)
+Nothing. Stay focused, Roma-1.
+RALEIGH
+Alright, Mako, I'm setting you up
+for an IR burst. Get ready.
+MAKO (FILTERED)
+Ready.
+EXT. FREEWAY -- CONTINUOUS
+A barrage of missiles SCREAMS from the Jaeger's hips to
+pummel the ground at Slattern's feet. Tumescent clouds of
+smoke and dust erupt to engulf the beast.
+INT. CONN-POD 1 -- CONTINUOUS
+Raleigh gapes at the smoky stew.
+RALEIGH
+What the hell, Mako? IR! Not
+missiles! IR!
+INT. CONN-POD 2 -- CONTINUOUS
+Mako shouts at him in furious Japanese. We hear Pentecost
+translate for Raleigh, in a much cooler tone.
+PENTECOST (FILTERED)
+You routed her to missiles.
+INT. CONN-POD 1 -- CONTINUOUS
+RALEIGH
+The hell I did!
+PENTECOST (FILTERED)
+Log confirms it, Roma-1.
+He shakes his head and watches his targeting pipper drift
+helplessly over the wall of smoke, unable to find a lock.
+RALEIGH
+Lost him... Shit...
+INT. CONN-POD 2 -- CONTINUOUS
+RALEIGH (FILTERED)
+Too much particulate noise.
+Mako stares, transfixed by murk stirred up by the missiles.
+The oily black smoke swirls and billows in the fog, a
+formless curtain hiding the giant monster.
+38.
+(CONTINUED)RALEIGH (FILTERED) (CONT’D)
+Brace yourself. He's going to
+charge us. I can feel it.
+Mako listens to Pentecost's translation, her wide eyes lost
+to fear. We hear a quickening HEARTBEAT and the memory of
+something she said earlier.
+MAKO (V.O.)
+We're going to die.
+INT. CONN-POD 1 -- CONTINUOUS
+Raleigh feels her fear as the HEARTBEAT speeds up. Sweat
+beads on his brow as he strains against it.
+RALEIGH
+Any second... Any second...
+A SECOND HEARTBEAT joins the first, faster and out of sync --
+a chaotic, senseless rhythm. The voices become more frantic.
+YANCY (V.O.)
+He's charging!
+We hear a little girl SOBBING between GASPS of air...
+INT. OSAKA PENTHOUSE -- NIGHT (DRIFT)
+Raleigh suddenly finds himself in a dark penthouse, high
+above a twinkling city. He hears SOBBING and GASPING and
+finds a small Japanese girl huddled behind the couch.
+RALEIGH
+Mako, is that you?
+It is, YOUNG MAKO, nine years old. Speaking Japanese he can't
+grasp, she doesn't look at him.
+YOUNG MAKO
+My dad's coming back soon...
+RALEIGH
+Where are we?
+YOUNG MAKO
+He just went out for a minute...
+Outside, the distant sounds of CHOPPERS, SIRENS, and a
+throbbing RUMBLE. Young Mako tentatively approaches the tall
+windows overlooking the city.
+Distant choppers train searchlights on something lumbering
+through the skyline. Behind it, the city bleeds columns of
+smoke from the light-less scar of its wake.
+39.
+CONTINUED:
+(CONTINUED)TRESPASSER, the first kaiju. We see only its head above the
+buildings -- long and crocodilian, scabrously armored with
+rugged scales and scutes.
+RALEIGH
+Osaka? You were in Osaka?
+Young Mako presses her small hand to the window pane.
+YOUNG MAKO
+My dad said monsters weren't real.
+She looks over her shoulder to Raleigh, her eyes quivering.
+YOUNG MAKO (CONT’D)
+He's not coming back, is he?
+In the distance, Trespasser throws his head back and roars,
+silent as a distant flash of lightning.
+We see the soundwave spread over Osaka, shattering windows as
+it speeds towards us, even after the beast closes its jaws.
+Finally the delayed ROAR blows out the windows and THUNDERS
+through the apartment, throwing Young Mako back.
+EXT. FREEWAY -- DAY (PRESENT)
+Suddenly, Slattern lunges from the smoky curtain before the
+Jaeger can react. The mech falls and CRATERS the asphalt.
+Slattern perches atop the fallen mech and RIPS into his prey.
+INT. CONN-POD 2 -- CONTINUOUS
+On the wraparound projection, we see Slattern standing right
+on top of us, his barbed tail jabbing down like a scorpion
+until the whole IMAX view flickers to static.
+Red lights flash. ALARMS go off. Mako lets her head fall
+back, strangely more frustrated than terrified.
+INT. CONN-POD 1 -- CONTINUOUS
+Raleigh shakes his head at the field of static as ALARMS go
+wild. He reaches behind his ear to disconnect the Pons.
+The instant he unplugs the wire, the dome of static dissolves
+into the blank front of the cramped cockpit.
+INT. THE MOCK-PIT -- CONTINUOUS
+Pentecost enters the barrel-shaped chamber with a clipboard
+under his arm. A big steel hemisphere fills the center of the
+floor, with cables and pistons rising to the ceiling.
+Hydraulics lift the dome, uncovering the two cockpits, back-
+to-back, sunken into the floor. It was all just a simulation.
+40.
+CONTINUED:
+(CONTINUED)Raleigh and Mako peel their helmets off. They remain seated,
+staring in opposite directions, frustrated and drained.
+He squats, about to impart his feedback, before realizing the
+futility: they both already know how bad they did.
+PENTECOST
+We'll go again in an hour.
+INT. SECRETARIAT CORRIDOR -- DAY
+Pentecost walks briskly down the hall to a security
+checkpoint. The GUARDS salute him and opens the door.
+INT. COMMITTEE CHAMBER -- CONTINUOUS
+General Takada sits at a microphone before a small panel of
+civilian DELEGATES from a handful of Pacific Rim nations --
+LETHBRIDGE, BENVENISTE, JIAO, and half a dozen others.
+Pentecost waits at the back of the room.
+BENVENISTE
+(reading)
+One-hundred-seventeen. Eighty-
+three. Twenty-nine... Do these
+numbers mean anything to you?
+TAKADA
+They are the attack intervals.
+LETHBRIDGE
+You see why this pattern is
+somewhat alarming... The latest
+incident in Lima came just
+seventeen days after Tokyo.
+TAKADA
+I share the panel's concern.
+JIAO
+Is the offensive escalating?
+TAKADA
+Our enemies are on the far side of
+the Interstice. I have no way of
+anticipating their strategy.
+JIAO
+Were there not reports that a
+Doctor Ivo Czerny had a way to
+eavesdrop on the the other side?
+TAKADA
+Czerny was dangerously unstable.
+He's no longer with Sci-Division.
+41.
+CONTINUED:
+(CONTINUED)BENVENISTE
+And his research? Did he have a way
+to see through the Interstice?
+TAKADA
+It's not clear his test subjects
+(the ones that survived) grasped
+what it was they were seeing.
+LETHBRIDGE
+Commander, the bottom line for this
+panel is ensuring that COSDEC is
+working towards a strategic end.
+Bearing that in mind, in your own
+words -- What is victory?
+TAKADA
+The Mark-3 will --
+LETHBRIDGE
+The Mark-3 program is over-budget
+and stalled in development. Again,
+General, what is the end game?
+TAKADA
+We fight until they're gone. I’m
+sorry I can’t be more encouraging.
+Before the panel can gather its wits to ask another question,
+the General stands to dismiss himself.
+TAKADA (CONT’D)
+Gentlemen...
+INT. SECRETARIAT LOBBY -- MOMENTS LATER
+Pentecost follows the General across the wide marble floor.
+TAKADA
+What did you need, Stacker?
+PENTECOST
+It’s Roma team, sir.
+TAKADA
+Mori and Antrobus?
+PENTECOST
+It’s not going well. Can we not
+graduate a pair of cadets early?
+TAKADA
+You're assuming any cadets will
+graduate. Pairs of quick-witted
+soulmates with Olympic stamina
+don't grow on trees. We're lucky to
+find one crew per year.
+42.
+CONTINUED:
+(CONTINUED)PENTECOST
+They don’t speak the same language.
+TAKADA
+I'm not surprised. Leftovers are
+rarer still. In the world, I can
+count the odd-men-out on one hand.
+And no two have anything in common.
+PENTECOST
+You know what all the survivors
+have in common? The last time they
+drove a Jaeger, it was on the worst
+day of their life... These are
+broken people, sir.
+TAKADA
+Well you need to un-break them. The
+way our downtime keeps shrinking,
+things could turn ugly any minute.
+INT. SHATTERDOME -- DAY
+Raleigh and Duc play basketball at a goal that’s been wheeled
+out onto the floor. Sunlight bathes the Jaegers behind them.
+DUC
+How’s swim lessons with the shark?
+I hear you guys plugged in.
+RALEIGH
+Not fun. We're a tactical mess. And
+the drifts are confusing as hell.
+DUC
+You ghost-drifting yet?
+RALEIGH
+Like outside the Pons? No. I’m not
+even sure that’s possible. Has a
+crew been any more mismatched?
+Duc shoots. The ball BOUNCES off the rim -- and hits an
+ordinance on a passing cart. TENDO CHOI, the chief engineer,
+shouts at Duc from behind the wheel.
+TENDO
+We’d be dead if these had juice.
+You’re lucky they’re just kinetics.
+DUC
+Sorry Tendo.
+TENDO
+We don’t have a gym?
+43.
+CONTINUED:
+(CONTINUED)DUC
+Not with these views. What can I
+say? You keep the girls so pretty.
+He turns and gets back into the game, trash-talking Raleigh.
+DUC (CONT’D)
+Well he keeps mine pretty... What
+do you see in that old Mark-1?
+Raleigh makes a basket. He tucks the ball under his arm and
+gestures towards Gipsy Danger.
+RALEIGH
+I dunno... That’s pretty cool.
+A crane lifts Tendo’s bloc of projectiles and SNAPS it to the
+gun barrel on the mech’s arm -- a context that reveals them
+to be not missiles but rather giant person-sized bullets.
+DUC
+What? No. All that shit slows you
+down. The Mark-2’s all gigawatts.
+Light as a thunderbolt.
+Raleigh smirks and checks the ball to Duc.
+RALEIGH
+So she’s from Osaka?
+DUC
+Mako? She was in Osaka.
+RALEIGH
+The first kaiju attack...
+Duc scores a goal and snatches up the ball, taking a break to
+paint Raleigh the picture.
+DUC
+Get this -- her dad goes to the
+store at 7:00; at 7:46 -- shit hits
+the fan. She never sees him again.
+They resume the game, talking as they play.
+RALEIGH
+Jesus... I've never met a survivor.
+DUC
+There aren't a lot a lot of them.
+RALEIGH
+How many kills does she have?
+DUC
+Mako? None, technically.
+44.
+CONTINUED:
+(CONTINUED)RALEIGH
+That was her first live run?
+DUC
+She's a beast. I promise you. You
+should see her sim runs. Textbook.
+Nobody screwed up out there. It was
+just one of those things.
+RALEIGH
+She's hard to connect with.
+DUC
+Takes two to tango, right?
+He shoots. The ball SWISHES into the basket.
+PENTECOST (PRE-LAP)
+The waltz, actually.
+INT. DOJO TRAINING HALL -- NIGHT
+Raleigh and Mako gape at Pentecost as he sets up a turntable.
+PENTECOST
+Tonight, you dance the waltz.
+MAKO
+What?
+RALEIGH
+You're kidding.
+PENTECOST
+Dancing, Lieutenant. You've heard
+of dancing, right?
+(beat)
+Control. Rhythm. Intimacy. Wordless
+rapport. Is it not relevant?
+MAKO
+I have crewed a Jaeger! --
+RALEIGH
+Wouldn't our time be better spent --
+PENTECOST
+Doing what, Antrobus?
+RALEIGH
+Running sims? Sparring?
+PENTECOST
+We ran five sims. You died. And you
+can't spar without making a brawl
+of it. You're better at fighting
+each other than fighting KJ's.
+45.
+CONTINUED: (2)
+(CONTINUED)RALEIGH
+It's a long damn way from fighting
+KJ's, Sensei.
+PENTECOST
+You're a long way from fighting
+KJ's. A KJ thinks with one mind.
+MAKO
+Sensei, please. This is
+humiliating. A first-week recruit
+doesn't have to play these games.
+PENTECOST
+It's not a problem first week
+recruits have, Lieutenant. They
+already come in pairs.
+(beat)
+You two are strangers. It's not
+your fault. But it will get you
+killed if you're still strangers
+when the siren sounds.
+He slides a record from its sleeve.
+PENTECOST (CONT’D)
+You need to get close.
+He drops the needle and a song spills into the air --
+Siouxsie and the Banshees, "The Last Beat of My Heart."
+He holds her lower back and she clutches his shoulder as they
+clasp hands and follow the footprints. The slow music makes
+it easy, but they keep their eyes on the steps.
+Spare and spectral. Low drums. Haunting accordion. Siouxsie
+plaintively sings, "In the sharp gust of love / My memory
+stirred / When time wreathed a rose / A garland of shame..."
+We hear drifting voices from memory as they dance.
+YANCY (V.O.)
+I don't know what to tell you,
+Rals. I fell for her. I'm sorry.
+This is what happens when crewmates experience a drift
+outside the Pons. It's called a ghost-drift.
+EXT. LEO CARRILLO STATE BEACH -- NIGHT (GHOST-DRIFT)
+Waves slap the ragged rocks. Raleigh and Yancy stand on the
+precipice above, in the blazing headlights of a parked truck.
+RALEIGH
+You fell for her. Like an anchor. I
+guess the guy at the end of your
+chain just has to hold his breath.
+46.
+CONTINUED:
+(CONTINUED)YANCY
+What do you need me to do, Rals?
+RALEIGH
+I need you to get out of my head!
+He spins to face his brother - only to find Yancy is not
+there. Raleigh stands alone on the rocks.
+BACK TO PRESENT
+Mako's hand tightens on his shoulder, a reflex. She winces
+but keeps dancing. Neither dares to meet the other's eyes.
+The ethereal music leads them in tense, wandering circles.
+The ghost-drift sweeps over them in a storm of images and
+sounds, fragments chaotically tumbling over one another.
+MONTAGE -- GHOST-DRIFT
+-- The Jaeger COYOTE TANGO stands in the shallow surf near
+the Santa Monica Pier. Blood-red dusk spreads from the
+setting sun. Gore-stained water streaks the wide beach.
+FLICK (V.O.)
+You ever have a nightmare too awful
+to talk about, Rals?
+-- Further out, something rises. Bloody seawater streams down
+its craggy back like water off a mountain.
+-- In Osaka, Young Mako stands at her window, watching the
+kaiju Trespasser ravage the city.
+YOUNG MAKO
+He's not coming back.
+-- In his old mobile home, Raleigh stares into his bathroom
+mirror, his eyes red and ragged with despair.
+-- Raleigh pulls his fist back and punches the mirror,
+leaving the fracture we remember.
+-- Off the Santa Monica Pier, TORTUGA faces Coyote Tango.
+Hulking and turtle-like, carapace studded with jagged rows of
+bony plates. It opens its trifurcated beak and SCREAMS.
+YANCY (V.O.)
+What do you need me to do, Rals?
+RALEIGH (V.O.)
+I need you to get out of my head!
+-- In the ruined streets of Tokyo, Mako strains to squirm
+free of the Men in HAZMAT suits holding her back. No sound.
+47.
+CONTINUED:
+(CONTINUED)MAKO (V.O.)
+The silence... That's the worst.
+-- Silent, slow motion. Tortuga charges Coyote Tango, plowing
+up an angry foam that hangs in the air.
+MAKO (V.O.)
+You don't remember what silence is
+until it comes flooding back.
+-- Tortuga opens his three-part beak and from his throat a
+harpoon-sharp tongue launches like a viper to stab deep into
+the Jaeger's mechanical chest.
+RALEIGH (V.O.)
+You wanna know I did all I could?
+-- Again, we see Mako reaching for the wrecked Jaeger.
+RALEIGH (V.O.)
+I dunno... Probably not.
+BACK TO PRESENT
+Raleigh stares into space as they dance, dwelling on his
+guilt. He glances down and notices Mako looking right up at
+him, her eyes softened with an empathic sadness.
+They keep dancing, and without a word, Mako rests her head on
+Raleigh's shoulder as the band sings, "Til the last beat /
+Til the last fleeting beat / Of my heart..."
+Pentecost watches from the shadows. He nods to himself and
+lets out a small sigh of relief.
+TO BLACK:
+INT. DOJO CORRIDOR -- NIGHT (GHOST-DRIFT/DREAM)
+From Raleigh's POV, we drift down the dark, wood-floored
+hallway, passing opaque paper windows.
+INT. DOJO TRAINING HALL -- NIGHT (GHOST-DRIFT/DREAM)
+Raleigh finds Mako alone in the training hall, dancing by
+herself, as if with an invisible partner.
+She looks up from the footsteps on the floor and sees
+Raleigh. She speaks perfect English...
+MAKO
+We should practice the steps. We'll
+be tested soon.
+Raleigh replies in subtitled Japanese. Nevertheless, they
+seem to comprehend each other.
+48.
+CONTINUED: (2)
+(CONTINUED)RALEIGH
+I'm no good with tests. I used to
+cheat off my brother.
+MAKO
+That's not cheating. That's just
+depending on someone.
+She reaches out her hand.
+MAKO (CONT’D)
+Dance with me.
+Raleigh takes her hand and the music swells, not Siouxsie, a
+deep BASE PULSING like a heart.
+SIREN VOICES trace strange Japanese harmonies, chased by the
+PERCUSSIVE PLUCKING of a shamisen (an old Japanese lute).
+Dreamy and sharp; a tense, sensual rhythm.
+They hold each other, as if waltzing, but without seeing
+their feet it seems as if the room is spinning around them.
+RALEIGH
+It's not quite right...
+MAKO
+We should be closer.
+RALEIGH
+It only works when we're close.
+They look deep into each other's eyes as they draw closer.
+Tight on their faces as their bodies touch. Each draws a gasp
+of surprise, without looking down. They don't have to.
+We see why -- their clothes are suddenly gone. Skin to skin.
+Their intimacy hidden, pressed between them. Goosebumps
+prickle their bare torsos.
+MAKO
+Is that too close?
+He shakes his head as the dojo spins and finally becomes
+A GROVE OF CHERRY BLOSSOMS
+stirred by an heavy storm clouds. Silent lightning cracks the
+sky. Falling petals course through the whirling veins of
+wind. They hold one another's gaze, oblivious to all else.
+RALEIGH
+We'll be tested soon.
+MAKO
+We'll be ready.
+49.
+CONTINUED:
+(CONTINUED)Their lips touch and open. A kiss, slow and cool. The world
+spins faster around them. The wind strengthens.
+The trees shed pale pink petals, twirling through the air in
+urgent eddies to envelope the two kissing bodies, blurring
+with a glow that swells to bleach the whole scene
+TO WHITE:
+INT. RALEIGH'S ROOM -- NIGHT
+Raleigh opens his eyes, startled awake by the dream.
+INT. MAKO'S ROOM -- NIGHT
+Mako jolts up, holding her chest as she catches her breath.
+INTERCUT RALEIGH/MAKO
+Raleigh sits on the edge of his bed, planting his feet on the
+floor, wondering -- Was that both of us or just me? He
+glances up at his door as if expecting a knock.
+Mako sits in bed, taking stock of the dream.
+Raleigh gets out of bed and heads for his door.
+Mako presses her eye to her peephole.
+Raleigh opens his door to find Mako's door closed.
+Mako watches him through her peephole.
+Raleigh lifts his knuckles, about to knock on Mako's door.
+Mako can't help but smile to herself as she watches him
+pause, just inches away.
+Raleigh stops. He rethinks it and finally folds his arms.
+Unsure of what he might say. He turns back to his room.
+His indecision teases a snicker from Mako's growing smile - a
+small sound, but Raleigh stops mid-step, and she quickly
+stifles her amusement - Did he hear that?
+Raleigh glances over his shoulder to take one last look at
+Mako's door - He thought he heard something. He waits and
+finally retreats to his room.
+Mako rests her back against the door.
+FADE TO:
+DARKNESS, punctuated by a blur of multi-colored lights.
+FLICK (V.O.)
+Such a perfect day...
+50.
+CONTINUED: (2)
+(CONTINUED)We hear dreamy CARNIVAL MUSIC as the lights sharpen --
+EXT. SANTA MONICA PIER -- SUNSET (DREAM)
+Huddled close together, Yancy and Flick ride the seaside
+Ferris wheel.
+FLICK
+I remember it so clearly.
+YANCY
+Yeah? What happened next?
+FLICK
+You had the guy stop us at the top
+so you could ask me...
+The Ferris wheel stops just as their gondola reaches the
+pinnacle. The sunset paints the Pier and the ocean in
+dazzling shades of purple and orange. Flick smiles.
+YANCY
+And you said?
+FLICK
+I couldn't say anything. I just
+kissed you.
+YANCY
+I took it as a yes.
+FLICK
+What if I said no?
+YANCY
+Oh, he wasn't going to let us down
+without my signal. I was pretty
+sure I could talk you into it.
+They both laugh and Flick cozies up to him. Her smile starts
+to fade as some part of her begins to realize it’s not real.
+FLICK
+I used to love this place. I
+haven't been back since --
+She hears a deafening ROAR and turns to see another memory
+playing out in the water just off the Pier --
+Two vast figures clashing in the surf: the kaiju Tortuga
+charges the Jaeger Coyote Tango.
+Dread washes over Flick's face as she watches.
+The kaiju opens its three-part beak and launches its harpoon-
+tongue. The moment the speared tip sinks into the mech's
+armor, the whole vista freezes. Time stops.
+51.
+CONTINUED:
+(CONTINUED)Flick can't look away from the tragic instant.
+FLICK (CONT’D)
+Make it stop, Yance.
+YANCY
+Only you can make it stop.
+FLICK
+How?
+YANCY
+Just get off the ride.
+He smirks and vaults out of the gondola. She lunges for him,
+but as she reaches over the edge --
+-- he’s gone. Not falling. Not on the ground. Just gone.
+Flick looks around and realizes the whole Pier is deserted.
+Stranded atop the Ferris wheel, her searching eyes fall again
+on that frozen moment out in the still water, Tortuga
+stabbing the Jaeger, and her desperation mounts.
+FLICK
+Yancy!
+She calls after him as she leans over the edge of the
+gondola, frantically searching the ground, so far below.
+FLICK (CONT’D)
+Yancy... Where are --
+The gondola door suddenly pops open under her weight. She
+falls through the air --
+TO BLACK:
+We hear a RHYTHMIC CLATTER in the dark.
+NEWT (O.S.)
+Flick? Are you okay?
+Newt turns on the lights and we find ourselves --
+INT. SLEEPING CAR -- NIGHT
+Flick rubs her head and looks up from the floor of the small
+rail-car as Newt climbs out of his berth.
+NEWT
+You fell out of your bunk.
+FLICK
+It was a nightmare...
+52.
+CONTINUED:
+(CONTINUED)Newt gently as helps her into a chair. He plants himself on
+the floor in front of her, and roots through a first aid kit.
+He tucks her hair aside to get a look at the cut on her head.
+NEWT
+Doesn’t look too bad.
+He soaks a cotton in peroxide and dabs it on her forehead, a
+tenderness Flick seems to resent.
+NEWT (CONT’D)
+What was it about?
+FLICK
+(lying)
+I can't remember...
+She watches him, hard and close. He doesn't notice. She tries
+to remain silent, but finally her thoughts just spill out.
+FLICK (CONT’D)
+It’s never going to happen, Newt.
+NEWT
+What’s never going to happen?
+She gives him a look -- "You know exactly what." He looks
+down from the cut, meeting her eyes and catching her meaning.
+He doesn’t reply right away. He just gingerly adheres the
+bandaid to her forehead, careful to hold her hair out of the
+way. He turns to pack up the first aid kit.
+NEWT (CONT’D)
+I’m just trying to help.
+He doesn’t look at her. He puts the first aid kit away and
+finds in the cabinet a mylar bag of something. She watches
+him load the coffee maker, puzzled.
+FLICK
+Coffee? It's 3AM.
+NEWT
+Yeah, but you shouldn't go back to
+sleep. You might have a concussion
+or something. I was gonna stay up.
+Flick nods, frowning. She looks away, ashamed of herself.
+FLICK
+Where are we?
+NEWT
+Basically nowhere.
+53.
+CONTINUED:
+(CONTINUED)Flick stares out into the jet-black landscape of the Outback,
+unmarred by the frailest shred of city light.
+EXT. DIRT ROAD -- DAY
+A battered old jeep negotiates the red dust of a neglected
+highway crossing the arid landscape.
+SUPER: On the outskirts of Loongana -- Nullarbor Plain,
+Western Australia
+INT. JEEP -- CONTINUOUS
+Up ahead, Newt spots a cluster of old clapboard houses and
+Quonset huts, a mummified husk of a former mining settlement.
+FLICK
+This can’t be it...
+They both spot the sign dusted with red earth hanging over
+the front gate: “THE ESCHATON INSTITUTE.”
+NEWT
+No, this is it.
+EXT. THE ESCHATON INSTITUTE -- CONTINUOUS
+A man waits in the shade of what looks like an old bus stop
+just outside the entrance to the settlement. He stands as the
+jeep pulls up, watching Newt and Flick climb out.
+IVO CZERNY (77) a silver-haired academic with weary eyes and
+a charismatic smile, august and articulate, suspiciously
+devoid of any obvious eccentricities.
+CZERNY
+I was worried you’d gotten lost.
+Newt smiles and approaches his former mentor. Czerny opens
+his arms to embrace Newt in a warm, back-slapping bear-hug.
+CZERNY (CONT’D)
+Good to see you! And this must be --
+NEWT
+Felicity Kincaid --
+FLICK
+Flick. Good to meet you, Doctor.
+CZERNY
+Seeker of truth, yes? You’ve come a
+long way to find it. I don’t intend
+to disappoint. Now then -- let’s
+get out of this merciless sun.
+54.
+CONTINUED: (2)
+(CONTINUED)He takes their bags and leads them through the front gate
+onto the grounds of a rundown outback plantation. They head
+towards a sagging, dust-stained Victorian house.
+CZERNY (CONT’D)
+I must say, your timing is somewhat
+serendipitous.
+INT. MAIN HOUSE -- CONTINUOUS
+A TV plays in the musty parlour. Flick, Newt, and Czerny
+gather around.
+Between the hiccups in the temperamental reception, we catch
+glimpses of the live footage: a Jaeger battling a kaiju.
+FLICK
+This isn’t live, is it?
+NEWT
+Where is it?
+CZERNY
+South Korea.
+Flick shakes her head.
+FLICK
+But it’s only been two weeks...
+CZERNY
+Thirteen days. Since Lima.
+Czerny nods and mutters under his breath.
+CZERNY (CONT’D)
+It’s happening.
+RALEIGH (PRE-LAP)
+What's happening?
+INT. LOUNGE -- DAY
+Duc perches on the edge of his seat, watching a different
+news report on the same attack. Raleigh has just wandered in.
+DUC
+There was an attack. South Korea.
+On the TV, we see the kaiju -- a mountain of crustacean
+armor, like an outsized mole crab or woodlouse.
+It sits motionless at the end of an arrow-straight trail of
+destruction cutting into the city.
+55.
+CONTINUED:
+(CONTINUED)RALEIGH
+Is it over?
+DUC
+Well they slammed it with energy
+volleys - ion pulses, wave lasers,
+the works, but...
+He trails off, listening to the news. But Raleigh can't glean
+the thrust of the non-English report.
+RALEIGH
+But what -- ?
+DUC
+Sorry. It blew out this huge EMP
+like it had been sucking up every
+gigawatt. Knocked out power all
+over Busan, their Jaeger included.
+Which was fine when it looked like
+it killed itself in the process,
+except now there's some kind of --
+Raleigh steps closer to the TV, his brow furrowed.
+RALEIGH
+What the hell is that?
+On the tv, the news chopper frantically zooms in, trying to
+focus on the kaiju. Under its semi-translucent carapace,
+something writhes and shifts.
+DUC
+There's something alive inside it.
+RALEIGH
+Another KJ?
+The monster's armored back starts to bulge and split open.
+Long spindly legs force their way out. The thing inside lets
+out a chilling SCREAM as it starts to squirm free.
+Suddenly, alert klaxons BRAY urgently in the halls and Duc
+bolts for the door --
+DUC
+Saw that one coming...
+But he stops in his tracks when he hears the announcement --
+LOUDSPEAKER (FILTERED)
+Roma Roma Roma - condition red.
+Repeat - Roma Unit to ready
+stations. This is not a drill.
+Duc turns to Raleigh, who can scarcely believe it himself.
+56.
+CONTINUED:INT. HALLWAY -- CONTINUOUS
+Raleigh bursts out into the hall just as Mako pokes her head
+out a few doors down. They exchange a deeply stunned look --
+Holy shit, that's us...
+Without exchanging a single word, they both scramble down the
+hall as the KLAXONS blare.
+INT. CHANGEROOM -- MOMENTS LATER
+Mako and Raleigh quickly undress, much too anxious to be
+bashful or titillated. Mako mumbles to herself.
+MAKO
+We can do this. We've trained for
+this. You trust me, I think.
+They pull on their drivesuits: single-piece, form-fitting
+neoprene jumpsuits laced with intricate webs of fiber optics
+and studded with an array of data ports.
+MAKO (CONT’D)
+I trust you.
+Raleigh turns. To him (and to us), she just spoke English.
+RALEIGH
+What did you say?
+She looks at him, uncomprehending.
+MAKO
+What? What's wrong?
+RALEIGH
+Sorry... I just -- I thought I
+heard something.
+INT. JAEGER LAUNCH BAY -- DAY
+Duc follows Pentecost across the catwalk. The main floor
+swarms with activity.
+DUC
+It should be us suiting up --
+PENTECOST
+It's not Tokyo. It's Busan --
+DUC
+I know it's Busan, but they're not
+ready. They're going to --
+PENTECOST
+They'll be fine.
+57.
+(CONTINUED)DUC
+We'd be finer.
+Pentecost enters the
+CAGE ELEVATOR
+and turns to spell it out for Duc.
+PENTECOST
+You'd go to Busan and leave COSDEC
+command and thirteen million
+Tokyoites in the care of the crew
+you didn't think was ready?
+DUC
+You can't send them out there!
+PENTECOST
+It's not my call, Lieutenant!
+He slams the door on Duc and rides the cage down to
+THE MAIN FLOOR
+where he bursts out and jogs to Gipsy Danger.
+He finds Raleigh and Mako climbing into their conn-pods at
+the foot of the docking tower.
+PENTECOST (CONT’D)
+Don't sweat it. You'll have audio
+translation in the ear and text on
+the HUD. I'll be in LOCCENT.
+They both nod nervously as TECHNICIANS connect cables to the
+ports on their drivesuits. He tosses them both a pill.
+RALEIGH
+What's -- ?
+PENTECOST
+Arocin. For the rads. The Mark-1's
+pretty much a giant, walking
+nuclear reactor.
+They both swallow their anti-radiation drugs.
+PENTECOST (CONT’D)
+Keep those subroutines straight.
+The IR beam's --
+RALEIGH
+-- On the beta channel.
+PENTECOST
+Mako, that temper of yours --
+58.
+CONTINUED:
+(CONTINUED)MAKO
+-- Yes, Sensei.
+PENTECOST
+No showboating! Your job is to keep
+that KJ busy! And stay alive!
+(beat)
+You hear me, Mako? Don't try to
+impress anybody! This isn't a test!
+(beat)
+You've got this! Okay?
+RALEIGH
+Thank you, Sensei. MAKO
+Thank you, Sensei.
+They both strap on their helmets and give the signal. The
+canopy on the conn-pods slides closed, sealing them in their
+self-contained control capsules.
+The loading arms CLATTER up the tower, hoisting the conn-pods
+up to their loading positions on the Jaeger.
+The lower arm swings to deposit Mako's pod on the Jaeger's
+spine, which hangs out like a ramp to draw the pod inside the
+torso before closing over it. The armor BUCKLES shut.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Without the display activated, the cockpit is cramped and
+dark. Mako shuts her eyes and breathes deep as she feels the
+pod SHUDDER and LOCK into place.
+INT. JAEGER LAUNCH BAY -- CONTINUOUS
+The upper arm deposits Raleigh's pod into the Jaeger's open
+neck. As the pod sinks into the mech, the Jaeger's head
+GROANS back into place and LOCKS closed over the slot.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+Raleigh nervously hums "Reaching for the Moon" as he runs
+through his pre-launch checks.
+INT. JAEGER LAUNCH BAY -- CONTINUOUS
+The Jumphawks lower cables to the Jaeger where TECHNICIANS in
+safety orange vests, so small on the machine's mighty
+shoulders, hook the ends to latches on the mech's armor.
+The Jumphawks rise, their engines ROARING to full power, and
+the lift-cables go taut, straining until the incredible
+machine begins to lift off the ground.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+A friendly TONE precedes a soothing DIGITAL VOICE.
+59.
+CONTINUED: (2)
+(CONTINUED)DIGITAL VOICE
+Pons initialized. Input ready.
+Just as Raleigh plugs the Pons's mainline into the port
+behind his ear, the front of the cockpit melts away to the
+three-sixty projection of the outside.
+All of Tokyo unfolds below him as the Jumphawks lift the
+Jaeger out of Shatterdome.
+He feels Mako wire into the Pons with a shrill FEEDBACK
+SQUEAL and a swell of AMBIENT VOICES. Their anxiety fuels the
+dissonant cacophony of memories MURMURING in the background.
+INT. LOCCENT -- DAY
+Pentecost puts an earpiece in his ear as he enters and
+quickly moves to stand over the communications console.
+At the console, two DISPATCHERS (one English; one Japanese)
+and two PROXIES. Proxy-1 explains their role to Mako in
+Japanese as Proxy-2 explains in English for Raleigh.
+PROXY-2
+Roma-1, this is your translation
+Proxy. Hereafter, I'll be relaying
+Roma-2's chatter in English. Copy?
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Mako shakes her head, suddenly daunted by the lunacy of
+trying to drive a Jaeger like this.
+MAKO
+Copy, Proxy-1...
+(laughing grimly)
+If we get out of this alive --
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+Proxy-2 translates the rest for Raleigh.
+PROXY-2 (FILTERED)
+-- remind me to buy an English
+dictionary.
+RALEIGH
+Proxy-2, please tell me that was
+Mako.
+PROXY-2 (FILTERED)
+Affirmative.
+60.
+CONTINUED:INT. LOCCENT -- CONTINUOUS
+General Takada stands behind a central dais from where he
+coordinates LOCCENT's complement of various OPS OFFICERS,
+TECHNICIANS, and TELEMETRY SPECIALISTS.
+TAKADA
+Is the Pons hot?
+OPS OFFICER
+Yes, sir. They're both plugged in.
+TAKADA
+On the masterboard.
+A new insert pops up on the wide front-screen; two waveform
+patterns zigzagging wildly out of sync -- not that we can
+read it, but we see the reactions of the people who can:
+Pentecost turns to glare at the General, but Takada ignores
+him, just scowling at the screen. Kaori gasps and covers her
+mouth. Duc runs his fingers through his hair.
+KAORI
+(whispering to Duc)
+We have to do something...
+DUC
+There's nothing we can do.
+EXT. KOREA STRAIT -- DAY
+The ROARING Jumphawks fly in formation over choppy seas,
+carrying Gipsy Danger into rough weather ahead.
+DISPATCH (FILTERED)
+Roma-1, Your target is a cat-3
+kaiju. Reporting name: Invidia. Has
+demonstrated the capacity to absorb
+and reconstitute directed energy
+volleys. Recommend you limit your
+attacks to melee and solid
+projectiles. Invidia is moving
+inland from Haeundae Beach. Drop
+zone will put you one klick West to
+intercept. ETA: three and a half
+minutes. Good hunting.
+EXT. BUSAN COAST -- DAY
+A heavy, tropical rain clouds the shapes of the cluttered
+towers and high-rises along the water's edge. Columns of
+smoke rise to tangle with the low storm clouds.
+SUPER: Haeundae Beach -- Busan, South Korea
+Gipsy Danger WHOOSHES past as the V-50s bring her in.
+61.EXT. HAEUNDAE BEACH -- CONTINUOUS
+The rain pours as the kaiju INVIDIA stalks through the fresh
+devastation. A spindly, mantid shape; tall as a skyscraper.
+She twists her viper-like head to HISS at a squad of fighter
+jets. She lashes out with her mantis-arms as the jets SCREAM
+by, unloading a hail of BOMBS that only annoy the beast.
+With the shape of Gipsy Danger growing larger and darker in
+the rain-smeared sky, the jets bank away, leaving the fight
+to the pros.
+The V-50s swing around to drop the Jaeger up the street from
+the kaiju. The road SHUDDERS as Gipsy Danger's weight hits.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+RALEIGH
+Okay, Mako. Motor active in three.
+Mako, confirm.
+PROXY-2 (FILTERED)
+Confirmed.
+RALEIGH
+Three, two, one -- motor active.
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+Invidia turns to face this new challenger, cocking her head.
+She unfolds a set of long translucent wings.
+Her wings beat so fast that they seem to wave very slow, not
+enough to get the monster off the ground, but enough to make
+her more nimble than something of her size should be.
+Her THRUMMING wings VIBRATE the buildings like a tuning fork
+and stir up transient vortexes, strong as tornados, flinging
+cars and buses about before dissipating.
+INT. LOCCENT -- CONTINUOUS
+The tension in the command center spikes as they witness the
+kaiju's astonishing speed. We hear Mako's Japanese on the
+radio a few seconds before the Proxy starts to translate.
+PROXY-2
+Raleigh. Autocannon.
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+RALEIGH (FILTERED)
+Autocannon hot.
+62.
+(CONTINUED)The Jaeger's huge Gatling gun SPEWS a steady stream of
+rounds, each big enough to SHATTER a car, CUTTING a swathe of
+devastation as it swivels to track the kaiju.
+But Invidia evades the fire, dancing around the plumes of
+shrapnel with the aid of her BUZZING wings.
+The gun ROARS, punching craters in the street and slicing
+through an office building, but not catching the fleet-footed
+Invidia before she FLITS out of sight, too fast.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Mako curses in Japanese as Invidia slips away.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+RALEIGH
+Goddamn it! It's those wings. She's
+too fast for a Mark-1.
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+Out of sight, the DRONE of the monster's wings provide the
+only hint of her trajectory.
+Gipsy Danger shuffles her huge mechanical legs to track the
+supposed path of the kaiju; built for brute strength and
+naked power, simply too slow to match the beast's movements.
+The DRONING grows, SHUDDERING nearby buildings -- Invidia is
+getting closer.
+A few blocks away, she draws a predatory circle around Gipsy
+Danger, skittering over and between the boxy urban terrain.
+The Jaeger turns slowly clockwise, trying to zero in on the
+sound as Invidia remains easily outside the periphery.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+MAKO
+LOCCENT, I need a bird's eye from
+one of the V-50s.
+An aerial view of the battle area opens up on her wraparound
+display. On it, she spots Invidia coming to a position just
+behind the Jaeger, preparing to pounce.
+MAKO (CONT’D)
+Raleigh, she's on our six!
+On the aerial, Invidia lunges for the Jaeger's back, her
+mantid arms open for the kill.
+MAKO (CONT’D)
+Incoming! Get down! Down! Down!
+63.
+CONTINUED:INT. CONN-POD ROMA-1 -- CONTINUOUS
+Raleigh hears Mako's frantic Japanese and feels her anxiety,
+unnerved by the translation delay.
+PROXY-2 (FILTERED)
+Raleigh, she's on our six! Incom--
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+Gipsy Danger crouches just as Invidia soars over -- her
+taloned legs GRAZING the Jaeger's shoulders.
+The kaiju alights in the road ahead and turns to face the
+Jaeger. She rears up SCREECHING, and throws her mantid arms
+open to tower over Gipsy Danger; an intimidation display.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+Raleigh catches his breath, utterly daunted.
+RALEIGH
+We're -- we're too slow...
+The MURMURING voices in the Pons swell, spilling over each
+other in tense fragments.
+MAKO (V.O.)
+Silence...
+RALEIGH (V.O.)
+Like an anchor...
+MAKO (V.O.)
+Comes flooding back...
+RALEIGH (V.O.)
+Dragging me down... Drowning...
+MAKO (V.O.)
+I've never had to try before...
+EXT. LEO CARRILLO STATE BEACH -- NIGHT (DRIFT)
+Raleigh and Yancy stand atop the sea-battered rocks.
+MAKO (V.O.)
+I don't know how...
+YANCY
+What do you need me to do, Rals?
+MAKO (V.O.)
+I don't know what to do...
+RALEIGH
+I need you to get out of my head!
+64.
+(CONTINUED)Maddened by the noise in his head, Raleigh finally spins to
+face his brother, finding himself --
+INT. OSAKA PENTHOUSE -- NIGHT (DRIFT)
+Young Mako stands at the tall windows, watching Trespasser's
+rampage. She looks over her shoulder to Raleigh.
+YOUNG MAKO
+He's not coming back, is he?
+She turns back to watch the monster.
+YOUNG MAKO (CONT’D)
+I don't know what to do...
+Trespasser throws open his jaws in a silent roar and Raleigh
+sets his jaw and marches towards Young Mako with purpose.
+Outside, the roar's sound-wave rips through high-rises as it
+spreads closer.
+Raleigh stands beside Young Mako at the window and offers his
+hand. She looks up at him, uncertain, but finally she takes
+it, a critical connection --
+-- just as the ROAR blows out the windows. But it doesn't
+throw either Raleigh or Young Mako back. Their hands clasped,
+it washes over them -- a baptism of THUNDER.
+INT. CONN-POD ROMA-2 -- DAY (PRESENT)
+Mako's eyes shoot open with urgent clarity... and when she
+speaks, it sounds like English to us.
+MAKO
+Raleigh, I need you to --
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+It sounds like English to Raleigh too, but he doesn't have
+time to be astounded. They have a job to do.
+MAKO (FILTERED) PROXY-2 (FILTERED)
+RALEIGH
+Shut the hell up! I heard her!
+INT. LOCCENT -- CONTINUOUS
+Pentecost catches it first. He looks up at the Pons readouts
+on the masterboard. Proxy-1 starts to translate "Shut the
+hell up" into Japanese, but Pentecost interrupts him.
+PENTECOST
+Stop translating. Cut the com.
+65.
+CONTINUED:
+(CONTINUED)PROXY-2
+You want us to leave them --
+PENTECOST
+Look at the interlace!
+TAKADA
+Commander?
+PENTECOST
+He "heard" her.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+RALEIGH
+He can absorb energy --
+MAKO (FILTERED)
+The wings are too thin. I think we
+can burn them and --
+RALEIGH
+-- slow him down! Right right!
+Okay, IR beam is up.
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+Gipsy Danger's chest opens up to reveal an elaborate array of
+lenses and mirrors that begin to glow white hot.
+A heat beam, invisible to the naked eye but for the
+shimmering ripples of heat. The torrential rain boils away
+where ever it crosses the channel of superheated air.
+Invidia recoils in pain, SHRIEKING. Her thin wings curl and
+melt, finally turning to cinders in the wind.
+INT. LOCCENT -- CONTINUOUS
+The control room listens, amazed. To their ears, Mako speaks
+frenzied Japanese and Raleigh replies in English.
+RALEIGH (FILTERED)
+Right on. My thoughts exactly.
+KAORI
+(to Duc, whispering)
+They understand each other?
+Duc just shrugs and shakes his head, speechless.
+OPS OFFICER
+Interlace is ninety percent and
+climbing. Limbic resonance optimal.
+Oxytocin and vasopressin spiking.
+66.
+CONTINUED:
+(CONTINUED)PENTECOST
+(to self)
+That's it. Now you're dancing.
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+Invidia trembles as the rain STEAMS from her scorched wings.
+RALEIGH (FILTERED)
+Setting you up for a railgun firing
+solution. Ready?
+MAKO (FILTERED)
+Hit me.
+Gipsy Danger raises her left arm and trains the long, arm-
+mounted cannon on Invidia.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Mako focuses on her wraparound vista, willing the drifting
+targeting pipper to LOCK onto Invidia.
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+We hear the magnetic drivers inside the barrel SPIN UP to
+finally launch a kinetic round with a deafening SONIC BOOM.
+The supersonic bunker-buster SLAMS into one of the kaiju's
+mantid arms, splintering the exoskeleton and leaving the
+devastated limb hanging by a sinew.
+In a delirious rage, Invidia RIPS the useless arm off and
+flings it at Gipsy Danger.
+It falls short, SMASHING into a mall.
+The kaiju lets out a bone-shuddering SCREAM at her attacker,
+before launching into a full-on charge.
+Raleigh watches Invidia charge, slavering and savage. She
+seems to slow down as she draws closer.
+Time itself seems to be grinding to a halt. The heavy rain
+seems to hang in the air.
+EXT. SANTA MONICA PIER -- DUSK (DRIFT)
+Tortuga charges through the water in slow motion.
+MAKO (V.O.)
+Raleigh. Raleigh.
+INT. DOJO TRAINING HALL -- NIGHT (DRIFT)
+Raleigh and Mako dance alone on the dojo floor. Raleigh
+stares past Mako, into space.
+67.
+CONTINUED:
+(CONTINUED)RALEIGH
+He's charging... Too fast...
+MAKO
+Look at me.
+His eyes lower and focus on her. She smiles.
+MAKO (CONT’D)
+We got this. You know why?
+INT. CONN-POD ROMA-1 -- DAY (PRESENT)
+Invidia now fills the wraparound display, charging in what
+Mako and Raleigh perceive to be ultra slow motion. We hear
+their telepathic dialogue continues --
+RALEIGH (V.O.)
+Why?
+Raleigh watches the kaiju with a frozen expression.
+MAKO (V.O.)
+It's my favorite, Raleigh -- the
+Mark 1 has a sword. Isn't that just
+the coolest thing?
+A grin of realization slowly crosses Raleigh's face.
+EXT. HAEUNDAE BEACH -- CONTINUOUS
+A heavy, chain-like whip SPILLS from Gipsy Danger's gauntlet;
+a length of razor-sharp metal segments threaded with a thick
+cable. The chain's weight PULVERIZES the asphalt.
+An instant later, the cable draws taut, pulling the
+interlocking metal segments tight together -- RATA-CHINK --
+stiffening the chain-whip into a sword.
+It barely takes a second for the Jaeger to deploy the weapon
+and, in one fluid motion, pull back and swing --
+-- RIPPING clear through Invidia's neck. Her head falls off.
+Her monstrous body scrambles and convulses before finally
+TOPPLING onto the street.
+INT. LOCCENT -- CONTINUOUS
+The whole room shoots to its feet, erupting in CHEERS and
+APPLAUSE. The Ops Officer shouts over the excitement.
+OPS OFFICER
+Kaiju Invidia has been neutralized!
+Repeat -- threat neutralized!
+Jumphawks rendezvous at Gipsy
+Danger and prep for return!
+68.
+CONTINUED:
+(CONTINUED)Duc pumps his fist in the air and hugs Kaori. Pentecost
+laughs in sheer relief. The General smirks and nods.
+INT. SHATTERDOME -- DAY
+Gipsy Danger stands by her docking tower. The loading arms
+bring the conn-pods down as a crowd of riotously APPLAUDING
+PERSONNEL starts to swarm around the Jaeger.
+The canopy of Raleigh's conn-pod opens, he's on his feet,
+disconnecting his driveskin.
+He sees Mako's canopy open and points to her, shouting over
+the jubilant noise.
+RALEIGH
+You! You can understand me??? You
+know what I'm saying???
+She beams and shouts back.
+MAKO
+Yeah! Can you understand me?
+RALEIGH
+Yes!
+(NOTE: When she speaks, Mako's lips move out of sync to the
+words we hear -- like a dubbed movie. The discrepancy
+gradually ebbs as their relationship develops. Eventually she
+seems to be speaking naturally.)
+They each finish unhooking their drivesuits and vault out of
+their conn-pods.
+The CHEERING crowd parts for them to find each other. They
+embrace in a enthusiastic hug. Raleigh laughs from his soul
+as he picks her up off the ground, spinning her around.
+He turns to the crowd and lifts her arm up for the crowd,
+pointing at her.
+RALEIGH (CONT’D)
+First kill! First kill!
+The crowd goes berserk, WHISTLING, CLAPPING, CHEERING. Mako
+laughs, blushes, and nods a graceful "thank you."
+INT. TORABURU KARAOKE BAR -- NIGHT
+Packed with SHATTERDOME PERSONNEL; still in their uniforms;
+drinking, celebrating, and singing under blacklights.
+The whole dance floor is a giant flatscreen playing flashy
+action clips from mecha anime like Gundam, Mazinger,
+Evangelion, Voltron, and others.
+69.
+CONTINUED:
+(CONTINUED)We find Mako and Raleigh sitting at a booth overlooking the
+action, with Duc fawning over them both.
+DUC
+We thought you guys were dead! That
+was amazing! You can understand
+each other? Right now? Because to
+my ears, she's speaking Japanese.
+RALEIGH
+I hear it in English.
+DUC
+(to Mako, subtitled)
+And you hear him in Japanese?
+She nods.
+DUC (CONT’D)
+What if I speak English to you?
+Mako looks at him with a blank look, then to Raleigh.
+RALEIGH
+He wants to know if you understand
+what he's saying.
+MAKO
+Oh. No, I don't.
+DUC
+(laughing, amazed)
+That's the weirdest thing. Must be
+like a ghost-drift, but I've never
+heard of anything like it.
+RALEIGH
+Heard of any crews who didn't speak
+the same language to begin with?
+DUC
+Fair point...
+Kaori comes up with a drink for her husband. She sets it on
+the table and bends down to whisper something in his ear. He
+looks up as if to say -- "Really?" She nods.
+DUC (CONT’D)
+Hang on. You'll love this.
+He hops up and scruffs Mako's hair as he shouts to the crowd.
+DUC (CONT’D)
+First kill!
+The crowd cheers and Duc makes his way to the stage.
+70.
+CONTINUED:
+(CONTINUED)KAORI
+You two make a cute couple.
+Mako turns to playfully smack Kaori, who laughs and winks at
+her, before following her husband into the crowd.
+RALEIGH
+What did she say?
+MAKO
+She said -- she had to -- go down
+there for some reason...
+They beam at each other across the table, giddy and shy, like
+a pair of school-kids.
+Duc's voice spills from the sound system as he gets the mic.
+DUC
+This one goes out to the odd couple
+that saved Busan...
+We hear a wispy synth riff and he begins to sing --
+DUC (CONT’D)
+Let's dance in style, let's dance
+for a while / Heaven can wait,
+we're only watching the skies /
+Hoping for the best but expecting
+the worst / Are you gonna drop the
+bomb or not? --
+Alphaville's "Forever Young." The crowd cheers him on and he
+hams it up. Mako rolls her eyes.
+RALEIGH
+I got you something.
+MAKO
+You didn't.
+RALEIGH
+First kill, right?
+He hands her a present. She cocks an eyebrow.
+RALEIGH (CONT’D)
+Nothing huge, but it's the only
+thing you ever said you wanted.
+She tears into the package -- a Japanese/English dictionary.
+She laughs. Raleigh shrugs.
+RALEIGH (CONT’D)
+We made it out alive, didn't we?
+She looks off into space for a moment, having a thought.
+71.
+CONTINUED: (2)
+(CONTINUED)MAKO
+It's really loud... I'm thinking
+about heading back to base.
+RALEIGH MAKO
+RALEIGH
+Oh -- would that be cool?
+MAKO
+I feel like now that we can talk --
+RALEIGH
+-- we should be getting to know
+each other. Right. Me too.
+MAKO
+Yeah, we can talk on the train.
+RALEIGH
+I'm game. Lead the way, gunslinger.
+INT. DORMITORY HALLWAY -- NIGHT
+Raleigh and Mako come down the empty hall (everyone still out
+partying). Raleigh glances down at his watch.
+RALEIGH
+Earlier than I thought.
+They stop just outside their respective quarters.
+MAKO
+I'm not that tired. Maybe I'll
+brush up on my English.
+RALEIGH
+Yeah, I've been trying to learn
+some Japanese off TV Tokyo...
+MAKO
+Yeah? How's that going?
+RALEIGH
+Not good.
+MAKO
+Well I'm --
+RALEIGH
+Right. I'll just let you --
+He trails off as they both turn to go into their rooms.
+MAKO
+Hey Raleigh? Sweet dreams.
+72.
+CONTINUED: (3)
+(CONTINUED)She smiles impishly.
+RALEIGH
+I knew it! I knew it!
+Mako cracks up, doubling over. Raleigh turns beat red. She
+manages to stop laughing long enough to say --
+MAKO
+Sorry. I couldn't resist. It's
+cool. Really. I barely remember it.
+RALEIGH
+You don't?
+MAKO
+Who can remember a dream? Do you?
+RALEIGH
+Only vaguely.
+They smile at each other -- a lie agreed upon.
+RALEIGH (CONT’D)
+It happens, right?
+She nods. They both lean in their doorways. Neither can think
+of anything else to say, but neither wants to go.
+MAKO
+Well... Goodnight, Raleigh.
+Finally she backs into her room and starts to close her door.
+Raleigh does likewise.
+RALEIGH
+Night, Mako.
+INT. MAKO'S ROOM -- CONTINUOUS
+She shuts the door -- and hesitates with her hand on the
+doorknob, chewing her lip, thinking.
+INT. DORMITORY HALLWAY -- CONTINUOUS
+Mako opens her door just as Raleigh opens his.
+They both chuckle awkwardly as they stare at one another
+across the hall, a thought on the tip of their tongues,
+unsure of how to phrase it.
+Simultaneously, they realize there's no point in trying to
+phrase it, and they let themselves collide in the middle of
+the hallway, kissing hungrily.
+Without breaking Mako backs Raleigh into his room and kicks
+the door closed behind her.
+73.
+CONTINUED:EXT. THE ESCHATON INSTITUTE -- NIGHT
+A bonfire swells, spitting embers into the starry night sky
+as Czerny heaps more kindling onto the blaze. Flick sits
+across the fire. Newt stands, arms crossed, wary.
+CZERNY
+The Interstice is a gateway to
+another universe. An older
+universe. A dying universe...
+He chuckles and gets a distant look in his eyes as he gazes
+into the bonfire. His smile fades.
+CZERNY (CONT’D)
+I read an article about how a
+particle accelerator could create a
+new universe. Nonsense, right?
+Technology far beyond us.!
+(beat)
+The Anteverse, across the
+Interstice, is home to a
+civilization eons older than Man.
+FLICK
+Newt? -- What's he saying?
+CZERNY
+They created our universe, to
+escape the death of their own. And
+we are merely an infestation to
+them. Rats on their life raft.
+NEWT
+A while ago, you told me you were
+on the verge of a breakthrough.
+Something that could turn the tide?
+CZERNY
+That’s why you’re here? You want to
+know how to stop them?
+FLICK
+I’ve got a contact at Central
+Command. Whatever you have, Doctor,
+I can put it in front of the brass.
+He scratches his chin, a baffled grin on his face.
+NEWT
+What were you working on? What did
+you see in the Interstice?
+CZERNY
+Not something in the Interstice. A
+way to look through the Interstice.
+74.
+(CONTINUED)NEWT
+How?
+CZERNY
+Are you having nightmares, Miss
+Kincaid? Worse than usual?
+NEWT
+We’re trying to ask you --
+CZERNY
+And I’m trying to tell you. They're
+coming from the Interstice -- the
+nightmares. It's broadcasting
+nightmares. Psychic pamphlet bombs.
+(whispering)
+I found a way to use that signal to
+see into the Anteverse...
+Newt stands up. He's heard enough.
+NEWT
+This is ridiculous. Psychic
+signals, Ivo? Really?
+CZERNY
+Midway has technology beyond your
+wildest dreams. We mapped the
+Interstice's geometry. We
+discovered states of matter --
+NEWT
+You mapped the Interstice?
+CZERNY
+It can't be closed, Newt, it --
+NEWT
+But it has to have a weak point,
+right? A targeted detonation --
+This catches Czerny, it takes him a moment to cut Newt off.
+CZERNY
+-- would just open it wider.
+NEWT
+I want to see the map...
+CZERNY
+The map isn't important.
+NEWT
+No, psychic transmissions are
+what's important.
+(shaking his head)
+75.
+CONTINUED:
+(MORE)
+(CONTINUED)What happened to you? You used to
+be a scientist.
+Czerny shakes his head and sighs. He stands and calmly rests
+his hand on Newt's shoulder with a smile.
+CZERNY
+I'm tired, Newt... We can talk more
+tomorrow if you feel like
+listening...
+Newt and Flick watch him shuffle up towards the main house.
+NEWT
+I'm sorry, Flick. I didn't know he
+was this far gone.
+Flick watches Czerny with suspicion in her eyes.
+FLICK
+He's hiding something.
+NEWT
+Maybe. But what can we do?
+FLICK
+We can find it. Go see if you can
+get into his study. I'm going to
+check out that Quonset hut.
+INT. QUONSET HUT -- CONTINUOUS
+Flick steals into the darkened storage hut, finding it full
+of unlabeled crates.
+Without turning on the lights she drags one out into the
+middle of the floor and strains to pry open the lid with her
+bare hands -- she doesn’t know what kind of time she has.
+Finally getting it loose, she tosses the lid aside and claws
+through the packing material. Finally she pulls out -- a
+generic bottle of water.
+She looks around at all the crates and her imagination
+relents, letting their secrets become canned goods.
+About to leave, she notices the corner of a doorway at the
+back wall, partially concealed by a stack of palettes on a
+dolly. She pushes the dolly away and tries the door.
+It’s locked. With a twisted old paperclip, she probes the
+keyhole, finessing the lock with a practiced hand.
+76.
+CONTINUED: (2) NEWT (CONT'D)
+(CONTINUED)Suddenly, the fluorescent lights flicker on above her. She
+drops the paperclip and whirls around to find Czerny.
+CZERNY
+Now what made you think this modest
+little hut had secrets?
+FLICK
+Look... I’m sorry but --
+(anger flaring)
+If you’d just talk! Without
+couching your answers in bullshit
+riddles! I’m so tired of running
+around in circles! I’m sorry...
+CZERNY
+I’m not angry. I know what it is to
+be willing to chase the answers
+even into the darkest abyss.
+FLICK
+I’ve come so far to see the things
+you say you’ve seen. If you can’t
+tell me what, at least tell me how.
+CZERNY
+There’s a telepathic area of the
+kaiju’s brain. It's tuned to the
+signal from the Anteverse.
+FLICK
+See? This is what I mean. You can’t
+just expect me to believe you can
+peek into a kaiju’s thoughts.
+CZERNY
+See for yourself.
+He heads to the locked door and fumbles for his keys.
+FLICK
+How?
+CZERNY
+You know what a drift is?
+He clumsily unlocks the door.
+FLICK
+The visions Jaeger pilots have when
+they’re in the Pons...
+He opens the door.
+77.
+CONTINUED:INT. BACKROOM -- CONTINUOUS
+Czerny turns on the lights as he leads Flick inside. She
+stops at the threshold, daunted by the sight:
+Beside an examination table, a 200 gallon aquarium, wherein a
+wrinkled coil of meat hangs in aspic-colored liquid, peppered
+with electrodes. Big as a man, it can only be kaiju’s brain.
+And then she notices what looks like a rough-hewn Pons on the
+floor between the table and the vat...
+CZERNY
+Well, you’re about to have a drift
+with a kaiju.
+INT. MAIN HOUSE -- NIGHT
+Newt moves through the darkened hallway.
+INT. CZERNY'S STUDY -- CONTINUOUS
+In the dark, Newt searches the rustic outback office. He
+turns on a flat wall monitor -- "no signal." So he follows an
+AV cable from the monitor to a nearby cabinet.
+Opening the cabinet, he finds a hard drive stamped with
+COSDEC's seal, and a menacing anti-theft warning from Sci-
+Division. Jackpot. He grins and flicks it on.
+The "no signal" message vanishes from the monitor, but
+nothing else comes up -- just an empty pale glow.
+Frustrated, Newt keeps searching. He looks in the closet. He
+opens desk drawers. He crouches to look under the desk -- and
+on the floor, level with the top of the desk, he stops.
+We see what's caught his attention: a pair of humble reading
+glasses, but lined up with the glowing wall monitor, we see
+in the lenses shapes and colors that aren't there.
+Newt carefully puts the reading glasses on, and
+THROUGH THE LENSES
+clearly sees a 3D projection hanging in the air before the
+glowing monitor: a hidden holographic interface, invisible
+without the reading glasses.
+Finding he can manipulate the data with his hands, Newt opens
+folders, probing deeper and deeper into Czerny's database...
+INT. BACKROOM -- NIGHT
+Flick lies on the examination table. Czerny tightens the
+straps around her wrists and ankles.
+78.
+(CONTINUED)FLICK
+I don’t have a wetport.
+CZERNY
+We’ll have to do it how we did it
+before the implants.
+He shows her the end of a data transmission cable. In place
+of a mundane connector, the wire terminates in a three inch
+gold needle, a little thicker than a hypodermic needle.
+FLICK
+You’re going to stab that into my
+brain...
+CZERNY
+Carefully.
+FLICK
+Could this kill me?
+CZERNY
+How badly do you want to see it?
+Without saying anything, she rests her head on the table.
+Czerny secures her head, neck, and shoulders in a metal brace
+designed to keep her skull steady for the delicate procedure.
+He flips on a small video screen -- on it, he sees a grainy
+ultrasound image of her brain. He dabs a topical numbing
+agent on the soft patch of skin behind her ear.
+CZERNY (CONT’D)
+I’m numbing you, but it’s going to
+hurt. Just keep still. I’m aiming
+for a specific spot. If I miss, you
+might forget the letter R or you
+might become a vegetable. Ready?
+She nods and Czerny lines up the needle. He pierces the skin
+and gingerly pushes the needle in. She fights to contain her
+reflexes as her limbs strain against the leather straps.
+Her face tenses with pain as he guides the needle deeper,
+watching its progress on the ultrasound, finally finding the
+targeted section of her brain. The needle, all the way in.
+He twists a dial on the makeshift Pons.
+CZERNY (CONT’D)
+I’m sending a test signal. You
+should smell chocolate. Do you?
+79.
+CONTINUED:
+(CONTINUED)When she speaks, she can’t hide her pain. Her words spill out
+slurred and desperate.
+FLICK
+Yuh-yuh-yes. I smell it.
+CZERNY
+Alright. Then you’re good to go
+live with the specimen.
+He flips a switch on the Pons. In the tank, the disembodied
+brain shivers. Flick gasps. She speaks, oddly loud, as if
+trying to be heard over music only she can hear.
+FLICK
+Voices... I think I see --
+something... Oh god... Where am I?
+He rests his palm on her forehead and answers her quietly,
+knowing she can’t hear him. Her mind is elsewhere.
+NEWT
+The other side, child.
+And with that, he departs, leaving her alone on the table.
+INT. CZERNY'S STUDY -- NIGHT
+Newt surfs Czerny's holographic database and finally spots a
+promising file: "interstice.model."
+A 3D projection materializes before him: an abstract, fluid
+shape resembling a funnel cloud, slithering and stretching
+itself randomly -- the throat of the Interstice.
+Newt circles the eerie projection, utterly rapt, carefully
+examining every angle. He leans close, narrowing his eyes on
+a point near the center. Curious he tries to touch it...
+Suddenly, the funnel shivers and breaks at its thinnest
+point, like an over-stretched bubble finally splitting.
+Not intending to collapse the projection, Newt curses his
+clumsiness... But the implications begin to dawn on him.
+He brings the projection up again. He touches random points;
+the throat ripples and flexes with his touch, but he can't
+seem to find the spot he touched before...
+INT. BACKROOM -- NIGHT
+In the tank, the kaiju brain quivers as the web of electrodes
+harvests its synapses and feeds them into the Pons, where
+they cross the wire stabbed into Flick's skull.
+80.
+CONTINUED: (2)
+(CONTINUED)She lies on the table, pale and shivering, horrified.
+We transition to her vision not in one clean cut or smooth
+dissolve, but in a broken, helter-skelter succession of
+frames stuttering into an uneasy view of
+THE ANTEVERSE
+as Flick sees it. The images have a jittery quality. And the
+sound, drowned and THROBBING with TINNITUS, clots like syrup
+in our ears. It feels intrinsically unstable.
+We find ourselves suddenly perched at a vertiginous height.
+Miles below us, a dark and bitter alien world.
+The wind tosses frosty veils of hoarfrost under a blank sky --
+a wide and star-less pall, black as pitch.
+A dead sun hangs over the horizon like a bare lightbulb -- an
+ashen sphere, cracked by rivers of cold, cruel light.
+An expanse of frigid ocean, divided into wide sunken pens,
+clear to the horizon -- like an inconceivably vast fish farm.
+The wide sea steams with desperate breaths.
+Nightmarish life SEETHES in the water, packed tight as
+entrails. Clambering talons, slithering tentacles, jaws
+GASPING. The sea steams with their ragged breaths.
+Kaiju. All kaiju. Far as the eye can see. An unfathomable
+mass of monstrous violence.
+A fine grid of walkways overlays the pens, upon which we
+glimpse the PRECURSORS from afar. Spare, skeletal figures,
+like the rarefied inhabitants of an architectural sketch,
+minuscule against the vast Darwinian chaos below them.
+BACK IN THE BACKROOM
+Flick tenses with shivering convulsions, glistening with
+sweat, tears trailing from her eyes...
+INT. CZERNY’S STUDY -- SAME
+Newt watches the holographic Interstice whip and flow like a
+liquid sculpture. He randomly stabs at it with his finger,
+hoping to duplicate the action that collapsed it.
+Suddenly, the study lights come on. Newt tears off the
+glasses and turns.
+Czerny glares at him. He approaches without a word and offers
+his hand expectantly. Newt surrenders the glasses.
+81.
+CONTINUED:
+(CONTINUED)Czerny puts them on to see what Newt had been looking at. He
+frowns and shakes his head as he puts the glasses in his
+shirt pocket. Newt interjects.
+NEWT
+I think there’s a way to close the
+Interstice. If we just looked at --
+CZERNY
+You can’t blow up a hole.
+NEWT
+It has a structure. I touched
+something. I made it collapse.
+CZERNY
+You can’t pinpoint a weak spot!
+It’s too fluid! It’s impossible!
+NEWT
+That’s not true... What did you
+tell COSDEC? That closing the it
+was implausible -- or impossible?
+CZERNY
+What difference does it make?
+NEWT
+We are fighting for our lives!
+CZERNY
+... and we will lose.
+NEWT
+Why did they send you here?
+CZERNY
+Because I had to be quarantined. I
+looked into the abyss. I’d been
+infected with the truth -- that
+this is the end of us. We are the
+vermin of the gods. There’s no
+point in putting up a fight...
+He shuffles to the closet and slides the doors open.
+NEWT
+What are you doing?
+CZERNY
+I'm finishing this...
+He pushes the clothes aside and pulls a chain. A naked
+lightbulb illuminates a warhead, a Jaeger-sized munition.
+82.
+CONTINUED:
+(CONTINUED)CZERNY (CONT’D)
+A thermobaric warhead. You know
+what that is? A seismic bomb. For
+the Mark-3. Powerful enough to blow
+a category-5 kaiju in half.
+He huddles over a control panel wired up to the bomb. Newt
+strides over to pull Czerny away from the weapon.
+Czerny swats him away with an unexpected burst of force that
+knocks Newt to the ground.
+He steps back. The clock ticks down -- 2:00, 1:59, 1:58...
+NEWT
+Have you lost your mind?
+CZERNY
+Did you not listen to a word I
+said? They aren't just coming here!
+They made here! Their universe is
+dying! It's raw survival! You'd
+stand against the Creators of the
+universe? And I’m insane?
+Again, Newt scrambles for the bomb. Czerny grapples the boy
+in his arms. They struggle in desperation as the bomb’s clock
+ticks -- 1:46, 1:45, 1:44...
+Their clumsy skirmish draws chaotic pirouettes, SLAMMING Newt
+into the wine cabinet. Finally, Newt catches his footing and
+pins Czerny against the wall.
+NEWT
+We can solve this! There’s hope!
+CZERNY
+Hope fails! It lifts you up and it
+drops you! I’m not going to let you
+poison the world with hope!
+And with that, Czerny grabs a nearby letter opener and jams
+the dull blade into Newt’s ribs.
+Newt recoils as the bloody blade CLATTERS to the floor. Newt
+drops to his knees in pain.
+Czerny throws him down, wrapping his fingers around Newt’s
+neck. Wild-eyed, he tries to wring the life out of Newt.
+1:29, 1:28, 1:27...
+83.
+CONTINUED: (2)
+(CONTINUED)CZERNY (CONT’D)
+I’m doing you a favor. You don’t
+wanna be around when they get here.
+Ask your friend...
+Newt breaks Czerny’s grip and takes him by the collar.
+NEWT
+What did you do to her???
+Czerny only chuckles through a blood-slick sneer. Newt drops
+him and takes a step towards the bomb, but Czerny grabs his
+ankle. Newt falls to the floor, and kicks his feet free.
+He grabs the flatscreen off the wall and drops it on Czerny’s
+head. The scientist falls limp.
+Newt clumsily gathers his bearings. He glances at the bomb’s
+control panel.
+1:14, 1:13, 1:12...
+Quickly, he opts to find Flick and get out.
+EXT. MAIN HOUSE -- CONTINUOUS
+Newt bursts out the door and bolts for the Quonset hut.
+INT. BACKROOM -- CONTINUOUS
+Flick twitches on the table, lost in the drift, her eyes
+locked on some horrid sight in some other universe.
+INT. QUONSET HUT -- CONTINUOUS
+Newt bursts inside. He hears screaming and quickly spots the
+back door. He tries it -- locked. He pounds and shouts.
+NEWT
+Flick! Open the door!
+INT. BACKROOM -- CONTINUOUS
+Shivers course through Flick's muscles. Her lip quivers.
+Hopeless tears spill from her wide eyes.
+INT. CZERNY'S STUDY -- CONTINUOUS
+On the floor, Czerny smiles as he squints at the clock --
+:57, :56, :55...
+INT. QUONSET HUT -- CONTINUOUS
+Newt kicks at the door, again and again, time running out.
+84.
+CONTINUED: (3)INT. BACKROOM -- CONTINUOUS
+The door splinters open and Newt rushes in to find Flick
+drenched in sweat and so pale, almost blue. He pulls the
+needle out of her brain and unfastens the straps.
+The drift seems to linger in her mind.
+FLICK
+So cold. Can't breath...
+NEWT
+Breathe! You have to breathe!
+FLICK
+It hurts. Ice in my lungs.
+INT. CZERNY'S STUDY -- CONTINUOUS
+The clock ticks -- :44, :43, :42...
+EXT. THE ESCHATON INSTITUTE -- CONTINUOUS
+Newt cradles Flick in his arms. Her head lolls as she stares
+at the sky, seeing another sky, some other place.
+FLICK
+No stars. The sky is dead...
+He briskly carries her to
+THE JEEP
+and straps her into the passenger's seat, before climbing in,
+twisting the ignition, and throttling it so hard that
+THE REAR WHEELS
+spin up plumes of red dust, before catching and launching the
+vehicle up the road.
+INT. JEEP -- CONTINUOUS
+Newt's frantic eyes dart between the twisting desert road and
+the compound's gate, shrinking in his rearview mirror.
+Flick gags. Her body convulses in her seat. Her back arches
+as if her spine wants to break her in half. She falls limp.
+Newt reaches over to feel her pulse as he drives.
+NEWT
+No no no! Gimme a pulse, Flick!
+He can't stop to give her CPR. He knows he's not far enough
+from the blast yet. He floors it. Her head lolls with the
+sharp turns, lifeless as a doll.
+85.EXT. OUTBACK ROAD -- CONTINUOUS
+The jeep bobs and weaves along the tortured road. We pull
+back to see the escape in context -- the jeep's meandering
+headlights too slow and still too close to the compound.
+INT. CZERNY'S STUDY -- CONTINUOUS
+The final seconds -- :06, :05, :04, :03...
+EXT. THE ESCHATON INSTITUTE -- CONTINUOUS
+The pavilion goes up in a mighty CRACK of light followed by a
+flame-less blast and an incredible shockwave that RIPS
+through every building in its path, levelling the compound.
+It speeds out, warping the air and rippling the ground.
+The wave SLAMS the jeep and tosses it careening end over end.
+INT. JEEP -- CONTINUOUS
+Newt steadies Flick's limply flailing body as the jeep rolls.
+EXT. OUTBACK -- CONTINUOUS
+The battered jeep finally settles on its side. A moment
+later, Newt crawls out the sun roof. He turns and pulls
+Flick's body out after him.
+He drags her a safe distance from the wreck and checks again
+for her pulse. Finding nothing, he begins performing CPR as
+the compound burns in the distance.
+Cycle after cycle. Compressions, breaths, repeat... Our
+hearts sink, but Newt doesn't let up. He doesn't shout or
+lose it; he just keeps at it, like a machine.
+Suddenly, Flick jolts with a fit of coughing. She weakly
+pushes Newt away and rolls over to puke. At first, it seems
+such a fragile miracle, he dares not touch her.
+She gasps and winces, cradling her CPR-cracked ribs. Weak
+words spill out of her mouth.
+FLICK
+Why did you save me?
+NEWT
+What did he do to you?
+FLICK
+I did it, Newt! It was my decision!
+She turns away from Newt, coughing. She holds her ribs
+gingerly and succumbs to her trembling legs, sitting in the
+dust. She watches the compound burn.
+86.
+(CONTINUED)FLICK (CONT’D)
+I saw the other universe... You
+should have let me die, Newt.
+Newt runs his fingers through his hair, crushed to hear her
+talk like this. He has nothing to say...
+FLICK (CONT’D)
+The Interstice is stabilizing. More
+are coming. In numbers we can't
+imagine.
+Newt has a sudden thought.
+NEWT
+What did you say? About the
+Interstice?
+FLICK
+It's stabilizing...
+NEWT
+Are you sure? How do you know?
+FLICK
+I know because they know.
+Newt starts to smile. He can barely get the words out.
+NEWT
+Flick... I know how to close it. I
+know how to close the Interstice.
+EXT. PUDONG, SHANGHAI -- NIGHT
+A futuristic riverfront skyline, crowded with record-smashing
+supertall skyscrapers, all blazing with neon color.
+Gipsy Danger stands in the street, poised to fight an
+oncoming kaiju -- as if in a neon jungle, the titanic pair
+dwarfed by Pudong’s orbed spires and stark, glass edifices.
+Kaiju OOLONG, a chitinous crab-like dragon with black
+exoskeletal armor and giant pincers. The behemoth hauls
+itself up the wide freeway on the tips of its huge crab-
+claws, reminiscent of a knuckle-walking gorilla.
+Gipsy Danger lifts her arm. The armor opens to expose a row
+of electrical transformers. Without cutting to the conn-pods,
+we hear Raleigh and Mako's radio traffic.
+RALEIGH (FILTERED)
+Electrolaser hot.
+MAKO (FILTERED)
+Let’s feed him some thunder.
+87.
+CONTINUED:
+(CONTINUED)The air HUMS with electricity as she trains an emerald green
+targeting laser on Oolong.
+CRACK — in the searing blink of an eye, a jagged bolt of
+lightning flashes between the transformers and the kaiju.
+Oolong recoils, smoke SIZZLING from the flashpoint.
+MAKO (FILTERED) (CONT’D)
+Damnit! Weapons short!
+RALEIGH (FILTERED)
+We’ll do it the old-fashoined way.
+Oolong grabs Gipsy Danger in his black claw and drives the
+Jaeger back, her iron feet GRINDING gullies into the asphalt.
+The kaiju slams the Jaeger into the two-thousand foot
+Shanghai Tower. The lower floors SHATTER and COLLAPSE.
+The soaring glass helix falls, !PULVERIZING a quarter-mile of
+dense city blocks, its pinnacle SMASHING into the river.
+The throbbing city lights stain the settling dust in lurid
+color. We see Oolong still bearing down on Gipsy Danger.
+The beast squeezes the mech in his pincer. But, Gipsy Danger
+pushes back, prying the it open...
+RALEIGH (FILTERED) (CONT’D)
+Push push push!
+In a sharp outburst of effort, the Jaeger opens the claw so
+far that the joint CRACKS.
+Gipsy Danger RIPS off the lower half of the giant claw, and
+JAMS the chitinous skewer into Oolong's eye.
+Oolong SHRIEKS and thrashes his dragon-like head.
+Gipsy Danger grabs the kaiju by the jaws and twists. Finally,
+Oolong's neck SNAPS.
+The dead kaiju teeters and CRASHES to the ground.
+INT. THE MOCK-PIT -- CONTINUOUS
+Hydraulics lift the lid of the simulated conn-pods as
+Pentecost enters, carrying his clipboard.
+PENTECOST
+Well the tower puts your property
+damage in the red...
+RALEIGH
+Want us to go again?
+88.
+CONTINUED:
+(CONTINUED)PENTECOST
+You kidding? You beat the time by
+half. Take the night off.
+RALEIGH
+But the property damage...
+PENTECOST
+It’s Pudong. Four of the region’s
+tallest buildings in four square
+miles. It’s always in the red.
+(beat)
+Seriously, call it a night. You
+ripped through all my scenarios. I
+need to cook up a new one.
+Pentecost makes notes on his clipboard as Raleigh and Mako
+unstrap their helmets and climb out of the pit.
+RALEIGH
+Dinner?
+MAKO
+You go on. Save me a spot in line.
+He goes. She lingers, ringing her hands as she waits for
+Pentecost to look up from his clipboard. She finally speaks.
+MAKO (CONT’D)
+Sensei. You should know... Raleigh
+and I have been --
+Pentecost answers brusquely without looking up.
+PENTECOST
+I'm afraid we're approaching the
+limits of my expertise, Lieutenant.
+MAKO
+Yes, Sensei. Sorry.
+She starts out, embarrassed. Pentecost sighs.
+PENTECOST
+It's new. You don't know what it is
+yet. I wish I could tell you.
+Cadets enlist in pairs. Old souls.
+The work's done. The bonds are
+cooled and set. Like granite. What
+you have, it's magma. No one can
+tell you what shape it will take...
+She pulls herself together and nods.
+MAKO
+Thank you, Sensei.
+89.
+CONTINUED:
+(CONTINUED)PENTECOST
+Are you happy?
+She dwells on it, until a smile cracks her lips.
+MAKO
+I am, yes.
+PENTECOST
+Well that's a start, isn't it?
+INT. RALEIGH’S ROOM -- NIGHT
+Swathed by tangled bedsheets, Mako and Raleigh laze in post-
+coital contentment. She rests her head on his heart.
+MAKO
+Should we be doing this?
+RALEIGH
+We’re supposed to be bonding...
+MAKO
+Ah, like maybe we have to do this.
+RALEIGH
+Right, for the good of mankind.
+Their laughter trails, but the thought sticks...
+MAKO
+Back at Kodiak, most of the teams
+that were sleeping together washed
+out in the first round...
+RALEIGH
+Not Duc and Kaori...
+She turns to face him, propping her chin on her arms.
+MAKO
+It can get complicated. Even for
+normal people...
+Raleigh’s mind wanders. His eyes look past Mako and we hear
+the drifting voices of his memory.
+FLICK (V.O.)
+Did I screw up the bond that drove
+the machine? --
+RALEIGH (V.O.)
+Look sharp, Yance, he’s coming up.
+Mako hears it too.
+90.
+CONTINUED: (2)
+(CONTINUED)MAKO
+(kind)
+Raleigh... Stop. You did all you
+could. He was your brother. You
+couldn’t not...
+EXT. SANTA MONICA PIER -- DUSK (GHOST-DRIFT)
+The kaiju Tortuga rises from the water, bloody and battered,
+but not finished. Coyote Tango stands ready to fight.
+BACK TO PRESENT
+RALEIGH
+What if -- my reflexes stopped me?
+MAKO
+That’s not how reflexes work.
+RALEIGH
+Isn’t it?
+MAKO
+There’s a part of us that wants to
+care about other people...
+EXT. SANTA MONICA PIER -- DUSK (GHOST-DRIFT)
+Tortuga shakes the sea of his asperous armor, and lets out a
+full-throated ROAR.
+MAKO (V.O.)
+And in times of crisis, for some
+people, that part takes over. It
+just sweeps all the petty crap away
+and grabs the wheel...
+INT. CONN-POD ZUMA 2 -- CONTINUOUS (GHOST-DRIFT)
+The Jaeger’s arm wanders into Yancy’s view as Raleigh
+unconsciously has the Jaeger cover its front.
+YANCY
+Guarding! Get that arm up and give
+me a firing solution!
+EXT. SANTA MONICA PIER -- CONTINUOUS (GHOST-DRIFT)
+Coyote Tango lifts her arm-mounted cannon to take aim at the
+kaiju. Tortuga crouches, tense, ready to charge.
+RALEIGH (FILTERED)
+He’s gonna rush us, Yance!
+YANCY (FILTERED)
+Don’t drop your aim!
+91.
+CONTINUED:INT. CONN-POD ZUMA 2 -- CONTINUOUS (GHOST-DRIFT)
+Tortuga shifts his massive bulk as the sea breeze tosses
+curtains of mist of his hide. Yancy concentrates but can’t
+make the targeting pipper find a lock.
+INT. CONN-POD ZUMA 1 -- CONTINUOUS (GHOST-DRIFT)
+Raleigh watches as Tortuga plows his weight through the surf,
+surging towards us. The Jaeger’s aim flinches as Raleigh
+stops himself from bringing the arm down to block.
+YANCY (FILTERED)
+Keep it steady, Rals!
+RALEIGH
+He’s charging!
+EXT. SANTA MONICA PIER -- CONTINUOUS (GHOST-DRIFT)
+Tortuga bulldozes towards the wading Jaeger, but Coyote Tango
+holds her aim steady.
+Tortuga opens his trifurcated beak and launches his harpoon-
+tongue. The serpentine muscle punches through the Jaeger’s
+chest armor like a bunker-buster.
+BACK TO PRESENT
+RALEIGH
+How do you know I’m one of those
+people?
+MAKO
+Because it's the part that hurts
+when you can't.
+INT. CONN-POD ZUMA 1 -- CONTINUOUS (GHOST-DRIFT)
+Raleigh feels the very instant his brother dies, and for the
+first time, we see his reaction... Furious, devastated tears
+in his eyes, he snaps. His words come out like thunder.
+RALEIGH
+No! Yancy! --
+Pangs of grief twist his face, choking the words in his
+throat. His veins stand tight as wires on his temples.
+EXT. SANTA MONICA PIER -- CONTINUOUS (GHOST-DRIFT)
+Coyote Tango grabs the harpoon tongue and RIPS the muscle out
+of the kaiju's jaws, by the ragged root.
+The Jaeger gathers its other hand in a fist and lands a SKULL-
+CRACKING blow that sends Tortuga toppling into the shallows.
+92.
+(CONTINUED)Coyote Tango drives her armored fists, one after the other,
+in an endless siege of mighty freight-train PUNCHES.
+He doesn't stop. Not even as the PUMMELED sea turns red with
+gore. Not even as Tortuga’s limbs stop twitching.
+Smoke begins to spill from the Jaeger's over-taxed muscles;
+blow after blow reduces its fists to bloody, crumpled knots
+of machinery -- but still it HAMMERS the lifeless carcass.
+INT. CONN-POD ZUMA 1 -- CONTINUOUS (GHOST-DRIFT)
+Raleigh glares through hot tears, his jaw tight with animal
+rage, utterly consumed by raw anguish.
+RALEIGH
+That was my brother you son of a
+bitch! That was my fucking brother!
+Through the fog of ALARMS and SHUDDERING machinery, a radio
+voice calls out to him.
+DISPATCH (FILTERED)
+Zuma 1, target subdued. Stand down.
+But Raleigh shows no sign he hears the command.
+DISPATCH (FILTERED) (CONT’D)
+Remote shutdown in 5, 4, 3...
+BACK TO PRESENT
+The NOISE of the memory echoes as Raleigh pulls himself up to
+sit on the edge of the bed, his face in his hands.
+MAKO
+You did all you could, Raleigh. You
+loved him.
+He pulls his hands from his face and sits in the dark,
+thinking. Mako just watches.
+RALEIGH
+Then it’s not a mistake -- This.
+Us. We're not a mistake...
+She sits up and folds her arms around him.
+EXT. MIDWAY -- DUSK
+A robust city-sized complex of practical but modern buildings
+covers the once-desolate spit of land.
+SUPER: COSDEC Science Division, Primary Interstice Monitoring
+Station - Midway Atoll
+93.
+CONTINUED:INT. MONITORING STATION -- CONTINUOUS
+A dimly lit control center. A COMMANDER oversees rows of
+TELEMETRY SPECIALISTS dutifully manning their data terminals.
+An ALARM goes off. The mood instantly tenses.
+TELEMETRY SPECIALIST
+Density spike! Something's coming
+through the Interstice!
+COMMANDER
+Mass estimate?
+TELEMETRY SPECIALIST
+Standy-by... These numbers don't
+make sense...
+COMMANDER
+Lieutenant... How big is it?
+The Telemetry Specialist just shakes his head, confused.
+INT. JETLINER CABIN -- DUSK
+A full flight. Flick and Newt chatter quietly.
+FLICK
+Are you sure it will work?
+NEWT
+Sure enough to try.
+He turns and looks out the window; a dry, matter-of-fact
+determination in his voice.
+NEWT (CONT’D)
+I don't care if they are the
+creators of the universe. I like
+the universe.
+She leans her head on the seat and watches him with a pining
+look in her eyes. He turns to add with a chuckle --
+NEWT (CONT’D)
+And I'm not a creationist.
+-- and turns back to the window. She smiles but doesn't
+laugh, lost in thought, her gears turning wistfully.
+NEWT (CONT’D)
+Is that Mount Fuji? Incredible...
+OUT THE WINDOW: Mount Fuji's snow-capped volcanic cone rises
+from a rippled sea of clouds, stained gold and pink by the
+sinking sun -- a breathtaking vista.
+94.
+(CONTINUED)But Flick doesn't give it a glance. She just looks at him
+looking out the window, gradually realizing something about
+this odd fellow. Something important. He turns.
+NEWT (CONT’D)
+If that's Fuji, shouldn't we be --
+She cups his cheek in her hand and kisses him, suddenly but
+softly. After a startled flinch, he gives himself to it.
+The moment draws out. Gossamer and earnest, almost timid --
+until finally, Flick gently pulls away.
+Newt narrows his eyes at her, as if not sure he's awake.
+Saying nothing, she just smiles. Newt opens his mouth to
+speak, but is interrupted --
+PILOT (FILTERED)
+We're hearing a kaiju warning has
+been issued for Tokyo Bay...
+Newt cranes his neck to look out the window as if expecting
+to see the monsters. Flick stares dead ahead, anxious.
+PILOT (FILTERED) (CONT’D)
+We're being diverted to Toyama...
+We'll be landing very shortly.
+Newt notices Flick's white knuckles gripping the armrest. He
+takes her hand. Their fingers interlace, clinging tightly.
+EXT. MINATO MIRAI -- NIGHT
+The city lights scintillate on the water as swarms of
+Jumphawks hoist Tacit Ronin across Tokyo Bay.
+DISPATCH (FILTERED)
+Your target is designated KJ
+Komodo. Category-4.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Duc toggles his pre-fight switches.
+DUC
+(sarcastic)
+Oh, is that all?
+(to Kaori)
+Hey sweetie, did you hear? --
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+We see Kaori in her own conn-pod, a bit uneasy.
+95.
+CONTINUED:
+(CONTINUED)DUC (FILTERED)
+A cat-4. If that doesn't sound fun,
+I don't know what does.
+She lets out a nervous/excited laugh.
+INT. LOCCENT -- CONTINUOUS
+Raleigh meets up with Mako, who's already watching from the
+back of the bustling control room.
+RALEIGH
+Did they say cat-4?
+She nods, her brow furrowed. Raleigh whistles.
+RALEIGH (CONT’D)
+What is that, like the third cat-4
+anyone's ever seen?
+MAKO
+Fourth... They killed the third.
+DISPATCH
+Tracking stations report both he's
+entered Tokyo Bay and is headed for
+the Minato Mirai waterfront. ETA in
+less than ten minutes.
+EXT. MINATO MIRAI -- NIGHT
+SIRENS sound as EVAC COORDINATORS flag panicked CIVILIANS
+away from streets clotted with spontaneously abandoned cars.
+Behind the stark, modern skyscrapers and the three-hundred
+foot Ferris wheel purling with shifting emerald greens,
+purples, and reds -- the two Jaegers approach.
+The Jumphawks maneuver the mechs to their positions. Tacit
+Ronin's escorts lower the Mark-2 near the Ferris wheel.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+DISPATCH (FILTERED)
+Meiji team, Komodo inbound a half
+klick northeast. Clear to engage.
+DUC
+Roger LOCCENT. We have visual.
+96.
+CONTINUED:EXT. MINATO MIRAI -- CONTINUOUS
+Ahead of Tacit Ronin, hills of water rise to spill across the
+street as the kaiju's bow wave heralds its approach. The huge
+beast hauls itself from the water, onto shore.
+A long, lizard-like creature called KOMODO. Rows of teeth
+curl sloppily from his jaws. A baroque frill of coiled and
+braided horns embellishes his head. He scrabbles on six
+splayed legs; tail terminating in a spiked thagomizer.
+He is -- markedly larger than the Jaeger and (as a category-4
+kaiju) the largest of any we've yet seen. He shakes the water
+off his scales and ROARS.
+Tacit Ronin stands in the shifting carnival light of the
+towering Ferris wheel, ready for battle.
+Komodo lumbers onto the street ahead of Tacit Ronin, turning
+to face the Jaeger.
+The kaiju rears up on his four hind legs, brandishing his
+taloned forelimbs. The reptilian monster towers a full head
+taller than the Jaeger.
+He throws his head back, RETCHING, and with a neck-snap,
+SPEWS a wad of noxious bile. It SPLATTERS short of the mech.
+The sludge BOILS and SEETHES on the cars and pavement below,
+dissolving anything it touches.
+Tacit Ronin charges in to engage Komodo hand-to-hand. Her
+style is different from Gipsy Danger’s; less primal and
+rugged; more like Bruce Lee, nimble and precise.
+With lethal grace, she assails Komodo’s scaly hide with a
+storm of kicks and chops -- taekwondo on an epic scale.
+Her knifehand strikes cut the air like fighter jets, tracing
+wingtip vortices off her fingertips.
+She finishes the combo with a roundhouse kick, a jaw-dropping
+maneuver for a machine of her unparalleled size.
+As her feet hit the ground, we hear the metallic GROAN of her
+settling weight as her frame protests the unorthodox move.
+INT. LOCCENT -- CONTINUOUS
+A small alert BUZZES.
+OFFICER
+Actuator stress warning...
+97.
+(CONTINUED)Raleigh and Mako watch, stunned. It was a reckless move.
+EXT. MINATO MIRAI -- CONTINUOUS
+In the instant it takes Tacit Ronin to regain her balance,
+Komodo charges, slashing and snapping.
+His talons score shallow scars across the Jaeger’s armor.
+Tacit Ronin staggers back, barely dodging his SNAPPING jaws.
+The monster pivots to swing his spiked tail.
+The Jaeger dodges the spikes on the first pass and catches
+them on the second, clutching the tail in an iron grip.
+Komodo pulls and thrashes angrily, but Tacit Ronin holds
+tight. Finally he quivers, HACKING and RETCHING.
+The Jaeger barely dodges the knot of acidic bile that sails
+past -- to SPATTER the side of a nearby skyscraper.
+The glass FESTERS and DRIPS away, exposing more and more of
+the stacked floors inside, until they can no longer hold the
+tower's weight, and the whole edifice quivers and COLLAPSES.
+Again, Komodo rears up on his hind four legs, towering high
+over Tacit Ronin.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+DUC
+Cutlass laser. Full power. Three
+second burn.
+KAORI (FILTERED)
+Three seconds will sap the
+reserves.
+DUC
+Gimme three seconds and we won’t
+need the reserves.
+EXT. MINATO MIRAI -- CONTINUOUS
+A compartment on Tacit Ronin’s forearm opens to deploy a
+deceptively modest-looking array, and IGNITES a beam of
+energy that meets Komodo’s exposed chest.
+A vector-straight line of searing light bores clear through
+the kaiju’s body in an instant to slice across the sky, an
+oddly bright laser-light show.
+With a swing of her wrist, Tacit Ronin pulls the laser up,
+cleaving Komodo’s torso up the middle.
+98.
+CONTINUED:
+(CONTINUED)The laser turns off. The air around the array still ripples
+with cosmic heat as the armor folds up to reclaim the weapon.
+Komodo’s balance holds his dead body up for a brief moment,
+before his mighty bulk falls.
+The top third of the beast butterflies open, exposing a
+macabre cross section of his body cavity, neat as a textbook
+diagram. The laser-sliced edges still SIZZLE.
+INT. LOCCENT -- CONTINUOUS
+APPLAUSE fills the room as the kill is officially confirmed.
+DISPATCH
+Kaiju Komodo is down.
+An ALARM sounds, triggering a confused hush.
+OFFICER
+The harbor sensors... It must have
+hid in Komodo’s wake.
+TAKADA
+Report! What is it?
+OFFICER
+It’s another hostile, sir. Inbound
+to Tacit Ronin’s position.
+Raleigh and Mako whisper.
+RALEIGH
+Two in a row? Is that even doable?
+MAKO
+I've never even heard of back-to-
+back simulations without someone
+going into nuerogenic shock.
+Takada paces, his impatience mounting.
+TAKADA
+Talk to me! Give me a target brief!
+OFFICER
+Displacement -- ten-thousand seven
+hundred metric tons...
+Silence. He turns.
+OFFICER (CONT’D)
+It’s a category five...
+99.
+CONTINUED:
+(CONTINUED)Raleigh and Mako exchange glances and bolt out of the room.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Sweat drips from Duc’s stunned face. He’s just heard the
+news. It takes him a moment to grapple with it.
+DUC
+Copy that, LOCCENT...
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+Kaori sits, aghast.
+KAORI
+Our reserves are empty. Our
+actuators are over-stressed...
+She trails off, shaking her head. Her thoughts speak.
+KAORI (V.O.) (CONT’D)
+It took them days to drop the last
+cat-5... What do we do?
+DUC (V.O.)
+We fight.
+EXT. MINATO MIRAI -- CONTINUOUS
+DISPATCH (FILTERED)
+Meiji team, weapons free. You are
+clear to engage kaiju Fulcrum.
+A chaotic shape looms from the dark bay.
+Tentacles hide his jaws. Longer tentacles trail from his
+taloned arms. A scourge of tails whips the air behind him.
+He is kaiju FULCRUM -- an alien chaos of tentacles and
+dinosaurian limbs, his movements fluid and menacing, as much
+like a predator stalking primeval jungles as like a kraken
+prowling sunken ruins. He glisters with bioluminescence.
+He climbs ashore and rises to his full height -- almost a
+third bigger than the Mark-2.
+He lashes out with one of his long tentacles. The mech dodges
+and as the tentacle rakes past us, we see the rows of cruel,
+hooked claws running the length of it.
+It whips through the hundred meter Ferris wheel like
+balsawood, cleaving the neon spokes in a fit of sparks.
+100.
+CONTINUED:
+(CONTINUED)The kaiju slings his arm, launching some sort of projectiles
+from tubules on his wrist.
+The fleshy projectiles SMACK Tacit Ronin's armor --
+BERSERKERS, delirious little tentacled creatures, prying at
+any seam they can find, until their bodies bloat and BURST.
+The few stray Berserkers miss the Jaeger and fall into the
+choked traffic of a nearby highway.
+There, they enthusiastically dismember whatever they land on,
+RIPPING the engines out of stalled cars, TEARING bystanders
+limb from limb, bloating and BURSTING like grenades.
+The Mark-2 dodges a tentacle and as it rakes past us, we see
+the rows of cruel, hooked claws running the length of it.
+The tentacle cuts the hundred meter Ferris wheel like
+balsawood, cleaving the neon spokes in a giddy fit of sparks.
+With a sweep of his arm, Fulcrum LASHES the Jaeger with his
+longest tentacle; the clawed suckers TEAR a ragged gash in
+Tacit Ronin's armor. The mech staggers to catch her balance.
+Fulcrum slings another wave of Berserkers. A few alight on
+the mech's gashed armor, RIPPING bundles of thick cables out
+before swelling and BURSTING.
+Mid-action, Tacit Ronin locks up (the Berserkers having
+apparently severed some critical connection).
+Frozen in this unstable posture, the Jaeger tilts and starts
+to fall into the side of a high-rise.
+The wall collapses around the paralyzed Jaeger, but the rest
+of the building holds.
+The machine slides to an uneasy rest, leaning into the
+sagging floors of the building’s exposed interior. Papers
+from countless offices and cubicles spill into the wind.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Duc radios for help as Fulcrum skulks closer on the HUD.
+DUC
+LOCCENT, we are motor cold --
+KAORI (FILTERED)
+It’s no use, Duc...
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+She eyes a blinking, red indicator light, defeated.
+101.
+CONTINUED:
+(CONTINUED)KAORI
+... Long range com is out.
+EXT. MINATO MIRAI -- CONTINUOUS
+Fulcrum steps closer and closer to the crippled mech.
+He finally descends on the fallen Jaeger, twisting his
+powerful tentacles around her limbs, his jaws ravenously
+searching for purchase on the armor.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Duc watches suckered tentacles press against his IMAX vista,
+growing resigned -- there’s nothing more they can do. He
+sends his thoughts across the Pons to Kaori.
+DUC (V.O.)
+Kaori... Close your eyes...
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+The tentacles bloom open to reveal -- Fulcrum's maw, barbed
+mandibles and rows of teeth, rolling like the cutting chain
+of a chainsaw. The hungry mouth fills the three-sixty HUD.
+Kaori closes her eyes. She hears Duc’s voice in her mind.
+DUC (V.O.)
+I regret nothing. If fighting
+monsters was the price of knowing
+your soul, I’d fight a thousand.
+She smiles and replies out loud.
+KAORI
+I know.
+He starts to sing to her over the radio -- a Japanese oldie
+with a familiar melody (”Sukiyaki” to Westerners).
+DUC
+(singing; not subtitled)
+Ue o muite aruko --
+She joins in, as they share in some drift we can’t see.
+KAORI
+- namida ga kobore naiyouni -- DUC (FILTERED)
+- namida ga kobore naiyouni --
+A third voice suddenly interrupts on the radio.
+102.
+CONTINUED:
+(CONTINUED)RALEIGH (FILTERED)
+Roma-1 to Meiji-1, you guys better
+not be saying your goodbyes.
+EXT. MINATO MIRAI -- CONTINUOUS
+Fulcrum turns from his prey as the Jumphawks carry Gipsy
+Danger into view.
+RALEIGH (FILTERED)
+Because you will live to kiss this
+scrap heap's heels, so help me god.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Duc grins ear to ear, and laughs with a surge of adrenaline.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+Raleigh watches as Fulcrum tracks the mech's descent with
+cold eyes as the Jumphawks lower Gipsy Danger to the street.
+RALEIGH
+Hey Mako, you know there’s only
+ever been one other cat-5, right?
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Mako wears a grim look.
+MAKO
+Osaka...
+RALEIGH (FILTERED)
+Can you handle this?
+She nods slowly, and we know --
+MAKO
+I was born to handle this.
+EXT. MINATO MIRAI -- NIGHT
+Gipsy Danger deploys her chain-sword. The retracting cord
+pulls the interlocking links together -- CLANK CLANK CLANK --
+to form the stiff, segmented blade.
+Fulcrum SNARLS and stalks towards the Mark-1 Jaeger.
+His tentacles hoist a piece of the broken Ferris wheel to
+fling it at Gipsy Danger. It SHATTERS against the mech.
+As he advances, he picks up buses and garbage trucks, hurling
+them at the Jaeger one after another.
+103.
+CONTINUED:
+(CONTINUED)The vehicles CRASH against the heavy armor as Gipsy Danger
+swats them away.
+Fulcrum moves away from
+TACIT RONIN
+letting the hovering Jumphawks drop lines down to the
+disabled Jaeger. REPAIR TECHS slide down the cables. They
+scramble across the sprawl of armor to reach the damage.
+Behind them, the tentacled kaiju approaches
+GIPSY DANGER
+spoiling for a fight. Fulcrum lunges for Gipsy Danger. The
+Jaeger seizes him by the tendrils and diverts the attack's
+momentum, hurling the kaiju into a high-rise.
+The impact JOLTS the tower off its foundation to SMASH it
+against the building next door, demolishing both.
+Fulcrum pulls himself up from the rubble, shaking off the
+debris -- twisted rebar, splintered furniture, and dead
+bodies fall like dust from the colossal kaiju.
+Fulcrum spots the cluster of activity on the fallen Jaeger's
+torso and slings a batch of Berserkers towards
+TACIT RONIN
+where FLASHING torches light the hectic repair efforts.
+The human-sized Berserkers scramble for the vulnerable men,
+barbed tentacles lashing out for them, but the Techs continue
+working, trained to tune out the danger.
+The Jumphawks circling above shred the monsters with heavy
+gunfire, just barely getting the last Berserker before it
+gets within reach of the workers. Behind them
+GIPSY DANGER
+grabs Fulcrum's monster-spewing tubule, pinching it closed.
+The siphon-like organ swells until the Jaeger RIPS it from
+Fulcrum's arm. The kaiju SHRIEKS.
+His wound spills half-formed Berserkers to street below --
+sloppy heaps of sickly twitching tentacles dissolve before
+they can become anything remotely lethal.
+The towering cat-5 kaiju lashes out, thrashing his tentacles
+at the Jaeger in a chaotic frenzy that threatens to consume
+the mech -- a dozen taloned whips cracking at once.
+104.
+CONTINUED:
+(CONTINUED)But somehow she’s holding the hurricane of tentacles at bay,
+HACKING away with her chain-sword.
+Meanwhile, her shoulder-mounted autocannon, like a cannonball-
+spewing Gatling gun, swivels to RIP through whatever
+tentacles the sword misses.
+Like a medieval hun she fights the thing back.
+Until finally it SNAGS her arm, then her other.
+The machine struggles as Fulcrum coils what remains of his
+ragged, powerful tentacles around the Jaeger.
+We hear the GROANING of bowed metal as Fulcrum squeezes.
+A THROBBING PULSE of deep sound ripples the air SHUDDERS the
+cars in the streets like an earthquake.
+Fulcrum releases Gipsy Danger, shaking his head as if trying
+to shake the noise out of his ears.
+Nearby, Tacit Ronin stands. The Jumphawks scatter. The Mark-
+2's jaws hang open -- emitting a crippling ULTRASONIC PULSE.
+Fulcrum turns to rush Tacit Ronin.
+DUC (FILTERED)
+We’re back, but don’t go thinking
+we got the power to do more than
+scream at him.
+Gipsy Danger WHIPS her chain-sword loose and snares it around
+Fulcrum's neck, choking him back from the Mark-2.
+RALEIGH (FILTERED)
+I’ve got an idea. Get ready to vent
+your coolant.
+The chain retracts. The razor-edged links CHEW through
+Fulcrum's neck as they rip back into the Jaeger's arm.
+Fulcrum's tentacled head falls off --
+-- but the massive body charges blindly ahead to tangle Tacit
+Ronin in its crushing grip.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+A burst of movement on the street below draws Mako's
+attention from Tacit Ronin's struggle.
+Fulcrum's head wriggles with an angry spark of life.
+105.
+CONTINUED: (2)
+(CONTINUED)MAKO
+Raleigh! The head!
+EXT. MINATO MIRAI -- CONTINUOUS
+Tentacles thrashing, the head fitfully scrambles for Gipsy
+Danger, smearing a blood-slick across the street.
+The Jaeger lifts her foot and STOMPS the hateful thing into
+oblivion. A short distance away
+TACIT RONIN
+wrestles with Fulcrum's headless body. A billowing white
+cloud HISSES from a spur on the Mark-2's forearm, unfurling
+to engulf the monster.
+The icy plumes dissipate -- leaving the kaiju a brittle,
+frost-crusted husk. Tacit Ronin SNAPS free of the flash-
+frozen coils of muscle and steps back.
+The frozen colossus tips and falls, SHATTERING to lifeless
+pieces in the street.
+DISSOLVE TO:
+INT. LOCCENT -- NIGHT
+Pentecost retrieves his coat. The control room is empty, but
+the massive main screen glows with a collage of newsfeeds.
+He spots Takada watching the news; a glass and a bottle of
+whiskey nearby. Pentecost goes over to check on him.
+TAKADA
+All these questions... Are the
+attacks increasing? Are we at war?
+It's like they're daring us to
+scare the shit out of them...
+PENTECOST
+They're asking for cause to hope.
+TAKADA
+I don't have it... We all know it's
+a siege. What can I say they don't
+already know? We call the enemy the
+Precursors... I may as well tell
+the world the gods want us dead.
+PENTECOST
+Maybe we should level with them.
+TAKADA
+It was two tonight. What happens
+when it's three? -- or four?
+106.
+CONTINUED:
+(MORE)
+(CONTINUED)-- every forty-eight hours? How
+long could we fight that fight?
+He turns to Pentecost who lowers his eyes; he has no answer.
+TAKADA (CONT’D)
+Combined Special Defense Corps...
+It's always defense. We're always
+defending. It's their game to win.
+Does the world want to hear that?
+He takes a couple of stimulants with a swig of his drink.
+PENTECOST
+It's been a long night, sir. I
+wouldn't lose any sleep to cable
+news. We all need the rest.
+TAKADA
+Sleep isn't rest, Stacker. Not with
+nightmares like mine...
+EXT. MINATO MIRAI -- DAY
+The previous night's combat zone, strewn with mountains of
+bloodied rubble. Convoys of heavy COSDEC trucks collect the
+shattered pieces of kaiju Fulcrum.
+Up the street, swarms of flies revel on the cross-sectioned
+carcass of kaiju Komodo, bisected and laid open like a
+colossal anatomical diagram.
+CREWS in hazmat suits hose the body with riot foam, billowing
+to envelop the carcass in clouds of rock.
+MAKO'S POV -- THROUGH BINOCULARS
+We watch squads of Jumphawks hoist the foam-encased carcass.
+MAKO (O.S.)
+Jesus. They need seven V-50's just
+to get that thing off the ground...
+EXT. THE GREEN -- CONTINUOUS
+Mako and Raleigh sit on a knoll overlooking Tokyo Bay.
+RALEIGH
+Two category fives...
+She passes him the binoculars, and spots a GUIDE leading a
+group of TOURISTS down the footpath. She turns quickly away.
+MAKO
+Tour group.
+107.
+CONTINUED: TAKADA (CONT'D)
+(CONTINUED)RALEIGH
+They spotted us?
+MAKO
+Not yet.
+She glances over her shoulder as the group wanders by,
+shedding a straggler Mako recognizes from Raleigh's drifts.
+MAKO (CONT’D)
+Raleigh...
+He turns to see Flick, holding a nervous distance of several
+paces. Newt lingers behind her. Raleigh's eyes ask the
+obvious -- "Have you found it?" Flick nods.
+PENTECOST (PRE-LAP)
+Is this how you think it happens?
+INT. LOCCENT GALLERY -- LATER
+His arms crossed, Pentecost leans on the rail by the windows
+overlooking the control room, considering Raleigh's news.
+PENTECOST
+Some clod waltz's up to the front
+desk and gets five minutes with the
+Supreme Commander?
+RALEIGH
+He's a physicist from the Calixto
+Particle Observatory...
+PENTECOST
+We've got experts on the payroll.
+RALEIGH
+Fine. If they've got a plan,
+there's no reason to talk to him.
+But if they're at wit's end, why
+not bring some fresh wits into it?
+Pentecost eyes Raleigh, recognizing a good point.
+RALEIGH (CONT’D)
+It's not some clod. This is a
+scientist telling us he's got it.
+How often does that happen?
+INT. BRIEFING ROOM -- NIGHT
+In the seats, the ranking officers on-site: Mako, Raleigh,
+Duc, Kaori, Pentecost, and Takada -- and COSDEC civilian
+leaders: Secretary Lethbridge and Undersecretary Jiao.
+Newt stands at the front, manipulating a projection of the
+Interstice's internal structure.
+108.
+CONTINUED:
+(CONTINUED)NEWT
+The throat of the Interstice. This
+is a three-dimensional analogue of
+a hyper-dimensional structure that
+exists outside conventional
+spacetime. I've done the math and --
+TAKADA
+Doctor Gotlieb, you say you know
+how to close the Interstice. Let's
+start there...
+NEWT
+The Interstice is gradually
+stabilizing. That’s why it’s been
+able to accommodate more kaiju. And
+it’s how we can collapse it.
+LETHEBRIDGE
+You just said it was stabilizing.
+NEWT
+I did. That’s its weakness.
+(no one gets it)
+Think of it like this: you can’t
+break water, but you can break ice.
+He gestures to the projection -- the funnel-shaped internal
+structure of Interstice whips and flows erratically.
+NEWT (CONT’D)
+It’s always had a chokepoint, the
+shape was just too fluid to ever
+isolate it, but --
+He tweaks some dials and the motion slows down. It undulates
+sluggishly, settling on a comfortable shape.
+NEWT (CONT’D)
+-- as the structure “solidifies,”
+the chokepoint slows down, comes
+into sharper focus...
+He points out the narrow bottleneck in the throat, suddenly
+become plain as day. Takada leans forward.
+TAKADA
+You’re saying --
+NEWT
+The Interstice is more vulnerable
+now than it’s ever been.
+He touches the chokepoint and the projection collapses.
+109.
+CONTINUED:
+(CONTINUED)TAKADA
+I'm guessing that's something
+bigger than a standard ordinance.
+NEWT
+Much bigger. Probably nuclear.
+DUC
+It was that easy? We just chuck an
+a-bomb down the chute?
+NEWT
+It's not easy. See -- time in the
+Anteverse is different from ours. A
+year to us might be just an hour to
+them. So there's no objective time
+within the Interstice. Which rules
+out any remote detonation. Our
+timeframe wouldn't agree with the
+bomb's timeframe. Whatever it is,
+it has to be triggered on site --
+by a live, subjective observer.
+Commander Takada looks skeptical.
+TAKADA
+If I'm going to have someone riding
+a bomb into the Interstice, I'd
+like to be certain it will work...
+NEWT
+Run my math by Sci-Division. I
+promise it will hold up.
+LETHBRIDGE
+It doesn't matter. There can't be a
+bomb. We're past peak uranium...
+JIAO
+He's right. The mines have all but
+dried up. We have no single source
+that could provide enough material.
+Raleigh speaks up from the back.
+RALEIGH
+Yes we do. The Mark-1's. That's
+what we did with the last of the
+uranium. We used it to power the
+first Jaegers. Like Gipsy Danger...
+110.
+CONTINUED: (2)INT. CORRIDOR -- MOMENTS LATER
+At the end of the hall, Raleigh and Mako face one another,
+holding hands. Raleigh speaks; Mako nods; we don't hear the
+conversation. We're with Pentecost and Takada, watching.
+PENTECOST
+You can't order them to do this...
+They've both lost so much. They
+were broken when I got them --
+broken and scattered into the wind.
+I didn't even think it was
+possible, but by god, they are
+putting themselves back together.
+You cannot make them to do this...
+TAKADA
+You think I want to? We have here a
+chance to end this.
+PENTECOST
+We may be indulging an artificial
+sense of urgency here. What if it
+is just a random spike in attacks.
+TAKADA
+It's not.
+PENTECOST
+We don’t know who this Kincaid
+woman is. How do we know the
+Anteverse she saw is real?
+TAKADA
+It is. I was the project C/O at
+Midway when Czerny found a way to
+see through it.
+PENTECOST
+I heard you tell the Secretariat
+Czerny’s work was nonsense.
+TAKADA
+It’s not. I saw it, Stacker. I saw
+it myself. And I shut him down.
+Because I knew the things he could
+show us would break our will...
+They are coming for us.
+PENTECOST
+It didn’t break you, sir.
+TAKADA
+I’m a fighter, Stacker. I don’t
+know how to be anything else.
+111.
+(CONTINUED)Down the hall, Raleigh and Mako cling together as they exit.
+PENTECOST
+You can't order them to do this...
+TAKADA
+I won't order them... But as the
+only active Mark-1 crew, they know
+they're first on the list. And I
+won't stop them if they accept.
+INT. SHATTERDOME -- NIGHT
+Quiet, empty. The two Jaegers standing in the moonlight.
+On top of Gipsy Danger, we find Raleigh and Mako lying side
+by side, looking up at the crescent moon and universe of
+stars beyond the dome's open roof.
+MAKO
+I've never been someone to think
+about the future. Not since Osaka.
+It always seemed like I died there.
+(beat)
+There's so much we haven't seen. I
+wanted you to show me the Big Sur.
+The fog and the cliffs.
+RALEIGH
+Ryuzu Falls in autumn...
+MAKO
+Oh, the leaves... They're so red. I
+can't even tell you.
+RALEIGH
+I've seen it in your memory.
+MAKO
+Just weeks ago I wouldn't have
+cared to leave it all behind.
+RALEIGH
+It doesn't have to be us.
+MAKO
+It has to be someone who loves the
+world enough to want to be in it. I
+can't make someone else --
+She turns to face Raleigh, tears in her eyes.
+MAKO (CONT’D)
+I think it does have to be us...
+What do you think?
+Raleigh dwells on it.
+112.
+CONTINUED:
+(CONTINUED)RALEIGH
+I think when you create a universe,
+you never imagine the people who
+live there are gonna rise up and
+slam the door on your ass.
+He turns and smiles; she smiles back -- an accord.
+TIME LAPSE: The night passes over the two Jaegers. The sky
+brightens. Technicians and equipment dart about the floor.
+The sun pours light into the now bustling launch bay.
+Amidst the hustling Techs preparing the Jaeger, we meet Newt
+on the floor standing in front of Gipsy Danger with
+schematics in his hands. Tendo looks over his shoulder.
+NEWT
+You bypassed all the safeties? It
+needs to go prompt critical.
+TENDO
+Trust me. She's a bomb.
+NEWT
+(on the schematics)
+What's this?
+TENDO
+The crew wanted to cross their
+eject switches...
+NEWT
+His ejects hers; vice versa?
+Tendo nods. A human detail, it brings it home for Newt.
+NEWT (CONT’D)
+Jesus...
+INT. CHANGEROOM -- DAY
+Mako pulls on her drivesuit and turns for Raleigh to zip her
+up. He plants a kiss on the nape of her neck, before slowly
+pulling the zipper up. No kaiju; no rush.
+RALEIGH
+Do you think we'd have happened if
+we'd met any other way?
+MAKO
+I don't, actually.
+Raleigh pulls the torso of his drivesuit up to thread his
+arms through the sleeves. Mako zips him up.
+MAKO (CONT’D)
+Not every miracle happens --
+113.
+CONTINUED:
+(CONTINUED)RALEIGH
+-- A lot of 'em have to be built.
+He turns. They face each other. For a long moment, neither
+says anything -- just quiet, bittersweet smiles.
+RALEIGH (CONT’D)
+You ready to save the world?
+INT. SHATTERDOME -- DAY
+Everyone on the floor watches as Raleigh and Mako cross
+towards Gypsy Danger, helmets tucked under their arms.
+They spot their sister crew, Duc and Kaori, watching from the
+mezzanine level. They salute one another.
+FLICK
+Raleigh!
+He turns and sees her running across the floor. He nods at
+Mako and she gives them some space. But now that Flick has
+his attention, she doesn't know what to say.
+RALEIGH
+When you asked me if you hadn't
+gotten with Yance --
+FLICK
+You don't have to --
+RALEIGH
+I did all I could. It just wasn't
+enough. I hated that it wasn't
+enough. What I said at the bar --
+She nods. She's had it all sorted out.
+FLICK
+Is this -- Are we saying goodbye?
+RALEIGH
+The plan is to eject at the last
+second.
+FLICK
+So you're coming back?
+He can't look her in the eye. Finally, an uncertain frown.
+FLICK (CONT’D)
+It doesn't have to be you...
+RALEIGH
+It has to be someone...
+114.
+CONTINUED:
+(CONTINUED)She hugs him, holding tight -- the goodbye she never got to
+give his brother.
+FLICK
+You give em hell, Raleigh. You show
+em what we're made of.
+They let go and Raleigh walks the home stretch to join Mako
+and Pentecost at the pods. Pentecost keeps his emotions
+bottled in with last minute formalities.
+PENTECOST
+You'll have a live map on your HUD.
+It'll take a moment for the core to
+go critical so you'll be prompted
+to trigger it just before the
+chokepoint. That'll give you about
+a second to eject...
+RALEIGH
+Tendo crossed the pods?
+PENTECOST
+Just like you asked.
+He grips their shoulders in either hand, and looks between
+the two of them. There's really nothing to say.
+They both nod. He pats them and steps back as they climb into
+their conn-pods.
+By now, everyone has stopped what they were doing. Across the
+floor, all eyes fall on Mako and Raleigh.
+As the loading arms raise the conn-pods, Mako and Raleigh
+look down from their open canopies.
+Everyone on the floor stands at silent attention. Pentecost
+shouts, and they all salute at once.
+Raleigh and Mako savor the poignant moment for as long as
+they can bear. Then they buckle their helmets and shut the
+canopies -- It's game time.
+TAKADA (PRE-LAP)
+Yes, Gipsy Danger has been
+deployed. We are not under attack.
+We are the attackers. To clarify --
+INT. PRESS ROOM -- NIGHT
+Takada stands at the front. A glut of REPORTERS and
+PHOTOGRAPHERS crowd the room, raising their hands and
+shouting at once. The Commander silences them.
+115.
+CONTINUED:
+(CONTINUED)TAKADA
+A Jaeger will be dropped into the
+Interstice. Whereupon the crew will
+detonate its power core and
+collapse the anomaly.
+Flashes POP as a flurry of cries rises up. Takada points.
+REPORTER 1
+Is this a suicide mission?
+TAKADA
+It's risky. Let's leave it at that.
+REPORTER 2
+Your tone suggests COSDEC is ready
+to admit we're at war...
+INT. LOCCENT -- CONTINUOUS
+The conference plays on the main screen. Pentecost folds his
+arms and nods. Flick and Newt watch from the back.
+TAKADA (FILTERED)
+We were at war. It ends tonight.
+INT. RESEARCH OFFICE -- CONTINUOUS
+Newt's colleague, Doctor Toynbee watches on a tiny screen at
+Calixto Particle Observatory.
+REPORTER 3 (FILTERED)
+COSDEC believes the success of this
+operation will end the attacks?
+TAKADA (FILTERED)
+We all believe it.
+EXT. SHIBUYA CROSSING -- CONTINUOUS
+The conference plays on a big LED screen over the bustling
+Tokyo intersection. PEDESTRIANS stop on the sidewalk.
+TAKADA (FILTERED)
+I believe today, not Osaka all
+those years ago -- today will be
+the day you tell stories about.
+INT. JAEGER-MEISTER'S BAR -- CONTINUOUS
+All the ENLISTED PATRONS in the run-down bar watch. Pico the
+bartender pauses in the middle of washing a glass.
+TAKADA (FILTERED)
+Because you will see two bone-weary
+understudies in a ragged old mech --
+save the world.
+116.
+CONTINUED:INT. SHATTERDOME -- CONTINUOUS
+All the Techs on the floor watch on the giant screen.
+TAKADA (FILTERED)
+Spread the word. Today, we are
+kicking the monsters out. Today...
+EXT. PACIFIC OCEAN -- DAY
+The reddening sun sinks towards the sea. The V-50 Jumphawks
+carry Gipsy Danger over the wide water.
+TAKADA (FILTERED)
+We are canceling the apocalypse.
+INT. LOCCENT -- CONTINUOUS
+On the main screen, we see footage from the V-50's trained on
+the Jaeger at the end of their cables, and a map displaying
+their position in relation to the Interstice.
+Flick stands to the side, biting her nails. Newt joins her.
+NEWT
+They crossed their eject triggers.
+FLICK
+What does that mean?
+NEWT
+Either would save the other sooner
+than leave them behind. They've got
+like a second to hit the eject.
+This way, they won't hesitate.
+The SERGEANT-AT-ARMS announces the Commander's entrance. The
+whole room rises in applause. Takada motions them to quiet.
+TAKADA
+ETA?
+OFFICER 1
+Two hours six minutes to drop zone.
+A second Officer puts down a radio to get Takada's attention.
+OFFICER 2
+Commander... It's Midway.
+TAKADA
+An attack?
+OFFICER 2
+Multiple hostiles...
+117.
+(CONTINUED)TAKADA
+Overlay.
+A red blip pops up on the map; followed by another; and
+another... A cloud of red dots forms around the Interstice --
+literally dozens of kaiju spreading out from the epicenter.
+NEWT
+We're scaring them.
+TAKADA
+Alert all Strike Groups! Mobilize
+all Jaegers!
+MONTAGE -- MOBILIZING THE JAEGERS
+-- The dense towers and steep, foggy hills of Hong Kong. V-
+50s carry the city's two Jaegers in.
+-- The Sydney Opera House and the Sydney Harbor Bridge rise
+in the background. Dust stirs in the immediate foreground as
+a squad of Jumphawks lower Sydney's Jaeger into view.
+-- Night on the Golden Gate Bridge. Cars stop. ONLOOKERS run
+to the rail, pointing. They cheer and applaud as the V-50s
+fly San Francisco's Jaeger over the Bridge.
+-- One of LA's Jaegers stands on Venice Beach, her lights
+blazing over the night-cloaked sea. In the distance, her
+sister Jaeger stands near the Santa Monica Pier. Both wait.
+EXT. PACIFIC OCEAN -- DAY
+The Jumphawks hoist Gipsy Danger through the crisp blue sky,
+nothing but the wide sea beneath them.
+DISPATCH (FILTERED)
+Thirty minutes to drop.
+Suddenly, a huge WORMLIKE KAIJU breaches, rearing high to
+SNAP his crocodilian jaws at Gipsy Danger.
+The Jumphawks evade as gravity pulls the monster back down.
+He SLAMS back into the water throwing up plumes of water.
+Gipsy Danger sways on her cables as the Jumphawks clumsily
+regain control of her weight.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+The ocean sways on Raleigh's HUD. He watches the huge shape
+surge away, just under the water.
+RALEIGH
+Whoa! Mako, did you see that?
+118.
+CONTINUED:
+(CONTINUED)DISPATCH (FILTERED)
+You're passing a wave of heightened
+KJ activity. Should be a clear shot
+to the site from here.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Mako tries to keep her cool.
+MAKO
+They can handle it...
+EXT. ODAIBA -- NIGHT
+Tacit Ronin stands amidst the modern skyline of the newly
+developed district. The inverted pyramids of Big Sight. The
+Fuji TV building. Newer, even more idiosyncratic structures.
+We can see the now-familiar buildings of the Shatterdome
+complex in the middle distance, just across the water.
+An angry thunderhead blackens the sky over the bay, lurking
+closer every second. The Jaeger stands as pristine and still
+as a building. The wind tosses litter past her feet.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+DISPATCH (FILTERED)
+Meiji-1... We've got three category-
+5 KJ entering Tokyo Bay.
+A long pause. Duc isn't sure he heard right.
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+Kaori looks equally stunned.
+DUC (FILTERED)
+Meiji-1 to LOCCENT, say again.
+DISPATCH (FILTERED)
+Three category-5 hostiles
+inbound... Reporting names --
+Scunner, Pharaoh, and Tengu...
+Silence. Everyone is speechless.
+INT. LOCCENT -- CONTINUOUS
+On the map, Gipsy Danger's blip has reached the Interstice.
+OFFICER 1
+Gipsy Danger is at the drop site.
+119.
+CONTINUED:EXT. PACIFIC OCEAN -- DAY
+The Jumphawks release their cables, dropping the Jaeger.
+Gipsy Danger falls.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+The free-fall lifts Mako against her harness.
+EXT. UNDERSEA -- CONTINUOUS
+Gipsy Danger CRASHES through the surface. She drifts down.
+The blue, sunlit water around her darkens as she sinks.
+EXT. ODAIBA -- CONTINUOUS
+Tacit Ronin waits. Lightning. THUNDER. The rain begins to
+fall in wind-blown torrents.
+They rise from the storm-darkened tide one by one, less than
+a mile between, climbing ashore to surround the Jaeger.
+Kaiju TENGU -- A horrific skein of dozens of viper heads on
+long sinuous necks erupting from a body like a naked bat.
+PHARAOH -- Something between a scarab and a bull, with
+vicious mandibles and long horns like a rhino beetle.
+SCUNNER -- Beige-hued skin lends it a disturbingly human
+look; but grotesquely misshapen, joints bulging and twisted.
+A skull-like face, jaws over-crowded with jagged teeth.
+The raging wind throws the sea off their towering bodies in
+fine, misty clouds.
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+Kaori's daunted eyes flit from one to the next.
+DUC (FILTERED)
+Alright... We're all there is
+between three cat-5's and a city of
+twenty million people.
+KAORI
+Let's put up a fight.
+INT. LOCCENT -- CONTINUOUS
+Takada eyes the kaiju on the screen, morbidly astonished.
+TAKADA
+Gipsy Danger?
+OFFICER 1
+Six hundred meters...
+120.EXT. THE INTERSTICE -- CONTINUOUS
+A gap, not in the ocean floor, but in space, just above the
+ocean floor. A yawning wound in reality, bleeding crimson and
+electric violet light into the blackness of the deep.
+In the shafts of otherworldly light and meandering arcs of
+coronal plasma, we see Gipsy Danger drifting ever down
+towards the opening, small as a moat of dust.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+The blazing rupture swells across the wraparound HUD, filling
+the dim conn-pod with unearthly light. We hear it HOWLING
+outside. Raleigh's face betrays a mounting dread.
+EXT. ODAIBA -- DAY
+Kaiju Pharaoh slams into Tacit Ronin, but the Jaeger manages
+to hold her ground. Monsoonal sheets of rain slash the
+combatants. Lightning CRACKS the sky.
+Pharaoh bears down with slavering mandibles, Tacit Ronin
+strains to hold him at bay.
+Buildings collapse as their struggle careens through Odaiba,
+as Tengu and Scunner slowly converge on the sloppy fray.
+Finally, Tacit Ronin gets the advantage long enough to throw
+Pharaoh back. The Jaeger deploys her continuous-wave laser.
+She lights the beam and sweeps it to slice Pharaoh right
+across the middle. A moment of stillness.
+Pharaoh's torso slides off his legs along the neat, diagonal
+cut. The halved kaiju THUNDERS to the ground, dead.
+Behind the body, the tops of the high-rises slip loose,
+revealing the same hairline vector that cleaved the kaiju --
+the laser had cut through the beast to the skyline behind it.
+INT. LOCCENT -- CONTINUOUS
+The kaiju's fall and collapsing buildings are close enough to
+SHUDDER the floor. The room chatters with urgency.
+Breathless, Flick stares at the main screen where a blip
+falls through the digital map of the Interstice's throat.
+EXT. THE THROAT -- CONTINUOUS
+The Jaeger falls through the twisting vortex like a sky
+diver. Curling eddies of plasma stream by. The unworldly HOWL
+of the Interstice surrounds them.
+121.INT. CONN-POD ROMA-2 -- CONTINUOUS
+On her HUD map, Mako spots a bogey rising to intercept.
+MAKO
+Raleigh! Incoming!
+EXT. THE THROAT -- CONTINUOUS
+A solid shape "falling" in the opposite direction COLLIDES
+with Gipsy Danger, a feral KAIJU.
+INT. CONN-POD ROMA-1 -- CONTINUOUS
+Raleigh bares his teeth, jumping into his fight response.
+EXT. THE THROAT -- CONTINUOUS
+The mech and monster cling to one another, spinning
+chaotically as they both fall. The Kaiju claws at the Jaeger.
+Gipsy Danger slugs the beast repeatedly.
+The mech grabs the beast's head and twists, SNAPPING its
+neck. It falls away -- and two additional Kaiju hurtle up
+from the depths to pile into the free-falling Jaeger.
+EXT. ODAIBA -- DAY
+Tacit Ronin throws a punch at kaiju Scunner.
+Scunner catches the strike in his mighty claws and squeezes.
+The Jaeger strains against him, but Scunner is too strong.
+He CRUMPLES the mech's fist and RIPS it off the Jaeger's arm,
+leaving a stump of frayed cables and twisted metal.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Duc screams in pain from the sensory feedback.
+EXT. ODAIBA -- CONTINUOUS
+The Jaeger quickly sprays gobs of riot foam at the kaiju's
+hands. The foam bulges and quickly hardens, cementing the
+kaiju's arm to the ground in a petrified cumulous cloud.
+Scunner ROARS, yanking to free himself. Before Tacit Ronin
+can engage the trapped monster, kaiju Tengu is upon her.
+Tengu's multitude of heads whip and strike at staggered
+intervals -- SNAP SNAP SNAP -- each hit sinking fangs into
+the Jaeger's armor. An overwhelming blitz.
+122.INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Tengu's fanged heads dominate the IMAX-scale vista. Duc
+watches the storm of HISSING jaws coming right at us on the
+HUD in endless succession.
+DUC
+Flash freeze!
+KAORI (FILTERED)
+And empty our coolant?
+DUC
+We can't defend against this!
+EXT. ODAIBA -- CONTINUOUS
+As Scunner pulls at the knot of rock cementing his arm to the
+ground, Tacit Ronin turns her coolant hose on Tengu.
+Tengu vanishes in a cloud of icy vapor as Tacit Ronin empties
+her coolant reservoirs.
+The vapor clears, leaving Tengu's frosted husk. Tacit Ronin
+starts to turn back to Scunner.
+The remaining kaiju pulls and the hardened foam starts to
+crack. Finally, it BREAKS off from the ground.
+With most of the tumor of rock still encasing his arm, he
+swings it like a club and SMASHES it against Tacit Ronin's
+torso, a devastating blow that shatters the hardened foam.
+Tacit Ronin teeters and falls on her back.
+Scunner climbs atop the fallen Jaeger and lifts his fists
+high into the air.
+Like a crazed chimp, he SLAMS his long arms down.
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+The hit BUCKS the pod, knocking the wind out of Kaori and
+kicking off a cacophony of ALARMS.
+Looking up at the kaiju as he raises his arms for another
+blow, Kaori fights to catch her breath.
+KAORI
+Structural integrity compromised!
+EXT. ODAIBA -- CONTINUOUS
+Scunner plunges his arms straight down with a primal burst of
+strength, SLAMMING his fists down into Tacit Ronin's abdomen.
+123.INT. CONN-POD MEIJI-2 -- SAME
+A split second -- the pod JOLTS hard, like a high speed car
+crash, flinging Kaori against her harness; the HUD crashes to
+static and plunges to black.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Duc feels Kaori's sudden absence from his mind.
+DUC
+Kaori? Kaori, come in!
+Nothing. No ambient drifting voices. Just silence.
+INT. LOCCENT -- CONTINUOUS
+The room THUNDERS with each of Scunner's strikes. The lights
+flicker. Static skitters across the main screen. Plaster bits
+fall from the ceiling. Chaos grips the room.
+PENTECOST
+Did we lose Kaori -- ?
+Flick remains tuned out to the chaos, focused on Gipsy
+Danger's falling blip.
+EXT. THE THROAT -- CONTINUOUS
+Gipsy Danger falls deeper into the anomaly, wrestling her
+Kaiju attackers all the way down.
+Space seems to distort -- as if viewed through a hyper-
+exaggerated fish-eye lens. The focal distance shifts. Even
+the grain seems different.
+We are falling through the transition between the conflicting
+physics of two universes.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Mako winces as she struggles against the Kaijus.
+MAKO
+There's too many!
+RALEIGH (FILTERED)
+Mako...
+MAKO
+They're going to tear us apart!
+INT. DOJO TRAINING HALL -- NIGHT (DRIFT)
+Mako stands in the dark hall with her sparring stick. Wild-
+eyed and dripping with sweat, she fights an endless host of
+face-less, black-clad ENEMIES closing in on her.
+124.
+(CONTINUED)MAKO
+We can't fight them!
+A hand catches her stick. She whirls about to find Raleigh.
+The Enemies are gone. It's just the two of them.
+RALEIGH
+We don't have to. We're close now.
+MUSIC starts to spill from the turntable.
+RALEIGH (CONT’D)
+All we have to do is fall.
+A calmness settles over her as they start to dance.
+EXT. ODAIBA -- DAY (PRESENT)
+Scunner raises his fist high over the Tacit Ronin -- and
+SLAMS them down again.
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Trying in vain to raise Kaori, Duc starts to shut down.
+DUC
+Kaori... Please. Come in.
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+The darkened conn-pod jolts with each blow, but inside we
+find Kaori bloodied but still alive.
+She desperately fumbling to get her Pons cable plugged back
+into the port behind her ear. It must have come out.
+The moment she does, the HUD comes back to life.
+KAORI
+I'm here! I'm okay!
+INT. CONN-POD MEIJI-1 -- CONTINUOUS
+Duc laughs with relief to hear her voice and thoughts. Tears
+spill from his eyes. A calm strength falls over him.
+DUC
+Let's finish this...
+EXT. ODAIBA -- CONTINUOUS
+Scunner raises his fists for another strike, but never makes
+the down-stroke.
+With her one good hand, Tacit Ronin grabs Scunner's throat.
+She sinks the jagged metal stub into the kaiju's gut.
+125.
+CONTINUED:
+(CONTINUED)And slowly she rises, gradually lifting the kaiju up --
+raising the creature's body over her head.
+The wind and rain lash her. A flash of lightning. A CRACK of
+thunder. For a moment she holds the hulk of flesh.
+We hear her frame GROANING under the beast's weight, but
+before it can give way, she throws the monster.
+He smashes through Tengu's frozen body and hits a building.
+Tacit Ronin's pulse cannon rises from her back to its
+shoulder-mounted firing position.
+Scunner pulls himself up from the rubble.
+INT. CONN-POD MEIJI-2 -- CONTINUOUS
+DUC (FILTERED)
+Do you have the shot?
+The targeting pipper locks onto Scunner's head.
+KAORI
+I do...
+DUC (FILTERED)
+Take it.
+EXT. ODAIBA -- CONTINUOUS
+Scunner opens his jaws to roar --
+The cannon FIRES a pulse of charged plasma clean through his
+skull, cutting him off.
+INT. LOCCENT -- CONTINUOUS
+On the main screen, the Tacit Ronin feed shows Scunner fall
+in a flourish of dust. The room SHAKES. The lights flicker.
+All eyes turn silently to the blip falling through the
+Interstice, anxious to see if the last monster has fallen.
+EXT. THE THROAT -- CONTINUOUS
+The Jaeger falls, beset by monsters, chewing through her
+limbs, prying off her armor.
+She sheds battered parts and shreds of armor as she falls.
+Ripped cables whip and SPARK. She's being torn apart.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Hellish NOISE fills the cockpit. The baleful WAILING of the
+Interstice itself. The ROARS of the monsters outside. The
+TWISTING of metal. The various ALARMS.
+126.
+CONTINUED:
+(CONTINUED)Mako's eye stares, calm and unblinking, at the Interstice map
+on her HUD. She sees it, but her mind is elsewhere...
+INT. DOJO TRAINING HALL -- NIGHT (DRIFT)
+Empty, quiet, and peaceful. Raleigh and Mako dance on the
+hardwood floor. They hold one another, their eyes locked.
+RALEIGH
+I love you... You can feel it,
+can't you?
+INT. OSAKA PENTHOUSE -- NIGHT (DRIFT)
+The shattered windows come back together as the shock wave
+lifts Young Mako off the floor, and the roar retreats, going
+back into Trespasser's jaws.
+INT. DOJO TRAINING HALL -- NIGHT (DRIFT)
+Still dancing, she gives him a warm smile and he knows she
+feels it too. The hall seems to spin around them.
+EXT. SANTA MONICA PIER -- DUSK (DRIFT)
+Kaiju Tortuga pulls back from Coyote Tango. His charge
+rewinds back through the surf in slow motion.
+EXT. DOJO TRAINING HALL -- NIGHT (DRIFT)
+They dance with smiles of peace, gratitude, and resolve.
+MAKO
+Whatever happens. This was our
+choice...
+RALEIGH
+The right choice...
+MAKO
+For the world... It's time.
+They pull one another close and kiss.
+INT. CONN-POD ROMA-1 -- CONTINUOUS (PRESENT)
+The prompt RINGS. A holographic dial hangs in the air in
+front of the HUD.
+Half of his consciousness still in that final kiss, Raleigh
+reaches out to twist the dial and activate the self-destruct.
+INT. CONN-POD ROMA-2 -- CONTINUOUS
+Mako does the same -- twisting the holographic dial and
+quickly reaching out to touch the flashing EJECT hologram.
+127.
+CONTINUED:EXT. THE THROAT -- CONTINUOUS
+We see armor explode away for the emergency eject. We see the
+pods jettison --
+-- but a blinding flash of light overwhelms us before we can
+see if they've made it.
+An EXPLOSION so deep and thunderous, we almost can't hear it.
+EXT. PACIFIC OCEAN -- DAY
+Battleships wait on the surface. A FLASH briefly lights the
+depths, like underwater lighting.
+A moment later, the ocean surface bulges, a huge hill of
+displaced water, and drops, sending out over-sized ripples.
+The ships roll on the sloping waves.
+INT. LOCCENT -- DAY
+Takada, Pentecost, and all the control Officers watch the
+Interstice map on the main screen.
+Still rattled by the seismic shaking of the attack, hiccups
+of static briefly stutter the graphics on the screen. The
+fleeting POPS and HISSES are the only sound in the room.
+OFFICER 1
+Direct hit! The Interstice has
+collapsed! The Interstice has
+collapsed!
+Everyone is on their feet -- applauding, laughing, weeping,
+embracing -- before he finishes the sentence. Everyone except
+for Flick. Newt holds her as she waits with baited breath.
+TAKADA
+Do we have the pods?
+Everyone quiets down as the Officer listens.
+OFFICER 1
+Nothing yet... Standing by...
+EXT. BATTLESHIP -- CONTINUOUS
+CREWMEN gather at the edge of the deck, searching. Rescue
+helicopters draw wide circles in the sky overhead.
+INT. LOCCENT -- CONTINUOUS
+A short time has passed -- enough for the hope to begin to
+deflate. Personnel begin to take their seats. Some hang their
+heads. Pentecost furrows his brow and sighs.
+128.
+(CONTINUED)Flick keeps her lips tight, but we see her chest and throat
+quiver with bottled-up sobs. Her tears fall as Newt puts a
+reassuring hand on her shoulder.
+Suddenly, the Officer stands up.
+OFFICER 1
+Sir, I've got something... It's one
+of the pods!
+EXT. PACIFIC OCEAN -- CONTINUOUS
+Near the ships, a conn-pod breaches in a fit of salt spray.
+It rolls and finally settles. The canopy opens. Thick steam
+bleeds from the open pod. We can't see who it is.
+As the vapor quickly dissipate, we find Raleigh inside. He
+quickly unhooks himself and climbs out onto the pod.
+He shades his eyes and scans the horizon. He spots the rescue
+ships and keeps searching.
+He sees no sign of the second conn-pod.
+We slowly pull back across the water, back from the drifting
+pod and the ships behind it. It seems final.
+Suddenly, in the foreground, the second conn-pod heaves up
+through the surface and settles to bob on the water.
+Raleigh plunges into the water and swims for the second pod.
+He climbs on as the canopy opens, spilling plumes of steam
+into the clear ocean air. He tries to claw the steam away.
+Finally, he sees Mako tucked down in her cockpit, unbuckling
+her harness and yanking the cables from her drivesuit.
+She looks up and sees him. They laugh giddily, wiping tears
+from their eyes. She reaches up and lets him pull her out.
+They linger atop the floating pod, holding tight to one
+another, not daring to let go.
+We pull back, letting the blue ocean unfurl under us. The
+ships slowly approach the embracing pair. They never let go.
+129.
+CONTINUED:
