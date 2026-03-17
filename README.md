@@ -41,6 +41,8 @@ Training output:
 streamlit run streamlit_app.py
 ```
 
+If `models/movie_analyzer.joblib` is missing, the app will attempt to train it automatically on first run.
+
 ## 4. Predict using a synopsis file
 
 ```powershell

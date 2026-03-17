@@ -2,7 +2,9 @@ from __future__ import annotations
 
 from difflib import get_close_matches
 from pathlib import Path
-from typing import Any, Dict, List, Tuple
+import subprocess
+import sys
+from typing import Any, Dict, List, Optional, Tuple
 
 import joblib
 import plotly.graph_objects as go
@@ -88,19 +90,57 @@ def rating_color(rating: float) -> str:
     return "#ef4444"
 
 
-@st.cache_resource(show_spinner="Loading local model…")
-def load_local_artifact():
+def train_artifact_if_missing() -> Tuple[bool, Optional[str]]:
+    if MODEL_PATH.exists():
+        return True, None
+
+    project_root = Path(__file__).resolve().parent
+    command = [sys.executable, "movie_analyzer.py", "train", "--base-dir", "."]
+
+    try:
+        completed = subprocess.run(
+            command,
+            cwd=project_root,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except Exception as exc:
+        return False, f"Auto-training failed to start: {exc}"
+
+    if completed.returncode != 0:
+        stderr = (completed.stderr or "").strip()
+        stdout = (completed.stdout or "").strip()
+        details = stderr or stdout or "Unknown training error"
+        return False, f"Auto-training failed: {details}"
+
     if not MODEL_PATH.exists():
-        return None
-    return joblib.load(MODEL_PATH)
+        return False, "Auto-training completed but model file was not created."
+
+    return True, None
+
+
+@st.cache_resource(show_spinner="Loading local model…")
+def load_local_artifact() -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
+    ready, error_message = train_artifact_if_missing()
+    if not ready:
+        return None, error_message
+
+    try:
+        return joblib.load(MODEL_PATH), None
+    except Exception as exc:
+        return None, f"Failed to load model artifact: {exc}"
 
 
 def resolve_runtime() -> Dict[str, Any]:
-    artifact = load_local_artifact()
+    artifact, load_error = load_local_artifact()
     if artifact is None:
         return {
             "mode": "none",
-            "error": "Local model artifact not found. Run `python movie_analyzer.py train --base-dir .` first.",
+            "error": (
+                load_error
+                or "Local model artifact not found. Run `python movie_analyzer.py train --base-dir .` first."
+            ),
         }
 
     return {
