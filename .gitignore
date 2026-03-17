@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environment
 .venv/
+.streamlit/secrets.toml
 
 # Trained model binaries (too large for git; regenerate with: python movie_analyzer.py train)
 models/

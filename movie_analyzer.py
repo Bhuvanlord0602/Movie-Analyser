@@ -121,6 +121,41 @@ def read_text(file_path: Path, max_chars: int = 25000) -> str:
     return content[:max_chars]
 
 
+def relativize_path(path_value: str, base_dir: Path) -> str:
+    if not path_value:
+        return ""
+
+    path = Path(path_value)
+    if not path.is_absolute():
+        return str(path)
+
+    try:
+        return str(path.resolve().relative_to(base_dir.resolve()))
+    except ValueError:
+        return str(path)
+
+
+def resolve_saved_path(path_value: str, base_dir: Optional[Path] = None) -> Path:
+    path = Path(path_value)
+    if path.is_absolute() or base_dir is None:
+        return path
+    return (base_dir / path).resolve()
+
+
+def get_known_movie_text(
+    artifact: Dict[str, Any],
+    movie_title: str,
+    base_dir: Optional[Path] = None,
+    max_chars: int = 40000,
+) -> str:
+    wanted = normalize_key(movie_title)
+    for title, path in zip(artifact["movies"], artifact["script_paths"]):
+        if normalize_key(title) == wanted and path:
+            return read_text(resolve_saved_path(path, base_dir), max_chars=max_chars)
+
+    raise ValueError(f"No linked synopsis text found for movie title: {movie_title}")
+
+
 def merge_unique_lists(values: Iterable[List[str]]) -> List[str]:
     output: List[str] = []
     seen = set()
@@ -346,6 +381,15 @@ def run_prediction(
     sentiment_classes = artifact["sentiment_model"].classes_
     good_bad_classes = artifact["good_bad_model"].classes_
 
+    all_genre_probabilities = sorted(
+        [
+            {"genre": genre, "probability": round(float(probability), 4)}
+            for genre, probability in zip(artifact["mlb"].classes_, genre_probabilities.tolist())
+        ],
+        key=lambda item: item["probability"],
+        reverse=True,
+    )
+
     sentiment_index = int(np.argmax(sentiment_prob))
     good_index = list(good_bad_classes).index("good") if "good" in good_bad_classes else int(np.argmax(good_bad_prob))
 
@@ -354,6 +398,7 @@ def run_prediction(
     return {
         "movie": movie_title or "Unknown Movie",
         "predicted_genres": top_genres(artifact["mlb"], genre_probabilities, genre_threshold, top_k_genres),
+        "all_genre_probabilities": all_genre_probabilities,
         "predicted_sentiment": {
             "label": str(sentiment_classes[sentiment_index]),
             "confidence": round(float(sentiment_prob[sentiment_index]), 4),
@@ -386,6 +431,7 @@ def train_command(args: argparse.Namespace) -> None:
         prepared_path = (base_dir / prepared_path).resolve()
 
     df = load_and_prepare_data(csv_path, scripts_dir)
+    df["script_path"] = df["script_path"].apply(lambda value: relativize_path(value, base_dir))
     artifact = train_models(df)
 
     model_path.parent.mkdir(parents=True, exist_ok=True)
@@ -438,10 +484,12 @@ def read_prediction_text(args: argparse.Namespace, artifact: Dict[str, Any]) -> 
         return read_text(text_file, max_chars=40000)
 
     if args.movie_title:
-        wanted = normalize_key(args.movie_title)
-        for title, path in zip(artifact["movies"], artifact["script_paths"]):
-            if normalize_key(title) == wanted and path:
-                return read_text(Path(path), max_chars=40000)
+        return get_known_movie_text(
+            artifact,
+            args.movie_title,
+            base_dir=Path(args.base_dir).resolve(),
+            max_chars=40000,
+        )
 
     raise ValueError("Provide --text, --text-file, or a known --movie-title with available synopsis text.")
 
