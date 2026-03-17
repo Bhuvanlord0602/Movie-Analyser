@@ -5,12 +5,11 @@ from difflib import get_close_matches
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
-import joblib
 import plotly.graph_objects as go
 import requests
 import streamlit as st
 
-from movie_analyzer import get_known_movie_text, run_prediction
+from movie_analyzer import get_known_movie_text, load_model_artifact, run_prediction
 
 
 st.set_page_config(
@@ -20,7 +19,11 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-MODEL_PATH = Path("models/movie_analyzer.joblib")
+MODEL_PATH_CANDIDATES = [
+    Path("models/movie_analyzer.h5"),
+    Path("models/movie_analyzer.pt"),
+    Path("models/movie_analyzer.joblib"),
+]
 REMOTE_TIMEOUT_SECONDS = 30
 
 SENTIMENT_COLOR = {
@@ -101,9 +104,13 @@ def get_secret(name: str, default: str = "") -> str:
 
 @st.cache_resource(show_spinner="Loading local model…")
 def load_local_artifact():
-    if not MODEL_PATH.exists():
-        return None
-    return joblib.load(MODEL_PATH)
+    for model_path in MODEL_PATH_CANDIDATES:
+        if model_path.exists():
+            return {
+                "artifact": load_model_artifact(model_path),
+                "model_path": str(model_path),
+            }
+    return None
 
 
 @st.cache_data(ttl=300, show_spinner=False)
@@ -139,8 +146,8 @@ def resolve_runtime() -> Dict[str, Any]:
         except Exception as exc:
             st.warning(f"Remote API unavailable, falling back to local model. Details: {exc}")
 
-    artifact = load_local_artifact()
-    if artifact is None:
+    local_runtime = load_local_artifact()
+    if local_runtime is None:
         return {
             "mode": "none",
             "error": "No remote API is configured and no local model artifact was found.",
@@ -148,8 +155,9 @@ def resolve_runtime() -> Dict[str, Any]:
 
     return {
         "mode": "local",
-        "artifact": artifact,
-        "titles": artifact["movies"],
+        "artifact": local_runtime["artifact"],
+        "model_path": local_runtime["model_path"],
+        "titles": local_runtime["artifact"]["movies"],
     }
 
 

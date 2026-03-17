@@ -32,8 +32,19 @@ python movie_analyzer.py train --base-dir "." --scripts-dir "Movie scripts/scirp
 ```
 
 Training output:
-- Saved model: `models/movie_analyzer.joblib`
+- Saved model (default): `models/movie_analyzer.h5`
 - Cleaned training rows: `models/prepared_training_data.csv`
+
+Optional model format:
+
+```powershell
+python movie_analyzer.py train --base-dir "." --model-out "models/movie_analyzer.pt"
+```
+
+`streamlit_app.py` and `api_server.py` automatically load in this priority:
+1. `models/movie_analyzer.h5`
+2. `models/movie_analyzer.pt`
+3. `models/movie_analyzer.joblib`
 
 ## 3. Run the Streamlit app locally
 

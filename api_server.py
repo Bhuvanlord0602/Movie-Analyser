@@ -5,14 +5,13 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Optional
 
-import joblib
 from fastapi import FastAPI, Header, HTTPException
 from pydantic import BaseModel, Field
 
-from movie_analyzer import get_known_movie_text, run_prediction
+from movie_analyzer import get_known_movie_text, load_model_artifact, run_prediction
 
 
-MODEL_PATH = Path(os.getenv("MODEL_PATH", "models/movie_analyzer.joblib"))
+MODEL_PATH = Path(os.getenv("MODEL_PATH", "models/movie_analyzer.h5"))
 MODEL_BASE_DIR = Path(os.getenv("MODEL_BASE_DIR", ".")).resolve()
 
 app = FastAPI(title="Movie Analyzer API", version="1.0.0")
@@ -50,7 +49,7 @@ def load_artifact():
         raise FileNotFoundError(
             f"Model artifact not found at {MODEL_PATH}. Run `python movie_analyzer.py train --base-dir .` first."
         )
-    return joblib.load(MODEL_PATH)
+    return load_model_artifact(MODEL_PATH)
 
 
 @app.get("/health")
